@@ -4,23 +4,23 @@ omnifactory.quest.line.0.desc=Gregtech LV時代: 工場の建築を始めまし�
 
 # line 1
 omnifactory.quest.line.1.title=ゲーム序盤
-omnifactory.quest.line.1.desc=Gregtech MV時代: 新たな機械と基本的な鉱石処理。%n%n有機化学で§6Plastics§rを生産し、§3Distillation Tower§rをを建築しましょう。%n%n§bApplied Energistics 2§rによる自動化。§bActually Additions§rの探求。
+omnifactory.quest.line.1.desc=Gregtech MV時代: 新たな機械と基本的な鉱石処理。%n%n有機化学で§6Plastics§rを生産し、§3Distillation Tower§rを建築しましょう。%n%n§bApplied Energistics 2§rによる自動化。§bActually Additions§rの探求。
 
 # line 2
 omnifactory.quest.line.2.title=ゲーム中盤
-omnifactory.quest.line.2.desc=Gregtech HV、EV、IV時代:%n%n§6§3Cryogenic Distillation§r, and petrochemistry for §6Epoxy§r and §9Cetane Diesel§r.%n%nCraft §6Nether Stars§r and unlock §bThermal Expansion§r machines.%n%nBuild a§b NuclearCraft§r fission reactor to obtain new materials.%n%nBuild a Space Station and Warp Core.
+omnifactory.quest.line.2.desc=Gregtech HV、EV、IV時代:%n%n§6§3Cryogenic Distillation§rと、§6Epoxy§rと§9Cetane Diesel§rのための石油化学。%n%n§6Nether Stars§rをクラフトして§bThermal Expansion§r機械をアンロックしましょう。%n%n§b NuclearCraft§rのFission Reactorを建築して新たな素材を入手しましょう。%n%nSpace StationとWarp Coreを建築しましょう。
 
 # line 3
-omnifactory.quest.line.3.title=Progression
-omnifactory.quest.line.3.desc=It's always rewarding to take a step forward.%n%nThis tab outlines the progression of various things in §5Omnifactory§r.%n%nCircuits are the primary measure of your progress.
+omnifactory.quest.line.3.title=進行度
+omnifactory.quest.line.3.desc=一歩踏み出すといつもやりがいを感じます。%n%nこのタブでは、§5Omnifactory§rの様々なクエストの進行のアウトラインを示しています。%n%nCircuitは進行度を測る良い指標です。
 
 # line 4
 omnifactory.quest.line.4.title=ゲーム終盤
-omnifactory.quest.line.4.desc=GregTech LuV, ZPM, and UV tiers:%n%nBuild §3Assembly Lines§r, §3Fusion Reactors§r, and more!%n%nAutomate in style with §bPackagedAuto§r. Climb the tiers of §6Micro Miners§r.%n%n§bDraconic Evolution§r for fusion crafting and energy storage.
+omnifactory.quest.line.4.desc=GregTech LuV、ZPM、UV時代:%n%n§3Assembly Lines§r、§3Fusion Reactors§rなどを建築しましょう。%n%n§bPackagedAuto§rのスタイルで自動化しましょう。§6Micro Miners§rのTierを登り詰めましょう。%n%n§bDraconic Evolution§rによるFusion Craftingとエネルギーストレージ。
 
 # line 5
 omnifactory.quest.line.5.title=エンドゲーム
-omnifactory.quest.line.5.desc=You're in the endgame now...%n%nHarvest entire microverses and unlock the §dCreative Portable Tank§r.%n%nPut your automation to the ultimate test as you progress towards the final goal: the §dCreative Vending Upgrade§r.
+omnifactory.quest.line.5.desc=あなたは今、エンドゲームにいます……%n%nHarvest entire microverses and unlock the §dCreative Portable Tank§r.%n%n最終的な目標である§dCreative Vending Upgrade§rに向かって進んでいく中で、自動化を最終段階にしてみましょう。
 
 # line 6
 omnifactory.quest.line.6.title=創世記
@@ -32,7 +32,7 @@ omnifactory.quest.line.7.desc=§bExtra Utilities§rと§bExtended Crafting§rへ
 
 # db 0
 omnifactory.quest.db.0.title=Quartzのチャージ
-omnifactory.quest.db.0.desc=このデバイスの一番の目的は§6Certus Quartz Crystal§rを§6Charged Certus Quartz Crystal§rに変換することです。%n%nこのデバイスはエネルギー導管を介したRFエネルギーか、ME導管・ケーブルを介したAEエネルギーで動作します。%n%n2つの面から動力を受け付けます。その2つの面とはどこでしょうか？　簡単に推測できるでしょう。%n%n%n%n%n%n%n%n%nOK、OK。上面と底面です。%n%n
+omnifactory.quest.db.0.desc=このデバイスの一番の目的は、§6Certus Quartz Crystal§rを§6Charged Certus Quartz Crystal§rに変換することです。%n%nこのデバイスは、エネルギー導管を介したRFエネルギーか、ME導管・ケーブルを介したAEエネルギーで動作します。%n%n2つの面から動力を受け付けます。その2つの面とはどこでしょうか？　簡単に推測できるでしょう。%n%n%n%n%n%n%n%n%nOK、OK。上面と底面です。%n%n
 
 # db 1
 omnifactory.quest.db.1.title=Crystal Growth Chamber
@@ -43,8 +43,8 @@ omnifactory.quest.db.2.title=Canning Machine and Assorted Stuff
 omnifactory.quest.db.2.desc=Note: this quest accepts both LV and MV Canning Machines.%n%n§aLV Batteries§r were very simple to make, but more effective forms of power storage will be more complex to build, so we'll need to lay the groundwork now.%n%nPut your §3Centrifuge§r to work for the §6Antimony§r you'll need, which comes in tiny piles from processing §6Tetrahedrite Ore§r and §6Stibnite Ore§r.%n%n
 
 # db 3
-omnifactory.quest.db.3.title=Genesis
-omnifactory.quest.db.3.desc=§5Omnifactory§fへようこそ！%n%nこのパックは§bLost Cities / Overworldディメンション§fでプレイされることを想定しています。%n%nフレンドと遊ぶ場合は、§eQuestbook Party§fに招待するのを忘れないように。%n%n§fスカイブロックのワールドに拠点を建築することをお望みの場合、§6Void World Cake§fを地面に設置し、一切れ分を食べるとVoidに送られます。採掘をする際にはLost Cities / Overworldディメンションに戻る必要がある点に注意してください。しかし、完璧に安全な§eVoid World§fで自由に建築することができます。
+omnifactory.quest.db.3.title=創世記
+omnifactory.quest.db.3.desc=§5Omnifactory§fへようこそ！%n%nこのパックは§bLost Cities / Overworldディメンション§fでプレイされることを想定しています。%n%nフレンドと遊ぶ場合は、§eQuestbook Party§fに招待するのを忘れないようにしてください。%n%n§fスカイブロックのワールドに拠点を建築したい場合、§6Void World Cake§fを地面に設置し、一切れ分を食べるとVoidに送られます。採掘をする際にはLost Cities / Overworldディメンションに戻る必要がある点に注意してください。しかし、§eVoid World§fでは安全で自由に建築することができます。
 
 # db 4
 omnifactory.quest.db.4.title=Ironの供給
@@ -52,7 +52,7 @@ omnifactory.quest.db.4.desc=§c§r§5Omnifactory§fにおける鉱石は、「§
 
 # db 5
 omnifactory.quest.db.5.title=Mining Hammers
-omnifactory.quest.db.5.desc=§aMining Hammers§rは、採掘をより素早く進めるための比較的安価なツールです。3x3範囲内のブロックを一度に素早く破壊することができるので、初めて得た金属インゴットの最初の用途として使うだけの価値があります§..%n%n§6Stone§f製のMining Hammerが最も安価ですが、その分すぐに壊れます。あなたはすでにいくつかの§6Iron§fを持っているわけですから、ぜひとも最初の採掘遠征の際に使ってみましょう。%n%n最良のMining Hammersは§6Diamond§fあるいは§6Platinum§f製のものです。他のMining Hammerも悪くないですが比較的消耗が早いです。%n%n§c§n決してMining HammerでGregTech機械を撤去しないように！§r%n%n
+omnifactory.quest.db.5.desc=§aMining Hammer§rは、採掘をより素早く進めるための比較的安価なツールです。3x3範囲内のブロックを一度に素早く破壊することができるので、初めて得た金属インゴットの最初の用途として使うだけの価値があります§..%n%n§6Stone§f製のMining Hammerが最も安価ですが、その分すぐに壊れます。あなたはすでにいくつかの§6Iron§fを持っているわけですから、ぜひとも最初の採掘遠征の際に使ってみましょう。%n%n最良のMining Hammersは§6Diamond§fあるいは§6Platinum§f製のものです。他のMining Hammerも悪くないですが比較的消耗が早いです。%n%n§c§n決してMining HammerでGregTech機械を撤去しないように！§r%n%n
 
 # db 6
 omnifactory.quest.db.6.title=いろいろな素材
@@ -68,7 +68,7 @@ omnifactory.quest.db.8.desc=§6Microcircuits§r 3個といくつかの基本的�
 
 # db 9
 omnifactory.quest.db.9.title=鉱石倍化？
-omnifactory.quest.db.9.desc=多くのエキスパートModパックでは、鉱石の倍化ができるようになるまでは鉱石の消費量を抑えたいという人が多いでしょう。これは多くの人がやりがちな習慣です。%n%n§eしかし、Omnifactoryではそのようなプレッシャーを感じる必要はありません§f。鉱脈に含まれる鉱石は膨大であり、§aMining Hammers§fがあるので採掘も極めて素早く行えます。加えて、いったん§3Macerators§fが得られたとしても、序盤は処理が遅く動力も必要とします。%n%n希少な鉱石や§dOmnicoins§fで購入した未発見の鉱石はその例外です。これらの鉱石は倍化が可能ならばその価値があるでしょう。%n%nしかし、少なくとも現時点では、よく使う鉱石を倍化させずに精錬してしまうことに罪悪感を感じる必要はありません！§eMV機械やそれ以降にアクセスできるようになるまで鉱石の倍化のことは忘れてしまってかまいません。§r
+omnifactory.quest.db.9.desc=多くのエキスパートModパックでは、鉱石の倍化ができるようになるまでは鉱石の消費量を抑えたいという人が多いでしょう。これは多くの人がやりがちな習慣です。%n%n§eしかし、Omnifactoryではそのようなプレッシャーを感じる必要はありません§f。鉱脈に含まれる鉱石は膨大であり、また§aMining Hammer§fがあるので採掘にかかる時間も極めて短いです。加えて、いったん§3Macerators§fが得られたとしても、序盤は処理が遅く、また動力を必要とします。%n%n希少な鉱石や§dOmnicoin§fで購入した未発見の鉱石は例外で、これらは倍化するに値するでしょう。%n%nしかし、少なくとも現時点では、よく使う鉱石を倍化しないまま精錬することに罪悪感を感じる必要はありません！§eMV機械以降にアクセスできるようになるまでは、鉱石の倍化のことは忘れてしまってかまいません。§r
 
 # db 10
 omnifactory.quest.db.10.title=Tier 2のMicro Miner
@@ -240,11 +240,11 @@ omnifactory.quest.db.51.desc=§3Inscriber§rは、§bApplied Energistics§rの§
 
 # db 52
 omnifactory.quest.db.52.title=LV Cluster Mill
-omnifactory.quest.db.52.desc=より作成が容易な回路にアクセスする前に、§6Foils§rが作成できるようにする必要があります。%n%nこれが§3Cluster Mill§rを作成する目的です。
+omnifactory.quest.db.52.desc=より作成が容易な回路にアクセスする前に、§6Foils§rを作成できるようにする必要があります。%n%nこれが§3Cluster Mill§rを作成する目的です。
 
 # db 53
 omnifactory.quest.db.53.title=LV Wiremill
-omnifactory.quest.db.53.desc=§3Wiremill§rがあれば、インゴット1個からこれまでよりもはるかに大量の§6Wire§rを作成することができ、これによって効率が大幅に上昇します。しかし、まず§6Motor§rをいくつか作成する必要があります。%n%n§bGregTech§rの機械は数多くのコンポーネントから構成され、その多くは機械間で共通です。Motor§rは他のコンポーネントを含む非常に多くのレシピで使用されます。%n%nMotorを作成するのに必要なレシピを§3Worktable§rに登録することをおすすめします。のちに大量に必要になるでしょう。%n%nWiremillを作成した後、LV Motorを§e数スタック作成すること§rを考慮に入れてください。これは極端に聞こえるかもしれませんが、このような§e一括作成§rは大事な習慣です。これによって、しばらくの間追加で作成する手間が省け、また、最終的にこれらのMotorのすべてを消費する§oことになる§rので、素材の浪費になることはありません。%n%nより様々な機械にアクセスできるようにつれて、アイテムを手作業でクラフトする機会は減っていきます。代わりに、生産を自動化する方向に工場を建築していくようになります。Circuitやコンポーネントといった頻繁に使用するアイテムが常にスタックされているように維持しておくことで、必要なときにすぐに使用することができます。%n%n
+omnifactory.quest.db.53.desc=§3Wiremill§rがあれば、インゴット1個からこれまでよりもはるかに大量の§6Wire§rを作成することができ、効率が大きく上昇します。しかし、それにはまず§6Motor§rを作成する必要があります。%n%n§bGregTech§rの機械は数多くの部品から構成され、その多くは機械間で共通です。Motor§rは他の部品を含む非常に多くのレシピで使用されます。%n%nMotorを作成する際に使用するレシピは必ず§3Worktable§rに保存しておいてください。かなりの数が必要になります。%n%nWiremillを作成した後、LV Motorを§e数スタック作成すること§rを検討してみてください。極端に聞こえるかもしれませんが、このような§e一括作成§rは大事な習慣です。これによって、しばらくの間追加で作成する手間が省け、また、いずれはMotorをすべて消費する§oことになる§rので、素材の浪費になることはありません。%n%nより様々な機械にアクセスできるようにつれて、アイテムを手作業でクラフトする機会は減っていきます。代わりに、生産を自動化する方向に工場を建築していくようになります。必要な時に待たずに済むように、Circuitや部品を作っておくと便利です。%n%n
 
 # db 54
 omnifactory.quest.db.54.title=Quantum Eyes
@@ -255,24 +255,24 @@ omnifactory.quest.db.55.title=Centrifuge
 omnifactory.quest.db.55.desc=Note: this quest accepts an LV, MV or HV Centrifuge.%n%n§3Centrifuges§r provide you with 3 tiny piles of additional materials when processing ore dusts (§e9 tiny piles = 1 dust§r). Sometimes it's the main dust, but often it's a different useful material that is otherwise unobtainable.%n%nInstead of washing §6impure dusts§r (made from macerating or hammering ores) in a cauldron, you can get more out of each dust by centrifuging it. The same is true of §6pure dusts§r, when you eventually make a §3Washer§r or §3Chemical Bath§r. Note however that pure and impure dusts will usually give different byproducts (always check in §bJEI§r).%n%nCentrifuges also have other uses like unmixing compound dusts and fluids, or getting §6Rubber Pulp§r, which can be chemically reacted with §6Sulfur§r to efficiently make §9liquid Rubber§r.%n%n
 
 # db 56
-omnifactory.quest.db.56.title=Putting It All Together
-omnifactory.quest.db.56.desc=Now that you have everything you need to power your machines, it's time to put it all together.%n%nYour Steam Dynamo needs burnable fuel (like §6Coal§r) and §9water§r. It will output RF power through the Excitation Coil (the red bit at the top). The orientation of the Steam Dynamo can be adjusted with a §aCrescent Hammer§r, if needed.%n%n§6Energy Conduits§r can be used to transfer that RF power, but the dynamo can also output RF directly into a CEF by making the Excitation Coil touch the CEF.%n%nThe CEF transforms RF power into EU, outputting the resulting EU through the side with a red dot. The orientation can be adjusted using a §aWrench§r. Attach your §6Conductive Iron Cables§r to the output side of the CEF.%n%nNow all you need are some §bGregTech§r machines to hook up to the cables! You can make whatever you want, but its recommended that you get these two first:%n%nThe §6Wiremill§r will make crafting wires much, much easier.%n%nThe §6Compressor§r will make Plates from one ingot instead of two.
+omnifactory.quest.db.56.title=すべてをまとめる
+omnifactory.quest.db.56.desc=機械を動かすための準備ができたので、今がすべてをまとめるタイミングです。%n%nSteam Dynamoを動かすには可燃性の燃料（例えば§6Coal§r）と§9water§rが必要です。RF動力はExcitation Coil（上部の赤い部分）を通して供給されます。Steam Dynamoの向きは、必要に応じて、§aCrescent Hammer§rを使って調整することができます。%n%n§6エネルギーコンジット§rは、そのRF動力を伝達するために使用することができますが、Excitation CoilをCEFに接触させることで、直接CEFにRFを出力することもできます。%n%nCEFは、RF動力をEUに変換し、得られたEUを赤いドットの面を通して出力します。向きは§aWrench§rを使って調整することができます。CEFの出力側には、§6Conductive Iron Cable§rを取り付けてください。%n%nこれで、他に必要なものは、Cableで繋がれた§bGregTech§r機械だけになりました！　どの機械を作っても問題ないですが、最初にこの２つを手に入れることをお勧めします:%n%nThe §6Wiremill§rがあれば、Wireを作るのがとても簡単になります。%n%n§6Compressor§rを使うと、１つのIngotからPlateが作れるようになります。
 
 # db 57
 omnifactory.quest.db.57.title=Ender Fluid Conduits
 omnifactory.quest.db.57.desc=§aEnder Fluid Conduits§r are the most powerful fluid transportation mechanism offered by §bEnderIO§r.%n%nNot only are these faster than §aPressurized Fluid Conduits§r, but because they teleport fluids instead of flowing them in the conduits, it possible to have a large number of fluids moving through a single line.%n%nIn addition to §aFilters§r they also have multiple channels which can be used to direct fluids through the same conduits to various destinations.%n%nIf you don't want to (or haven't unlocked access to) routing fluids through §bAE§r, these are your best alternative.
 
 # db 58
-omnifactory.quest.db.58.title=LV Power Storage
+omnifactory.quest.db.58.title=LV動力ストレージ
 omnifactory.quest.db.58.desc=§6Batteries§r are §bGregTech §rpower storage for §aEU§r energy.%n%nAlthough there are several types of rechargeable batteries you can make, §6Cadmium Batteries§r are the best ones, as they have the most storage capacity. §6Lithium§r is second best, and §6Sodium§r is third.%n%n§6Lithium§r is possible to find inside of §6Tungsten§r veins, however, they are fairly rare. Consider "buying" some Lithium with §dOmnicoins§r.%n%n§6Cadmium§r is so tough to get at this point, its not even worth considering. However, §6Sodium§r is plentiful. You can get Sodium by smelting §6Salt§r, with other options becoming available later.
 
 # db 59
 omnifactory.quest.db.59.title=Copper... Nickel... Cupronickel?
-omnifactory.quest.db.59.desc=Nickel comes from several different ores, including Pentlandite and Garnierite, but they're all found in the same vein.%n%nNickel is used mostly for several very important alloys, including Invar and Cupronickel.
+omnifactory.quest.db.59.desc=Nickelは、PentlanditeやGarnieriteを含むいくつかの異なる鉱石から入手できますが、それらはすべて同じ鉱脈で見つかります。Nickelは主にInvarやCupronickelを含むいくつかの非常に重要な合金に使用されています。
 
 # db 60
 omnifactory.quest.db.60.title=Blast Furnace Fun
-omnifactory.quest.db.60.desc=The §3Electric Blast Furnace§r is a major, major milestone in your §bGregTech§r career. It has the power to smelt more advanced materials. The first of which, §6Aluminium§r, is going to be important in the immediate future.%n%nThere is a diagram of how to build the EBF in JEI. The second and third levels must be a 3x3 square shape of Coil Blocks (§6Cupronickel§r is the only type of coil block you have access to for now) with an empty center. You can also §6sneak-right click§r the controller to enable the in-world preview.%n%nHowever, the bottom and top layers are very flexible. The §6EBF Controller§r must be on the §ebottom layer§r of the structure, and on the §emiddle of an outer edge§r. Otherwise, you can put the hatches and buses wherever you want, filling in all gaps in each layer with §6Heatproof Machine Casings§r. It's worth noting that you must §euse at least 10 Heatproof Machine Casings in your layout or the structure will not form§r.%n%nThis quest calls for two energy hatches, a fluid input and output, and an item input and output, which is a total of six positions. Their specific order and placement don't matter, as long as you can access them. The seventh position is your EBF controller, leaving eleven gaps to be filled by Heatproof Machine Casings. If you did everything right, the structure will form: the colors on its hatches and casings will unify, and the controller will say "Idling."%n%nYou'll most likely want to locate your power quite near to the EBF. It is very power hungry, and if it cannot get enough energy, progress on the current item smelting will start to regress. Be careful to ensure the EBF has enough power, and keep a Soft Hammer nearby to pause it by tapping the controller if you run out of power.
+omnifactory.quest.db.60.desc=§3Electric Blast Furnace§rは、あなたの§bGregTech§rキャリアの中で、非常に重要なマイルストーンとなります。より高度な材料を製錬する力を持っています。そのうちの最初のものである§6Aluminium§rは、近い将来に重要になるでしょう。%n%nJEIにEBFの建設方法を示した図があります。その2段目と3段目は、3x3の四角い形をしたCoil Block(今のところ入手できるのは§6Cupronickel§rだけ)で、中央が空洞になっている必要があります。また、Controllerを右クリックしてワールド内プレビューを有効にすることもできます。%n%nしかし、最下層と最上層は設置の自由度が非常に高いです。§6EBF Controller§rは機械の§e最下層§rかつ§e中央§rに設置しなければなりませんが、それ以外は、各層の隙間を§6Heatproof Machine Casings§rで埋めながら、HatchやBusを好きな場所に配置することができます。レイアウトに§e少なくとも10個のHeatproof Machine Casingsを使用しないと設置がうまくいかないことに注意してください§r。%n%nこのクエストでは、2つのEnergy Hatch、Fluid Input / Output、Item Input / Outputを要求しており、これら6つを配置することになります。それらの順番と配置は、それらにアクセスできる限り自由にできます。7番目の位置はEBF Controllerで、残り11個はHeatproof Machine Casingsで埋められます。設置がうまくいくと、HatchとCasingの色が統一され、Controllerに"Idling"と表示されます。%n%nEBFの近くに電源を設置することをお勧めします。電力を大量に必要とするため、十分なエネルギーが得られないと、現在の製錬の進行度が下がり始めます。EBFに十分な電力が供給できるよう注意し、電力が尽きたときに機械を停止できるようSoft Hammerを近くに置いておきましょう。
 
 # db 61
 omnifactory.quest.db.61.title=Gemstone Sensor
