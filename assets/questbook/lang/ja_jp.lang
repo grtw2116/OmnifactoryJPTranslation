@@ -236,11 +236,11 @@ omnifactory.quest.db.50.desc=流体の輸送において、§bEnderIO§fの導�
 
 # db 51
 omnifactory.quest.db.51.title=Inscriber
-omnifactory.quest.db.51.desc=§3Inscriber§rは、§bApplied Energistics§rの§6inscribed circuit§rを作成するための機械です。
+omnifactory.quest.db.51.desc=§3Inscriber§rは、§bApplied Energistics§rの§6Inscribed Circuit§rを作成するための機械です。
 
 # db 52
 omnifactory.quest.db.52.title=LV Cluster Mill
-omnifactory.quest.db.52.desc=より作成が容易な回路にアクセスする前に、§6Foils§rを作成できるようにする必要があります。%n%nこれが§3Cluster Mill§rを作成する目的です。
+omnifactory.quest.db.52.desc=より作成が容易な回路にアクセスする前に、§6Foil§rを作成できるようにする必要があります。%n%nこれが§3Cluster Mill§rを作成する目的です。
 
 # db 53
 omnifactory.quest.db.53.title=LV Wiremill
@@ -260,11 +260,11 @@ omnifactory.quest.db.56.desc=機械を動かすための準備ができたので
 
 # db 57
 omnifactory.quest.db.57.title=Ender Fluid Conduits
-omnifactory.quest.db.57.desc=§aEnder Fluid Conduits§r are the most powerful fluid transportation mechanism offered by §bEnderIO§r.%n%nNot only are these faster than §aPressurized Fluid Conduits§r, but because they teleport fluids instead of flowing them in the conduits, it possible to have a large number of fluids moving through a single line.%n%nIn addition to §aFilters§r they also have multiple channels which can be used to direct fluids through the same conduits to various destinations.%n%nIf you don't want to (or haven't unlocked access to) routing fluids through §bAE§r, these are your best alternative.
+omnifactory.quest.db.57.desc=§aEnder Fluid Conduit§rは、§bEnderIO§rが提供する中で最も強力な流体輸送メカニズムです。%n%n§aPressurized Fluid Conduit§rよりも高速であるのに加えて、流体を導管内で流すのではなくテレポートするため、一本の導管で多数の流体を移動させることが可能です。%n%nまた、§aFilter§rの他にも複数のチャンネルを持っており、同じ導管を通して様々な行き先に流体を輸送することができます。%n%n§bAE§rを介して流体をルーティングしたくない（またはアクセスを解除していない）場合は、これらが最良の代替手段となります。
 
 # db 58
 omnifactory.quest.db.58.title=LV動力ストレージ
-omnifactory.quest.db.58.desc=§6Batteries§r are §bGregTech §rpower storage for §aEU§r energy.%n%nAlthough there are several types of rechargeable batteries you can make, §6Cadmium Batteries§r are the best ones, as they have the most storage capacity. §6Lithium§r is second best, and §6Sodium§r is third.%n%n§6Lithium§r is possible to find inside of §6Tungsten§r veins, however, they are fairly rare. Consider "buying" some Lithium with §dOmnicoins§r.%n%n§6Cadmium§r is so tough to get at this point, its not even worth considering. However, §6Sodium§r is plentiful. You can get Sodium by smelting §6Salt§r, with other options becoming available later.
+omnifactory.quest.db.58.desc=§6Battery§rは、§aEU§rエネルギー用の§bGregTech§rのパワーストレージです。%n%n現在作成可能な二次電池にはいくつかの種類がありますが、§6Cadmium Battery§rが最も蓄電量が多く、最高の電池です。§6Lithium§rは2番目に良く、§6Sodium§rは3番目に良いです。%n%n§6Lithium§rはタングステン鉱脈の中で見つけることができますが、かなり希少です。§dOmnicoins§rでリチウムを"購入する"ことを検討してください。%n%n§6Cadmium§rは現時点では入手が難しいので、検討する価値はありません。しかし、§6Sodium§rは豊富に手に入ります。のちに利用可能になる機械を使えば、§6Salt§rを精錬することで§6Sodium§rを入手できます。
 
 # db 59
 omnifactory.quest.db.59.title=Copper... Nickel... Cupronickel?
@@ -280,23 +280,23 @@ omnifactory.quest.db.61.desc=Some Micro Miner missions use a §6Gemstone Sensor�
 
 # db 62
 omnifactory.quest.db.62.title=Terminal
-omnifactory.quest.db.62.desc=Access all of your items on a single screen. Soon, anyway.%n%nPlease note that all four variants of §6ME Terminals§r are §emicroparts§r, which means they need to be attached to an §6ME Cable§r (not conduit) to function.
+omnifactory.quest.db.62.desc=1つの画面からすべてのアイテムにアクセスできます。いずれにせよ、すぐに。%n%n§6ME Terminals§rの4つのバリエーションはすべて§eマイクロパーツ§rであり、機能するためには§6ME Cable§r（Conduitではない）に接続する必要があることに注意してください。
 
 # db 63
 omnifactory.quest.db.63.title=ME Chest
-omnifactory.quest.db.63.desc=The §aME Chest§r is somewhat impractical to use on its own, but it's a necessary ingredient for the much more useful §6ME Drive§r.%n%nThis is a rudimentary digital item storage device. By placing a §6Storage Cell§r inside it, you can access the contents as though you were looking through a chest. You can carry the disk to another location and place it down in a different ME Chest if you want, and the items will come with it.%n%n§cDon't put Storage Cells inside other portable mod inventories like a Satchel, (or vice-versa) as you risk corrupting the contents of the Satchel and the Storage Cell.§r There's technical reasons why this happens (NBT overflow), and it's not unique to these items, but that's not really worth going into.%n%n
+omnifactory.quest.db.63.desc=§aME Chest§rは単体で使うにはやや実用的ではありませんが、より便利な§6ME Drive§rの素材として必要不可欠なアイテムです。%n%nこれはデジタル化アイテムの初歩的なストレージです。中に§6Storage Cell§rを挿入することで、まるでChestを覗くようにストレージにアクセスすることができます。Diskを別の場所に持ち運び、別のME Chestに挿入することもできます。%n%n§cSatchelやStorage Cellの中身が破損する危険があるので、Storage CellをSatchelのような持ち運び系のMODインベントリの中に入れないでください（その逆も同様です）。§rこのようなことが起こるのには技術的な理由があり（NBTオーバーフロー）、これらのアイテムに限ったことではありませんが、ここではこれ以上の説明はしません。%n%n
 
 # db 64
-omnifactory.quest.db.64.title=Digital Storage At Last
-omnifactory.quest.db.64.desc=§bApplied Energistics§r uses §6Storage Cells§r as its primary means of digital item and fluid storage.%n%nAll unformatted Storage Cells are limited to at most 63 distinct item types, with the first item of each new type taking up a chunk of the total bytes of cell storage, and subsequent items of existing types taking a small amount of bytes thereafter.%n%nA §61k ME Storage Cell§r is the first and smallest cell for storing items. If you are going to be storing many different kinds of items in your network, you will need to make an §6ME Drive§r and fill it with multiple Storage Cells.%n%nThe §64k ME Storage Cell§r is the next size up. With four times the bytes it holds substantially more items per type, but it requires a more advanced technology than you currently have available: AE §6Processors§r made in an §3Inscriber§r.
+omnifactory.quest.db.64.title=いよいよデジタルストレージ
+omnifactory.quest.db.64.desc=§bApplied Energistics§rでは、デジタル化されたアイテムと液体を格納するための主要な手段として、§6Storage Cell§rを使用しています。%n%n未フォーマットのStorage Cellでは、格納できるアイテムの種類が最大63種類に制限されており、新たな種類のアイテムを格納すると、アイテムそのもののデータ分のバイトに加えて、種類登録用のバイトが消費されます。既存の種類のアイテムが格納された場合は、アイテムのデータ分のバイトのみを消費します。%n%n§61k ME Storage Cell§rは、アイテムを格納するための最初で最小のCellです。ネットワーク上に多くの種類のアイテムを格納する場合は、§6ME Drive§rを作成し、複数のStorage Cellで埋める必要があります。%n%nこれの1つ上のサイズのストレージが§64k ME Storage Cell§rです。4倍のバイト数を持つので、より多くのアイテムを格納することができますが、現在の技術では作成することができません（§3Inscriber§rから作られるAE §6Processor§rが必要）。
 
 # db 65
 omnifactory.quest.db.65.title=Tier Three Micro Miner
 omnifactory.quest.db.65.desc=The Third Micro Miner.%n%nThis one can get you:%n§6* Tetrahedrite Ore%n* Cassiterite Ore%n* Tungstate Ore%n* Scheelite Ore%n* Redstone Ore%n* Quartz Ore%n* Vanadium Magnetite Ore%n* Rutile Ore%n* Tin Ore%n* Sapphire Ore§r%n%nWhen equipped with Gemstone Sensor:%n§6* Exquisite Emeralds%n* Exquisite Diamonds%n* Exquisite Rubies%n* Silver Ore%n* Gold Ore%n* Almandine Ore§r
 
 # db 66
-omnifactory.quest.db.66.title=From Dusts To Wires
-omnifactory.quest.db.66.desc=Although most §ealloys§f require an §3Alloy Smelter§f, some alloys can be made simply by mixing the correct metal dusts together. %n%nCopper Dust mixed with Redstone Dust makes §6Red Alloy Dust§f.%n%nIron Dust mixed with Redstone Dust makes §6Conductive Iron Dust§f.%n%n§3Smelt§f it into ingots, §ahammer§f it into §6Plates§f, and §acut§f them into §6Wires§f.
+omnifactory.quest.db.66.title=DustからWireまで
+omnifactory.quest.db.66.desc=ほとんどのAlloyは作成に§3Alloy Smelter§fを必要としますが、いくつかのAlloyは金属のDustを混ぜるだけで作ることができます。%n%nCopper DustとRedstone Dustを混ぜると、§6Red Alloy Dust§fができます。%n%nIron DustとRedstone Dustを混ぜると§6Conductive Iron Dust§fができます。%n%nこれを溶かしてIngotにしたり、Hammerで叩いて§6Plates§fにしたり、§6Wires§fに§a切断§fしたりできます。
 
 # db 67
 omnifactory.quest.db.67.title=Octadic Capacitor
@@ -307,8 +307,8 @@ omnifactory.quest.db.68.title=Experience Obelisk
 omnifactory.quest.db.68.desc=The §3Experience Obelisk§r is a mass storage device for player experience in the form of §9Liquid XP§r.%n%nVia the GUI you can insert or extract levels as needed, as well as configure interactions with neighboring blocks (as is typical of §bEnderIO§r machines).%n%nLiquid XP can also be pumped in directly from your automation such as §3Fluid Extractors§r.
 
 # db 69
-omnifactory.quest.db.69.title=Aluminium Ingots
-omnifactory.quest.db.69.desc=With your EBF running, start to create a supply of §6Aluminium Ingots§r. These are crucial ingredients for MV machines, including §bApplied Energistics§r.%n%nIf you find your power supply is faltering, you may want to make additional dynamos and turn them into steam boilers and turbines. Upgrading your dynamos is also advisable.%n%nHowever, you're also about to reach MV. You're bound to discover a better power source than steam before long.
+omnifactory.quest.db.69.title=Aluminium Ingot
+omnifactory.quest.db.69.desc=EBFが稼働したら、§6Aluminium Ingot§rの生産を開始しましょう。これらは§bApplied Energistics§rをはじめとするMV機械の重要な材料です。%n%n電力供給が落ちているようであれば、新たにDynamoを作成してSteam BoilerやTurbineとして運用するのがいいでしょう。また、Dynamoのアップグレードもおすすめです。%n%nしかし、そろそろMVに到達しようとしています。そのうちSteamよりも優れた動力源が見つかるでしょう。
 
 # db 70
 omnifactory.quest.db.70.title=MV Power Storage
@@ -320,11 +320,11 @@ omnifactory.quest.db.71.desc=An §3MV Electrolyzer§r allows you to process reci
 
 # db 72
 omnifactory.quest.db.72.title=LV Assembling Machine
-omnifactory.quest.db.72.desc=§3Assembling Machines§r are the linchpin of your factory, gating progression through the §6Circuits§r. %n%nEach time you upgrade to a new voltage of Assembling Machine, you will be able to craft more advanced §ethemes§r of circuits. These use more complex ingredients and require new infrastructure to be in place, but are more efficient to craft overall than the same tier of circuit from the prior theme.%n%nCheck out the §dProgression quest book tab§r to see the flow of circuit progression.%n%nAssembling Machines also open up a plethora of §eequal or more efficient recipes that don't require hand tools§r. Hand tool recipes also don't play nice with §bApplied Energistics§r.%n%nTake advantage of Assembling Machines: §cphase out all use of hand tools for crafting items in your automation going forward.§r Once you have all the important machines, you will never need hand tools for crafting.
+omnifactory.quest.db.72.desc=§3Assembling Machine§rは、工場の要であり、新たな§6Circuit§rを作成する上で欠かせないものです。%n%n新しい電圧のAssembling Machineにアップグレードするたびに、より高度なテーマのCircuitを作ることができるようになります。これらのテーマは、より複雑な材料を使用し、新しいインフラを必要としますが、前テーマの同じTierの回路よりも、全体的に効率的に作ることができます。%n%nCircuitの進捗フローについては、クエストブックの「進捗」タブで確認してください。%n%nAssembling Machineがあれば、クラフトにハンドツールを必要としない、より効率的なレシピが利用可能になります。ハンドツールを用いるレシピは§bApplied Energistics§rとの相性も良くありません。%n%n組立機を活用してください：自動化を進めていく上で、アイテムを作るためにハンドツールを使用することは避けてください。重要な機械をすべて揃えれば、クラフトにハンドツールを使う必要はありません。
 
 # db 73
 omnifactory.quest.db.73.title=ME Conduit
-omnifactory.quest.db.73.desc=§6ME Conduits§r have the advantage of being able to share a block space with other conduit types. Oh, and they're relatively cheaper to make.%n%nThe only downside is that §ethey will not connect to §bApplied Energistics§r §emicroparts§r like slab-form §6Interfaces§r or §6Level Emitters§r, so you have to use AE cables like §6Fluix Cable§r for those.
+omnifactory.quest.db.73.desc=§6ME Conduit§rは、他のタイプのConduitとスペースを共有できるという利点があります。そして、うれしいことに、比較的安いコストで作成できます。%n%n唯一の欠点は、§eスラブ型の§6インターフェース§rや§6Level Emitter§rのような§bApplied Energistics§rの§eマイクロパーツ§rには接続できないことで、これらには§6Fluix Cable§rのようなAE Cableを使用しなければなりません。
 
 # db 74
 omnifactory.quest.db.74.title=Aluminium Casing
@@ -336,7 +336,7 @@ omnifactory.quest.db.75.desc=The §6Machine Block§r is the first step into a mo
 
 # db 76
 omnifactory.quest.db.76.title=The First Tier Two Circuits
-omnifactory.quest.db.76.desc=Your first §6Tier Two Circuits§r will require four §6Tier One Circuits§r plus a §6Diode§r made with §6Gallium§r to craft.%n%nThese are rather expensive... Always be on the lookout for a cheaper way to make your circuits- new sets of recipes become available each time you make a new tier of §3Assembling Machine§r.
+omnifactory.quest.db.76.desc=最初の§6Tier 2 Circuit§rは、4個の§6Tier 1 Circuit§rと§6Gallium§rで作られた§6Diode§rを必要とします。%n%nこれらはかなり高コストです……。より安価にCircuitを作成する方法を常に探しましょう。新たなTierの§3Assembling Machine§rを作るたびに、新しいレシピのセットが利用可能になります。
 
 # db 77
 omnifactory.quest.db.77.title=Exquisite Gems
@@ -344,7 +344,7 @@ omnifactory.quest.db.77.desc=§6Exquisite Gems§r are mostly needed for crafting
 
 # db 78
 omnifactory.quest.db.78.title=Gallium
-omnifactory.quest.db.78.desc=Throwing §6Impure Piles of Sphalerite§r into Cauldrons is the first way of obtaining §6Sphalerite§r, which can be electrolyzed as a good source of §6Gallium§r. The §6Zinc§r and §6Sulfur§r you get from doing this will be quite useful as well. Sphalerite Ore§r spawns in §6Zinc§r veins. %n%nA §3Centrifuge§r instead of a Cauldron is slower and requires power, but it gets you more Gallium while separating the impure dust into Sphalerite.%n%nIf you're having trouble getting the quest to complete, check to see if you are holding §6small piles§r instead of §6tiny piles§r. If so, combine four small piles into a regular dust, then split that into tiny piles. A §3Worktable§r can help you quickly convert between pile types.
+omnifactory.quest.db.78.desc=§6Sphalerite§rを得る最初の方法は、§6Impure Piles of Sphalerite§rをCauldronに投げ込むことです。Sphaleriteを電気分解することで§6Gallium§rを入手することができます。この方法で得られる§6Zinc§rと§6Sulfur§rも同様に有用です。Sphalerite Oreは§6Zinc§r鉱脈に分布しています。%n%nCauldronよりも遅く動力が必要ですが、Cauldronの代わりに§3Centrifuge§rを使うことで、Impure DustをSphaleriteに分離しながら、より多くのGalliumを得ることができます。%n%nクエストがうまくいかない場合は、§6Tiny Pile§rではなく§6Small Pile§rを持っている可能性があります。その場合は、4つのSmall Pileを組み合わせて普通のDustを作成し、その後§6Tiny Pile§rを作成してください。§3Worktable§rがあれば、Pileの種類を素早く変換するのに役立ちます。
 
 # db 79
 omnifactory.quest.db.79.title=MV Cutting Machine
@@ -3003,8 +3003,8 @@ omnifactory.quest.db.742.title=Gap
 omnifactory.quest.db.742.desc=
 
 # db 743
-omnifactory.quest.db.743.title=Use JEI! Use JEI! USE. JEI.
-omnifactory.quest.db.743.desc=§e§eUSE JEI!!!%n%n§bJEI§f stands for §bJust Enough Items§r. It's the list of all items that you see every time you open your inventory. It's the better(tm) recipe book that shows you all available items and recipes in the modpack.%n%nTo see it in action, pull up a quest that requires an item of some sort and just click the item!%n%nIf you want to know how to craft an item, just hover your mouse over it and press §6R§r. JEI will list all available recipes.%n%nIf you instead want to know what recipes use an item, hover over it and press §6U§r.%n%nHover over an item and press §6A§r to bookmark it. To remove a bookmarked item from the list, press A on the bookmark.%n%nOne of the remarkable features of JEI is that it's also capable of helping you with recipes. Right-click a crafting table, look up the recipe you need and press the §a[+]§r button: if you have all required items for the recipe, this will put them all into the crafting table for you.
+omnifactory.quest.db.743.title=JEIを使おう! JEIを使おう! JEIを。使おう。
+omnifactory.quest.db.743.desc=§e§eJEIを使おう！！！%n%n§bJEI§fはJust Enough Itemsの略です。インベントリを開くたびに表示されるアイテム一覧のことです。Modpackで利用可能なアイテムとレシピがすべて表示される、より良い(tm)レシピブックです。%n%n実際に閲覧するには、なにかしらのアイテムを要求するクエストを開いて、そのアイテムをクリックしてください！%n%nアイテムの作り方を知りたい場合は、アイテムの上にマウスを置いて§6R§rキーを押してください。JEIはすべてのレシピを表示します。%n%n一方で、アイテムを使ったレシピを知りたい場合は、アイテムの上にカーソルを置いて§6U§rキーを押してください。%n%nアイテムの上にカーソルを置いてAを押すとブックマークされます。ブックマークした項目をリストから削除するには、ブックマーク上でAを押します。%n%nJEIの注目すべき機能の一つは、レシピのお手伝いもできることです。Craft Tableを右クリックして、必要なレシピを探して§a[+]§rボタンを押すと、レシピに必要なアイテムがすべて揃っていれば、すべてのアイテムがCraft Tableに配置されます。
 
 # db 744
 omnifactory.quest.db.744.title=Multi-Layer Fiber-Reinforced Epoxy Substrate
