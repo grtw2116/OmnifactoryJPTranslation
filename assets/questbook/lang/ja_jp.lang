@@ -23,7 +23,7 @@ omnifactory.quest.line.5.title=エンドゲーム
 omnifactory.quest.line.5.desc=あなたは今、エンドゲームにいます……%n%nHarvest entire microverses and unlock the §dCreative Portable Tank§r.%n%n最終的な目標である§dCreative Vending Upgrade§rに向かって進んでいく中で、自動化を最終段階にしてみましょう。
 
 # line 6
-omnifactory.quest.line.6.title=創世記
+omnifactory.quest.line.6.title=ジェネシス
 omnifactory.quest.line.6.desc=§5Omnifactory§rへようこそ。私が案内役になります。
 
 # line 7
@@ -39,11 +39,11 @@ omnifactory.quest.db.1.title=Crystal Growth Chamber
 omnifactory.quest.db.1.desc=The §3Crystal Growth Chamber§rがあれば、§bApplied Energistics§rの世界のレシピのクラフトを機械の中で実行できるようになります。やりました！　これでもうモノを水に落とさなくて済みます！%n%n§6Crystal Seeds§rが§6Pure Crystals§rに成長するのを促進したり、§6Fluix Crystals§rをクラフトしたりするのに使います。%n%nJEIにはChamberのレシピが直接記載されていないので、ここで説明します:%n%n3種類のCrystalのいずれかを粉砕し、得られたDustを砂と混ぜることでSeedが得られます。Seedは成長して対応するPure Crystalに成長し、そしてPure Crystalはほとんどのレシピで元のCrystalの代替として使用できます。Pure Crystalsを使用することで、素材効率を効果的に2倍にすることができます。しかしながら、そこからさらにPure Crystalsを粉砕して素材を倍増することはできません。%n%n現時点では、Fluix Crystalsを作るには水源に投入する必要がありますが、これからは機械に同じ素材を入れるだけで済みます: §6Redstone Dust§r、§6Charged Certus Quartz Crystal§r、§6Nether Quartz§rを機械に投入することでFluix Crystalsを2個得られます。
 
 # db 2
-omnifactory.quest.db.2.title=Canning Machine and Assorted Stuff
-omnifactory.quest.db.2.desc=Note: this quest accepts both LV and MV Canning Machines.%n%n§aLV Batteries§r were very simple to make, but more effective forms of power storage will be more complex to build, so we'll need to lay the groundwork now.%n%nPut your §3Centrifuge§r to work for the §6Antimony§r you'll need, which comes in tiny piles from processing §6Tetrahedrite Ore§r and §6Stibnite Ore§r.%n%n
+omnifactory.quest.db.2.title=Canning Machineと詰め合わせ
+omnifactory.quest.db.2.desc=注意：このクエストではLVとMVのCanning Machineを受け付けます。%n%n§aLV Battery§rの作成は簡単でしたが、より効率的なパワーストレージの作成工程はもっと複雑になるため、ひとまず生産体制の基礎を作っておく必要があります。%n%n§3Centrifuge§rを使って必要な分の§6Antimony§rを処理してください。§6Tetrahedrite Ore§rと§6Stibnite Ore§rを処理することでTiny Pile of Antimonyが得られます。%n%n
 
 # db 3
-omnifactory.quest.db.3.title=創世記
+omnifactory.quest.db.3.title=ジェネシス
 omnifactory.quest.db.3.desc=§5Omnifactory§fへようこそ！%n%nこのパックは§bLost Cities / Overworldディメンション§fでプレイされることを想定しています。%n%nフレンドと遊ぶ場合は、§eQuestbook Party§fに招待するのを忘れないようにしてください。%n%n§fスカイブロックのワールドに拠点を建築したい場合、§6Void World Cake§fを地面に設置し、一切れ分を食べるとVoidに送られます。採掘をする際にはLost Cities / Overworldディメンションに戻る必要がある点に注意してください。しかし、§eVoid World§fでは安全で自由に建築することができます。
 
 # db 4
@@ -71,8 +71,8 @@ omnifactory.quest.db.9.title=鉱石倍化？
 omnifactory.quest.db.9.desc=多くのエキスパートModパックでは、鉱石の倍化ができるようになるまでは鉱石の消費量を抑えたいという人が多いでしょう。これは多くの人がやりがちな習慣です。%n%n§eしかし、Omnifactoryではそのようなプレッシャーを感じる必要はありません§f。鉱脈に含まれる鉱石は膨大であり、また§aMining Hammer§fがあるので採掘にかかる時間も極めて短いです。加えて、いったん§3Macerators§fが得られたとしても、序盤は処理が遅く、また動力を必要とします。%n%n希少な鉱石や§dOmnicoin§fで購入した未発見の鉱石は例外で、これらは倍化するに値するでしょう。%n%nしかし、少なくとも現時点では、よく使う鉱石を倍化しないまま精錬することに罪悪感を感じる必要はありません！§eMV機械以降にアクセスできるようになるまでは、鉱石の倍化のことは忘れてしまってかまいません。§r
 
 # db 10
-omnifactory.quest.db.10.title=Tier 2のMicro Miner
-omnifactory.quest.db.10.desc=The Second Micro Miner!%n%nThis uses an §bExtended Crafting§r table so it's not possible to automate the Miner itself with §bApplied Energistics 2§r just yet (this requires more advanced technology not easy to access until the Tier Four Micro Miner). You can make it semi-automatically by prestocking the components you need, and filling up the Extended Crafting Table with §bJEI§r!%n%nThis Micro Miner can get you:§6%n* Bauxite Ore%n* Niobium Ore%n* Copper Ore%n* Tungstate Ore%n* Scheelite Ore%n* Cassiterite Ore%n* Radium Salt§r%n%nAs well as the §6Stellar Creation Data§r, which will be useful much, much later.
+omnifactory.quest.db.10.title=Tier 2 Micro Miner
+omnifactory.quest.db.10.desc=2番目のMicro Minerです！%n%nこれは§bExtended Crafting§r Tableを使用するため、§bApplied Energistics 2§rでMiner自体を自動化することはまだできません（これには、Tier 4 Micro Minerまでは簡単にアクセスできないような、より高度なテクノロジーが必要です）。必要な部品を事前にストックし、§bJEI§rからExtended Crafting Tableに入力することで、半自動で作成することができます！%n%nこのMicro Minerによって以下の鉱石が得られます：§6%n* Bauxite Ore%n* Niobium Ore%n* Copper Ore%n* Tungstate Ore%n* Scheelite Ore%n* Cassiterite Ore%n* Radium Salt§r%n%n§6Stellar Creation Data§rと同様、かなり後になってから役に立つことになるでしょう。
 
 # db 11
 omnifactory.quest.db.11.title=Electronics Subcomponents
