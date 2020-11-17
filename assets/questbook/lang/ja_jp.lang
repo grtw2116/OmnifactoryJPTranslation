@@ -332,7 +332,7 @@ omnifactory.quest.db.74.desc=§6Quartzite Ore§r is found in... quartzite veins 
 
 # db 75
 omnifactory.quest.db.75.title=Machine Block
-omnifactory.quest.db.75.desc=The §6Machine Block§r is the first step into a mod called §bExtra Utilities 2§r.
+omnifactory.quest.db.75.desc=§bExtra Utilities 2§rというModへの第一歩は、§6Machine Block§rから始まります。
 
 # db 76
 omnifactory.quest.db.76.title=The First Tier Two Circuits
@@ -348,27 +348,27 @@ omnifactory.quest.db.78.desc=§6Sphalerite§rを得る最初の方法は、§6Im
 
 # db 79
 omnifactory.quest.db.79.title=MV Cutting Machine
-omnifactory.quest.db.79.desc=Cuts things up.%n%nThe §3Cutting Machine§r is able to cut wafers, rods, wood, and various other things for you, making it a versatile crafting tool. Cutting blocks into plates is fast and effective, and is the only way to get gem plates like §6Lapis Plates§r for now.%n%nThe blade will require you to make §6Cobalt Brass§r. Cobalt is a byproduct you will obtain (probably first as tiny piles through some simple ore processing), §6Zinc§r you should have already from electrolyzing §6Sphalerite§r, and the other materials are just §6Copper§r and §6Aluminium§r.%n%nCutting Machines work with plain §9Water§r for all recipes. You can also use §9Distilled Water§r which speeds up the processing somewhat, or §9Lubricant§r that speeds it up greatly. Right now though, the benefit is rather minor compared the extra effort required to make those fluids. Something to keep in mind for the future though.%n%nYou might consider waiting until you have §6Electronic Processors§r before progressing too far down the path of MV machines, since these circuits are much easier to make than §6Primitive Processors§r.
+omnifactory.quest.db.79.desc=カットしよう。%n%n§3Cutting Machine§rは、WaferやRod、Woodなど様々なものをカットすることができる、汎用性の高い工作ツールです。BlockをPlateに切断するのは手っ取り早く効果的で、現時点で§6Lapis Plates§rのような宝石製のPlateを手に入れるための唯一の方法となっています。%n%nBladeを作成するには§6Cobalt Brass§rを作る必要があります。Cobaltは副産物として得られます（おそらく、いくつかの簡単な鉱石処理を通して$Tiny Pile$としてすでに入手していると思います）。また、§6Zinc§rは§6Sphalerite§rを電気分解した際に獲得しているでしょうし、残りの材料は§6Copper§rと§6Aluminium§rです。%n%nCutting Machineは、全レシピが§9Water§rで動作します。また、代わりに§9Distilled Water§rを使用すれば、動作速度が幾分増加し、§9Lubricant§rを使用すればさらなる速度増加が得られます。しかし、今のところは、そういった液体を作るために必要な余分な労力に比べれば、得られるメリットはかなり小さいです。しかし、将来のために心に留めておくべきです。%n%nこれ以上MV機械の道を進むのは、§6Electronic Processor§rが作成できるようになるまで止めておいたほうが良いかもしれません。というのも、§6Primitive Processor§rよりも遥かに簡単に作成できるからです。
 
 # db 80
-omnifactory.quest.db.80.title=Silicon Boules
-omnifactory.quest.db.80.desc=A hefty amount of §6Silicon Dust§r and a pinch of §6Gallium§r cooked in an §3EBF§r will net you a §6Silicon Boule§r, the starting point for §6Circuit Wafers§r.%n%nMake sure your power system is up to the task. These take a long time to process so you'll need a signficant amount of energy to safely complete the job.
+omnifactory.quest.db.80.title=Silicon Boule
+omnifactory.quest.db.80.desc=多量の§6Silicon Dust§rとひとつまみの§6Gallium§rをEBFに加えて調理すると、§6Circuit Wafer§rの出発点である§6Silicon Boule§rが得られます。%n%n電源システムがタスクを遂行するのに十分なことを確認してください。これらは処理に長い時間がかかるので、問題なくタスクを完了させるためにはかなりのエネルギー量が必要になります。
 
 # db 81
-omnifactory.quest.db.81.title=Silicon Wafers
-omnifactory.quest.db.81.desc=§6Wafers§r are thin pieces of silicon cut from a §6Silicon Boule§r.%n%nTheir primary purpose is engraving §6Circuit Wafers§r.%n%nYou'll be needing huge amounts of these Wafers for circuits. Silicon Boules currently take a very long time to craft, so consider parallelizing the recipe in multiple §3EBF§rs and making a stockpile of them.
+omnifactory.quest.db.81.title=Silicon Wafer
+omnifactory.quest.db.81.desc=§6Wafer§rは、§6Silicon Boule§rから切断されたシリコンの薄い部分です。%n%n§6Circuit Wafer§rに彫刻することが主目的です。%n%n今後、Circuit製造のために膨大な量のWaferが必要になるでしょう。現在、§6Silicon Boule§rは製作に非常に時間がかかるので、複数の§3EBF§rでレシピを並列化して貯蓄しておくことを検討してください。
 
 # db 82
 omnifactory.quest.db.82.title=Phenol Coated Substrate
-omnifactory.quest.db.82.desc=§9Phenol§r is produced as a byproduct from making §6Coal Coke§r in a §3Pyrolyse Oven§r.%n%nThese boards will enable a much cheaper method of circuit production.
+omnifactory.quest.db.82.desc=§6Coal Coke§rを§3Pyrolyse Oven§rで製造する際、副産物として§9Phenol§rが生成されます。%n%nこのSubstrateを使用することで、より安価にCircuitを製造することが可能になります。
 
 # db 83
 omnifactory.quest.db.83.title=MV Precision Laser Engraver
-omnifactory.quest.db.83.desc=A §3Precision Laser Engraver§r is used to engrave circuits onto §6Wafers§r.%n%nThe type of circuit will depend on the kind of wafer used and which §aLens§r is in the machine.
+omnifactory.quest.db.83.desc=§3Precision Laser Engraver§rは、§6Wafer§rに回路を彫刻するために使用されます。%n%n回路の種類は、使用する§6Wafer§rの種類と、機械に入っている§aLens§rの種類によって異なります。
 
 # db 84
-omnifactory.quest.db.84.title=Circuit Wafers
-omnifactory.quest.db.84.desc=§6Circuit Wafers§r are batches of integrated circuits engraved onto a wafer of electronics-grade silicon.%n%nYou need to run these through the §3Cutting Machine§r to dice the wafers into individual integrated circuits (called dies).%n%nThese are important components and will be used for making more advanced Circuits.
+omnifactory.quest.db.84.title=Circuit Wafer
+omnifactory.quest.db.84.desc=§6Circuit Wafer§rは、電子機器用シリコンのWaferに刻まれた集積回路のまとまりです。%n%nこれらを§3Cutting Machine§rに通し、Waferを個々の集積回路（ダイと呼ばれる）にサイコロ状にする必要があります。%n%nこれらは重要な部品であり、より高度なCircuitを作るために使用されます。
 
 # db 85
 omnifactory.quest.db.85.title=Gap
@@ -376,11 +376,11 @@ omnifactory.quest.db.85.desc=
 
 # db 86
 omnifactory.quest.db.86.title=The Second Tier One Circuits
-omnifactory.quest.db.86.desc=Much easier to mass produce than §6Primitive Circuits§r, and they fulfill the same function in nearly all cases.%n%nYou should be batch crafting these.
+omnifactory.quest.db.86.desc=§6Primitive Circuit§rよりも大量生産するのがはるかに簡単で、ほぼすべての場合で同等に使用できます。%n%n一括作成をしておくべきです。
 
 # db 87
 omnifactory.quest.db.87.title=The Second Tier Two Circuits
-omnifactory.quest.db.87.desc=Three §6Electronic Circuits§r and various other components will create an §6Electronic Processor§r.
+omnifactory.quest.db.87.desc=3個の§6Electronic Circuit§rとその他様々な部品を組み合わせることで§6Electronic Processor§rを作成できます。
 
 # db 88
 omnifactory.quest.db.88.title=Lenses
