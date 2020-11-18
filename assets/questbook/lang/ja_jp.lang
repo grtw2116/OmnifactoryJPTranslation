@@ -384,19 +384,19 @@ omnifactory.quest.db.87.desc=3個の§6Electronic Circuit§rとその他様々�
 
 # db 88
 omnifactory.quest.db.88.title=Lenses
-omnifactory.quest.db.88.desc=You'll need a variety of §alenses§r for use in §3Precision Laser Engravers§r, all of which are made in the §3Autoclave§r.%n%nInitially you'll need a §aRed Lens§r, a §aDiamond Lens§r, and a §aGlass Lens§r.%n%nRed Lenses can be made from §6Ruby§r, or alternately with Almandine, Red Garnet, Jasper or Rutile.%n%nThe other two lenses should be self evident.%n%n
+omnifactory.quest.db.88.desc=§3Precision Laser Engravers§rを使用するためには、§3Autoclave§rで作られた様々な§aLens§rが必要になります。%n%n最初に必要なのは、§aRed Lens§r、§aDiamond Lens§r、§aGlass Lens§rです。%n%nRed Lensは§6Ruby§r、またはAlmandine、Red Garnet、Jasper、Rutileのどれかから作成できます。%n%n他の2つのLensの素材は言わずとも分かるでしょう。%n%n
 
 # db 89
 omnifactory.quest.db.89.title=The First Tier Three Circuits
-omnifactory.quest.db.89.desc=Your first tier three circuit, formed from four §6Electronic Processors§r and §6Transistors§r, among other ingredients.%n%nAs you'll realize is the pattern, it is expensive and unwieldy to make the first forms of each tier of circuits. Fortunately, you don't have to make many of them.%n%nPrioritize using these circuits to make things needed for unlocking the next theme of circuits, which require more infrastructure but are much cheaper to produce. Eventually each tier through six will have a circuit recipe instead of requiring processors, arrays, or mainframes.%n%n
+omnifactory.quest.db.89.desc=1 Tierの3 Circuitは、§6Electronic Processor§r 4個と§6Transistor§r、その他様々な素材から作成できます。%n%nこれまでの経験からすでにお気づきでしょうが、各Tierの最初のCircuitは高コストで扱いにくいです。しかし幸いなことに、それらを多く作る必要はありません。%n%nこれらの回路を使用して、Circuitの次のテーマのロックを解除するために必要なアイテムの作成を優先しましょう。これにはより多くのインフラ設備を必要としますが、回路がはるかに低コストで作成できるようになります。最終的には、6つのTierそれぞれにProcessor、Array、またはMainframeを必要とするような回路レシピが用意されています。%n%n
 
 # db 90
 omnifactory.quest.db.90.title=MV Assembling Machine
-omnifactory.quest.db.90.desc=The §3Advanced Assembling Machine§r, or MV Assembler for short, allows you to craft recipes that require up to 128 EU/t instead of 32. Plus, any recipe that was at most 32 EU/t can §eoverclock§r, crafting up to 2.8 times faster for 4 times the original energy per tick.%n%nA host of new recipes are now achievable, including a new theme of Circuits!
+omnifactory.quest.db.90.desc=§3Advanced Assembling Machine§r、略してMV Assemblerを使用すると、32 EU/tではなく最大128 EU/tを必要とするレシピが利用可能になります。さらに、最大32 EU/tのレシピは§eオーバークロック§rされ、tickあたり4倍のエネルギーを使用して、最大2.8倍高速に作成できます。%n%n新しいテーマのCircuitを含む、多くの新しいレシピが達成可能になりました！
 
 # db 91
 omnifactory.quest.db.91.title=Chrome
-omnifactory.quest.db.91.desc=§6Chrome§r is obtained by electrolyzing §6Ruby Dust§r.
+omnifactory.quest.db.91.desc=§6Chrome§rは§6Ruby Dust§rを電気分解することで得られます。
 
 # db 92
 omnifactory.quest.db.92.title=Farmer
