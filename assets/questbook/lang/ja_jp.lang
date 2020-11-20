@@ -4,15 +4,15 @@ omnifactory.quest.line.0.desc=Gregtech LV時代: 工場の建築を始めまし�
 
 # line 1
 omnifactory.quest.line.1.title=ゲーム序盤
-omnifactory.quest.line.1.desc=Gregtech MV時代: 新たな機械と基本的な鉱石処理。%n%n有機化学で§6Plastics§rを生産し、§3Distillation Tower§rを建築しましょう。%n%n§bApplied Energistics 2§rによる自動化。§bActually Additions§rの探求。
+omnifactory.quest.line.1.desc=Gregtech MV時代: 新たな機械と基本的な鉱石処理。%n%n有機化学で§6Plastic§rを生産し、§3Distillation Tower§rを建築しましょう。%n%n§bApplied Energistics 2§rによる自動化。§bActually Additions§rの探求。
 
 # line 2
 omnifactory.quest.line.2.title=ゲーム中盤
-omnifactory.quest.line.2.desc=Gregtech HV、EV、IV時代:%n%n§6§3Cryogenic Distillation§rと、§6Epoxy§rと§9Cetane Diesel§rのための石油化学。%n%n§6Nether Stars§rをクラフトして§bThermal Expansion§r機械をアンロックしましょう。%n%n§b NuclearCraft§rのFission Reactorを建築して新たな素材を入手しましょう。%n%nSpace StationとWarp Coreを建築しましょう。
+omnifactory.quest.line.2.desc=Gregtech HV、EV、IV時代:%n%n§6§3Cryogenic Distillation§rと、§6Epoxy§rと§9Cetane Diesel§rのための石油化学。%n%n§6Nether Star§rをクラフトして§bThermal Expansion§r機械をアンロックしましょう。%n%n§bNuclearCraft§rのFission Reactorを建築して新たな素材を入手しましょう。%n%nSpace StationとWarp Coreを建築しましょう。
 
 # line 3
 omnifactory.quest.line.3.title=進行度
-omnifactory.quest.line.3.desc=一歩踏み出すといつもやりがいを感じます。%n%nこのタブでは、§5Omnifactory§rの様々なクエストの進行のアウトラインを示しています。%n%nCircuitは進行度を測る良い指標です。
+omnifactory.quest.line.3.desc=一歩踏み出すたびにやりがいを感じます。%n%nこのタブでは、§5Omnifactory§rの様々なクエストの進行のアウトラインを示しています。%n%nCircuitは進行度を測る良い指標です。
 
 # line 4
 omnifactory.quest.line.4.title=ゲーム終盤
@@ -20,7 +20,7 @@ omnifactory.quest.line.4.desc=GregTech LuV、ZPM、UV時代:%n%n§3Assembly Line
 
 # line 5
 omnifactory.quest.line.5.title=エンドゲーム
-omnifactory.quest.line.5.desc=あなたは今、エンドゲームにいます……%n%nHarvest entire microverses and unlock the §dCreative Portable Tank§r.%n%n最終的な目標である§dCreative Vending Upgrade§rに向かって進んでいく中で、自動化を最終段階にしてみましょう。
+omnifactory.quest.line.5.desc=あなたは今、エンドゲームにいます……%n%nMicroverseの全てを手に収めて、§dCreative Portable Tank§rをアンロックしましょう。%n%n最終的な目標である§dCreative Vending Upgrade§rに向かって進んでいく中で、自動化を最終段階に進めましょう。
 
 # line 6
 omnifactory.quest.line.6.title=ジェネシス
@@ -28,15 +28,15 @@ omnifactory.quest.line.6.desc=§5Omnifactory§rへようこそ。私が案内役
 
 # line 7
 omnifactory.quest.line.7.title=Microverseへ
-omnifactory.quest.line.7.desc=§bExtra Utilities§rと§bExtended Crafting§rへ足を踏み入れましょう。%n%nConquer The End or invest in §bEnderIO §rfor teleportation technologies.%n%nBuild a rocket and go to the Moon (or don't, but it's fun).%n%nEither way, it's time to start mining §emicroverses§r.
+omnifactory.quest.line.7.desc=§bExtra Utilities§rと§bExtended Crafting§rへ足を踏み入れましょう。%n%nジ・エンドを征服して、テレポート技術の獲得のために§bEnderIO§rを進めましょう。%n%nロケットを建築して月へ旅立ちましょう（行かなくてもいいですし、それでも楽しめます）。%n%nいずれにせよ、§eMicroverse§rを採掘し始める時間です。
 
 # db 0
 omnifactory.quest.db.0.title=Quartzのチャージ
-omnifactory.quest.db.0.desc=このデバイスの一番の目的は、§6Certus Quartz Crystal§rを§6Charged Certus Quartz Crystal§rに変換することです。%n%nこのデバイスは、エネルギー導管を介したRFエネルギーか、ME導管・ケーブルを介したAEエネルギーで動作します。%n%n2つの面から動力を受け付けます。その2つの面とはどこでしょうか？　簡単に推測できるでしょう。%n%n%n%n%n%n%n%n%nOK、OK。上面と底面です。%n%n
+omnifactory.quest.db.0.desc=このデバイスの一番の目的は、§6Certus Quartz Crystal§rを§6Charged Certus Quartz Crystal§rに変換することです。%n%nこのデバイスは、エネルギー導管を介したRFエネルギーか、ME導管・ケーブルを介したAEエネルギーで動作します。%n%n2つの面から動力を受け付けます。その2つの面とはどこでしょうか？簡単に推測できるでしょう。%n%n%n%n%n%n%n%n%nOK、OK。上面と底面です。%n%n
 
 # db 1
 omnifactory.quest.db.1.title=Crystal Growth Chamber
-omnifactory.quest.db.1.desc=The §3Crystal Growth Chamber§rがあれば、§bApplied Energistics§rの世界のレシピのクラフトを機械の中で実行できるようになります。やりました！　これでもうモノを水に落とさなくて済みます！%n%n§6Crystal Seeds§rが§6Pure Crystals§rに成長するのを促進したり、§6Fluix Crystals§rをクラフトしたりするのに使います。%n%nJEIにはChamberのレシピが直接記載されていないので、ここで説明します:%n%n3種類のCrystalのいずれかを粉砕し、得られたDustを砂と混ぜることでSeedが得られます。Seedは成長して対応するPure Crystalに成長し、そしてPure Crystalはほとんどのレシピで元のCrystalの代替として使用できます。Pure Crystalsを使用することで、素材効率を効果的に2倍にすることができます。しかしながら、そこからさらにPure Crystalsを粉砕して素材を倍増することはできません。%n%n現時点では、Fluix Crystalsを作るには水源に投入する必要がありますが、これからは機械に同じ素材を入れるだけで済みます: §6Redstone Dust§r、§6Charged Certus Quartz Crystal§r、§6Nether Quartz§rを機械に投入することでFluix Crystalsを2個得られます。
+omnifactory.quest.db.1.desc=The §3Crystal Growth Chamber§rがあれば、§bApplied Energistics§rの世界のレシピのクラフトを機械の中で実行できるようになります。やりました！これでもうモノを水に落とさなくて済みます！%n%n§6Crystal Seeds§rが§6Pure Crystals§rに成長するのを促進したり、§6Fluix Crystals§rをクラフトしたりするのに使います。%n%nJEIにはChamberのレシピが直接記載されていないので、ここで説明します:%n%n3種類のCrystalのいずれかを粉砕し、得られたDustを砂と混ぜることでSeedが得られます。Seedは成長して対応するPure Crystalに成長し、そしてPure Crystalはほとんどのレシピで元のCrystalの代替として使用できます。Pure Crystalsを使用することで、素材効率を効果的に2倍にすることができます。しかしながら、そこからさらにPure Crystalsを粉砕して素材を倍増することはできません。%n%n現時点では、Fluix Crystalsを作るには水源に投入する必要がありますが、これからは機械に同じ素材を入れるだけで済みます: §6Redstone Dust§r、§6Charged Certus Quartz Crystal§r、§6Nether Quartz§rを機械に投入することでFluix Crystalsを2個得られます。
 
 # db 2
 omnifactory.quest.db.2.title=Canning Machineと詰め合わせ
@@ -44,14 +44,14 @@ omnifactory.quest.db.2.desc=注意：このクエストではLVとMVのCanning M
 
 # db 3
 omnifactory.quest.db.3.title=ジェネシス
-omnifactory.quest.db.3.desc=§5Omnifactory§fへようこそ！%n%nこのパックは§bLost Cities / Overworldディメンション§fでプレイされることを想定しています。%n%nフレンドと遊ぶ場合は、§eQuestbook Party§fに招待するのを忘れないようにしてください。%n%n§fスカイブロックのワールドに拠点を建築したい場合、§6Void World Cake§fを地面に設置し、一切れ分を食べるとVoidに送られます。採掘をする際にはLost Cities / Overworldディメンションに戻る必要がある点に注意してください。しかし、§eVoid World§fでは安全で自由に建築することができます。
+omnifactory.quest.db.3.desc=§5Omnifactory§fへようこそ！%n%nこのパックは、§bLost Cities / Overworldディメンション§fでプレイされることを想定しています。%n%nフレンドと遊ぶ場合は、§eQuestbook Party§fに招待するのを忘れないようにしてください。%n%n§fスカイブロックのワールドに拠点を建築したい場合、§6Void World Cake§fを地面に設置し、一切れ分を食べるとVoidに送られます。採掘をする際にはLost Cities / Overworldディメンションに戻る必要がある点に注意してください。しかし、§eVoid World§fでは安全で自由に建築することができます。
 
 # db 4
 omnifactory.quest.db.4.title=Ironの供給
-omnifactory.quest.db.4.desc=§c§r§5Omnifactory§fにおける鉱石は、「§e鉱脈§f」という大きな塊の形で偏在しています。鉱脈はワールド内にちらばっていて、比較的よく見つかります。インベントリ内の§aScanner§fを使うことで現在位置から16ブロック内にあるあらゆる鉱石を探知できるので、 地面を掘ってスキャンすることで近くの鉱脈が表示されるでしょう。進捗メーターが埋まるまで§6右クリック§fを押し続けてスキャンをしてみましょう。%n%nScannerの動作にはエネルギーが必要ですが、バッテリーが消耗する可能性は低いです。そうは言っても、のちにクエストブックがインベントリ内のツールを充電するアイテムである§aFlux Capacitor§fを作るようにガイドします。%n%n先に進むには、§6Iron§fの資源の位置を突き止める必要があります。そのための選択肢がいくつかあります。§6Magnetite§f鉱脈は地表近くに位置し、大量のIron・§6Vanadium§f・§6Gold§fが含まれています。もう一つの良質なIron資源は§6Limonite§f鉱脈で、複数種類のIron資源が含まれています。そして、いくつかの鉱脈では§6Copper§fとともに§6Pyrite§fが見つかります。%n%n§6Wrought Iron§fは§eIronをもう一回精錬する§fことで得られます。Ironよりも耐久度が高いので、ツールの素材として使うのに最適です。だからといって、§c得たIronをすべてWrought Ironに変換してはいけません§f。これら2つの材料は相互変換することはできず、IronもWrought Ironもさまざまなレシピで要求されます。
+omnifactory.quest.db.4.desc=§c§r§5Omnifactory§fにおける鉱石は、「§e鉱脈§f」という大きな塊の形で偏在しています。鉱脈はワールド内にちらばっていて、比較的よく見つかります。インベントリ内の§aScanner§fを使うことで現在位置から16ブロック内にあるあらゆる鉱石を探知できるので、 地面を掘ってスキャンすることで近くの鉱脈が表示されるでしょう。進捗メーターが埋まるまで§6右クリック§fを押し続けてスキャンをしてみましょう。%n%nScannerの動作にはエネルギーが必要ですが、バッテリーが消耗する可能性は低いです。そうは言っても、のちにクエストブックがインベントリ内のツールを充電するアイテムである§aFlux Capacitor§fを作るようにガイドします。%n%n先に進むには、§6Iron§fの資源の位置を突き止める必要があります。そのための選択肢がいくつかあります。§6Magnetite§f鉱脈は地表近くに位置し、大量のIron・§6Vanadium§f・§6Gold§fが含まれています。もう一つの良質なIron資源は§6Limonite§f鉱脈で、数種類のIron資源が含まれています。そして、いくつかの鉱脈では§6Copper§fとともに§6Pyrite§fが見つかります。%n%n§6Wrought Iron§fは§eIronをもう一回精錬する§fことで得られます。Ironよりも耐久度が高いので、ツールの素材として使うのに最適です。だからといって、§c得たIronをすべてWrought Ironに加工してはいけません§f。これら2つの材料は相互変換することはできず、IronとWrought Ironのどちらもさまざまなレシピで要求されます。
 
 # db 5
-omnifactory.quest.db.5.title=Mining Hammers
+omnifactory.quest.db.5.title=Mining Hammer
 omnifactory.quest.db.5.desc=§aMining Hammer§rは、採掘をより素早く進めるための比較的安価なツールです。3x3範囲内のブロックを一度に素早く破壊することができるので、初めて得た金属インゴットの最初の用途として使うだけの価値があります§..%n%n§6Stone§f製のMining Hammerが最も安価ですが、その分すぐに壊れます。あなたはすでにいくつかの§6Iron§fを持っているわけですから、ぜひとも最初の採掘遠征の際に使ってみましょう。%n%n最良のMining Hammersは§6Diamond§fあるいは§6Platinum§f製のものです。他のMining Hammerも悪くないですが比較的消耗が早いです。%n%n§c§n決してMining HammerでGregTech機械を撤去しないように！§r%n%n
 
 # db 6
@@ -108,7 +108,7 @@ omnifactory.quest.db.18.desc=§3Obsidian Furnaces§fの精錬速度は§3Diamond
 
 # db 19
 omnifactory.quest.db.19.title=Alloy Smelter
-omnifactory.quest.db.19.desc=Alloy Smelterはアイテムを融解し再結合するすることで合金を作るための機械です。%n%nこれでもう、合金のDustを作るためにわざわざ金属をDustに粉砕する必要がなくなります！　さらに、この方法でクラフトできないような多くの複雑な合金がクラフト可能になります。
+omnifactory.quest.db.19.desc=Alloy Smelterはアイテムを融解し再結合するすることで合金を作るための機械です。%n%nこれでもう、合金のDustを作るためにわざわざ金属をDustに粉砕する必要がなくなります！さらに、この方法でクラフトできないような多くの複雑な合金がクラフト可能になります。
 
 # db 20
 omnifactory.quest.db.20.title=かまど v6.0
@@ -400,31 +400,31 @@ omnifactory.quest.db.91.desc=§6Chrome§rは§6Ruby Dust§rを電気分解する
 
 # db 92
 omnifactory.quest.db.92.title=Farmer
-omnifactory.quest.db.92.desc=The §3Farmer§r can be used to automate the planting and gathering of crops, including §6Potatoes§r, §6Canola§r, §6Carrots§r, and §6Beetroot§r.%n%nDoesn't do trees, though.
+omnifactory.quest.db.92.desc=The §3Farmer§rを使うことで、§6Potato§r、§6Canola§r、§6Carrot§r、§6Beetroot§rといった作物の植え付けと収穫を自動化できます。%n%nTreeの栽培には使えません。
 
 # db 93
-omnifactory.quest.db.93.title=HV Machine Hulls
-omnifactory.quest.db.93.desc=With §6HV Machine Hulls§r made, you've made your first step towards §eHigh Voltage (HV)§r power machinery!%n%nWhile you can make these in a crafting table with §6Polyethylene Sheets§r, liquid §9Polyethylene§r can be used to craft these directly in an §3Assembling Machine§r.
+omnifactory.quest.db.93.title=HV Machine Hull
+omnifactory.quest.db.93.desc=§6HV Machine Hull§rが作成されたことで、§e高圧（HV）§r電力機械への第一歩を踏み出しました！%n%nこれらは§6Polyethylene Sheet§rを使ってCrafting Tableで作成できますが、液体§9Polyethylene§rを使用して§3Assembling Machine§rで直接作成することもできます。
 
 # db 94
 omnifactory.quest.db.94.title=Sulfuric Acid
-omnifactory.quest.db.94.desc=§9Sulfuric Acid§r is produced from §6Sulfur§r and §9Water§r. You'll need huge amounts of this for a whole range of chemical reactions, as it is a very common ingredient.%n%nSulfur can be electrolyzed from many things, but is also easily available via §bDeepMobLearning§r's §aBlaze Model§r.
+omnifactory.quest.db.94.desc=§9Sulfuric Acid§rは§6Sulfur§rと§9Water§rから生成されます。これは非常に一般的な成分であるため、化学反応のあらゆる場面で大量に必要になります。%n%nSulfurは多くのものから電気分解して入手できますが、§bDeepMobLearning§rの§aBlaze Model§rからも簡単に入手できます。
 
 # db 95
-omnifactory.quest.db.95.title=Ethylene and Polyethylene
-omnifactory.quest.db.95.desc=§9Ethylene§r is a hydrocarbon made from dehydrating §9Ethanol§r with §9Sulfuric Acid§r in a §3Chemical Reactor§r. It is an extremely important chemical in the production of plastics.%n%n§9Polyethylene§r is the most common category of plastic, made from polymers of §9Ethylene§r. Adding §9Oxygen§r in a §3Chemical Reactor§r recreates (with some artistic license) early accidental synthesis of Polyethylene.%n%nWhen you have large amounts of §6Rutile§r and §6Bauxite§r (probably after you visit the Moon) you can consider using §9Titanium Tetrachloride§r as a catalyst to improve your Polyethylene yields. For now it's not a great idea, as in addition to its Overworld rarity, you need it for §6Titanium§r.
+omnifactory.quest.db.95.title=EthyleneとPolyethylene
+omnifactory.quest.db.95.desc=§9Ethylene§rは、§3Chemical Reactor§rで§9Ethanol§rを§9Sulfuric Acid§rで脱水して得られる炭化水素です。プラスチックの製造において非常に重要な化学物質です。%n%n§9Polyethylene§rは、§9Ethylene§rのポリマーから作られる最も一般的なプラスチックです。§3Chemical Reactor§rに§9Oxygen§rを追加すると、（現実に起こる反応とは異なりますが）Polyethyleneの初期の偶発的な合成が再現されます。%n%n§6Rutile§rと§6Bauxite§rが大量にある場合（おそらくMoonを訪れた後）、Polyethyleneの収率を向上させるための触媒として§9Titanium Tetrachloride§rを使用することを検討できます。今のところ、それは素晴らしいアイデアではありません。オーバーワールドでは希少であり、加えて§6Titanium§rの作成の際に必要となるからです。
 
 # db 96
-omnifactory.quest.db.96.title=Plastic Sheets
-omnifactory.quest.db.96.desc=Form §6Polyethylene Sheets§r using a §3Fluid Solidifer§r and a §aPlate Mold§r for use in crafting electronics components.
+omnifactory.quest.db.96.title=Plastic Sheet
+omnifactory.quest.db.96.desc=§3Fluid Solidifier§rと§aPlate Mold§rを使用して§6Polyethylene Sheet§rを形成し、電子部品の製造に使用します。
 
 # db 97
-omnifactory.quest.db.97.title=Keeping Stuff In Stock
-omnifactory.quest.db.97.desc=If you didn't know, you can have stacks of items stored inside of an §aME Interface§r. Placing a §aStorage Bus§r onto the ME Interface lets you access and use those items in recipes. Putting a §aCrafting Card§r inside the Interface will let the Interface automatically place autocraft orders for items it should stock but you don't have.%n%nThis approach can be used for autocrafting to some extent, but proceed with caution as crafting cards can produce a great deal of lag on larger ME Networks. AE calculates the full crafting tree of these items every time a request is made, even if you have enough items already in stock.%n%nThus, it is strongly recommended to limit Crafting Cards to simple recipes (ones without many dependent recipes) and ideally on smaller purpose-built networks. %n%nPrefer passive autocrafting methods on your main network, or if things are gonna get complicated.
+omnifactory.quest.db.97.title=在庫を維持する
+omnifactory.quest.db.97.desc=実は、§aME Interface§r内にアイテムのスタックを格納できます。§aStorage Bus§rをME Interfaceに配置すると、レシピでこれらのアイテムにアクセスして使用できます。Interface内に§aCrafting Card§rを配置すると、Interfaceは、在庫はあるものの所有していないアイテムの自動クラフト注文を自動的に行うことができます。%n%nこのアプローチはある程度の自動作成に使用できますが、Cardの作成は大規模なMEネットワークで大きな遅延を引き起こす可能性があるため、注意して進めてください。AEは、十分な在庫がある場合でも、リクエストが行われるたびにこれらのアイテムの完全なクラフトツリーを計算します。%n%nしたがって、Craft Cardを単純なレシピ（多くの依存レシピがないもの）に制限し、理想的には小規模な専用ネットワークに限定することを強くお勧めします。%n%nメインのネットワーク上におけるパッシブな自動作成や、状況が複雑になる場合に使用します。
 
 # db 98
 omnifactory.quest.db.98.title=Stainless Steel
-omnifactory.quest.db.98.desc=§6Stainless Steel§r will be your primary material for HV, in the same way that §6Aluminium§r was for MV and §6Wrought Iron§r was for LV.%n%n§6Manganese§r comes from electrolyzing §6Tantalite§r, §6Pyrolusite§r, or §6Spessartine Dusts§r. You already have §6Chrome§r.%n%nMix up a bunch of the dust in a §3Mixer§r and begin processing it through the §3Electric Blast Furnace§r. This may be a good time to reevaluate your power generation and storage infrastructure.
+omnifactory.quest.db.98.desc=§6Aluminium§rがMV用であり、§6Wrought Iron§rがLV用であったのと同じように、§6Stainless Steel§rがHVにおける主要素材になります。%n%n§6Manganese§rは、§6Tantalite§r、§6Pyrolusite§r、または§6Spessartine Dust§rを電気分解することで得られます。§6Chrome§rはすでに所有済みです。%n%n§3Mixer§rでこれらのDustを混ぜ合わせ、§3Electric Blast Furnace§rで処理を開始します。これは、発電とストレージのインフラ設備を見直す良い機会かもしれません。
 
 # db 99
 omnifactory.quest.db.99.title=Synthesizing Your First Omnium
@@ -2255,8 +2255,8 @@ omnifactory.quest.db.555.title=Fluxed Phyto-Gro
 omnifactory.quest.db.555.desc=§6Rich Phyto-Gro§r can be further enhanced by infusing it with Redstone Flux in the §3Energetic Infuser§r.
 
 # db 556
-omnifactory.quest.db.556.title=Bounties For Omnicoins!
-omnifactory.quest.db.556.desc=Now that you have a §3Wiremill§f and a §3Compressor§f, you can consider starting to do §eBounties§f. The §6Bounty Board§f has a global inventory containing quests to turn in specific items in exchange for §dOmnicoins§f. These quests have a fairly short duration, so make sure to §estockpile the items§f that come up on them or else they'll §cexpire before you can complete them§f.%n%nWith renewable §dOmnicoins§f, you should feel free to spend the ones you have on whatever you need. §aSpend your coins!
+omnifactory.quest.db.556.title=Omnicoinの報酬金！
+omnifactory.quest.db.556.desc=§3Wiremill§fと§3Compressor§fを持っているので、§eBounties§fを始めることができます。 §6Bounty Board§fにはグローバルインベントリがあり、そこには§dOmnicoin§fと引き換えに特定のアイテムを提出するためのクエストが含まれています。クエストの期間はかなり短いので、クエストに出てくる§eアイテムを備蓄する§fようにしてください。そうしないと、§c完了する前に期限切れになります§f。%n%n更新可能な§dOmnicoins§fがあれば、必要なものに自由に使用できます。§aコインを使いましょう！
 
 # db 557
 omnifactory.quest.db.557.title=Gap
@@ -2711,8 +2711,8 @@ omnifactory.quest.db.669.title=Uranium Fission
 omnifactory.quest.db.669.desc=When you have enough materials, you can craft Uranium isotope clumps into Low-Enriched Uranium 235 Fuel (or §6LEU-235§r, for short). This fuel uses an 8:1 ratio of U238 to U235.%n%nThis fuel is processed in your §3Fission Reactor§r by placing it in the controller. When a redstone signal is applied it will burn the fuel, generating some power from the reactor and after a while you'll get a §6Depleted LEU-235 Fuel§r§r.%n%nKeep in mind that power generation is §nnot§r§r the goal: the duration of all fuels is quite short in §5Omnifactory§r. What you want are the next fissile materials in the chain.%n%nThe depleted fuel is separated in a regular §3Centrifuge§r, resulting in many tiny clumps of fissile materials: Uranium 238, §6Neptunium 237§r, §6§6Plutonium 239§r, and §6Plutonium 241§r.
 
 # db 670
-omnifactory.quest.db.670.title=End Game Tab
-omnifactory.quest.db.670.desc=Take a peek at The §eEnd Game quest book tab§f. This might seem a bit premature to suggest, but it has a reason.%n%nThese are quests for a full stack of many of the materials in the game. Those are the materials you'll need to synthesize §5Omnium§r, the basic end game resource. Its the pack's way of letting you know what materials you should be prepared to mass produce as you approach the end.%n%nOf course, its not necessary or even advisable to try to finish up all of these quests the moment they become available. Some will be incredibly easy (like §6Iron§f and §6Copper§f), others will be brutally grindy at early tech levels. The rewards are all the same: §d25 Omnicoins each§f, so use your best judgement on which ones to complete and which to ignore for later.
+omnifactory.quest.db.670.title=エンドゲームのタブ
+omnifactory.quest.db.670.desc=§eエンドゲームのクエストブックタブ§fをのぞいてみましょう。 これを提案するのは少し時期尚早に思えるかもしれませんが、それには理由があります。%n%nこれらは、ゲーム内の多くの素材についてそれぞれ1スタック分ずつを要求するクエストです。エンドゲームにおける基本的な素材である§5Omnium§rを合成するために必要な素材となります。これは、終わりに近づくにつれて、大量生産にどのような材料を準備する必要があるかを知らせる、このModpack独自の方法です。%n%nもちろん、これらのクエストが利用可能になった瞬間にすべてを完了させる必要はなく、むしろおすすめできません。信じられないほど簡単なもの（§6Iron§fや§6Copper§fなど）もあれば、初期の技術レベルでは残酷なまでに要求が高いものもあります。報酬はすべて同じです：§dそれぞれ25 Omnicoin§fなので、どれを完了し、どれを後回しするかについては、おのおの最善の判断を下してください。
 
 # db 671
 omnifactory.quest.db.671.title=Thorium Fission
@@ -2803,16 +2803,16 @@ omnifactory.quest.db.692.title=Wrenches Galore
 omnifactory.quest.db.692.desc=Confused about all the Wrenches yet?%n%nThe §aCrescent Hammer§r is for use on machines from §bThermal Expansion§f, but can be used for basic wrench interactions with blocks from almost every mod.%n%nThe §aYeta Wrench§r is used with machines and conduits from §bEnderIO§f, and has several special display modes (§6sneak-mouse wheel§f to switch between them).%n%nThe §aGregTech Wrench§r is used to rotate GregTech machines and redefine their output sides.%n%nYou can see which mod a machine is from with the §9blue text§f at the bottom of its tooltip.
 
 # db 693
-omnifactory.quest.db.693.title=Infinity War
-omnifactory.quest.db.693.desc=Give me a little juice, FRIDAY!
+omnifactory.quest.db.693.title=インフィニティ・ウォー
+omnifactory.quest.db.693.desc=フライデー、もっと速度を上げろ！
 
 # db 694
-omnifactory.quest.db.694.title=Captain... Marvel? IDK
+omnifactory.quest.db.694.title=キャプテン……マーベル？ わからない
 omnifactory.quest.db.694.desc=I'm running out of MCU puns.%n%nThe §aAngel Ring§r is actually slower than a jetpack, but it grants creative flight and requires no fuel (except a bit of GP).%n%nUp to you if you want to use it over a jetpack for day to day stuff, but it's an ingredient in the next jetpack, so if you want that you'll need to make one eventually.
 
 # db 695
-omnifactory.quest.db.695.title=Endgame
-omnifactory.quest.db.695.desc=This is the flight of our lives.
+omnifactory.quest.db.695.title=エンドゲーム
+omnifactory.quest.db.695.desc=これは命をかけた飛行だ。
 
 # db 696
 omnifactory.quest.db.696.title=Naquadah Reactor Mk2
