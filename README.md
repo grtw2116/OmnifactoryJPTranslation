@@ -14,6 +14,6 @@ Omnifactoryの多言語対応はv1.3以降になると思われます。その�
 完成品の配布はv1.3リリース後を予定しています。
 また、dev版のデータを使用しているため、レポジトリ上の言語ファイルは最新バージョンに対応していない可能性があります。
 
-Omnifactory's multilingual support is expected to be available after v1.2.3. Therefore, translations cannot be applied in the current version (v1.2.2).
-Therefore, we plan to distribute the finished product after the v1.2.3 release.
+Omnifactory's multilingual support is expected to be available after v1.3. Therefore, translations cannot be applied in the current version (v1.2.2).
+Therefore, we plan to distribute the finished product after the v1.3 release.
 Also, because we are using the dev version of the data, the language files on the repository may not be compatible with the latest version.
