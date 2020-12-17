@@ -52,7 +52,7 @@ omnifactory.quest.db.4.desc=§c§rOres in §5Omnifactory§f exist in large clust
 
 # db 5
 omnifactory.quest.db.5.title=Mining Hammers
-omnifactory.quest.db.5.desc=§aMining Hammers§r offer a relatively cheap way to mine out areas much faster. They clear a 3x3 of blocks and mine quickly, so they're absolutely worth investing your first few ingots of metal into§..%n%n§6Stone§f is the cheapest Mining Hammer, but naturally it breaks quickly. Since you have some §6Iron§f already, consider using those on your first few mining expeditions.%n%nThe best Mining Hammers are §6Diamond§f and §6Platinum§f. Other Mining Hammers are also good but wear out more quickly.%n%n§c§nNEVER break GregTech machines with mining hammers!§r%n%n
+omnifactory.quest.db.5.desc=§aMining Hammers§r offer a relatively cheap way to mine out areas much faster. They clear a 3x3 of blocks and mine quickly, so they're absolutely worth investing your first few ingots of metal into§..%n%n§6Stone§f is the cheapest Mining Hammer, but naturally it breaks quickly. Since you have some §6Iron§f already, consider using those on your first few mining expeditions.%n%nThe best Mining Hammers are §6Diamond§f and §6Platinum§f. Other Mining Hammers are also good but wear out more quickly.
 
 # db 6
 omnifactory.quest.db.6.title=More Materials
@@ -84,7 +84,7 @@ omnifactory.quest.db.12.desc=One of the eccentricities of the pack you'll need t
 
 # db 13
 omnifactory.quest.db.13.title=Worktables Are Life
-omnifactory.quest.db.13.desc=If you try to craft each item on demand, you'll go insane. Use §3Worktables§f to save recipes for all the steps in production chains for things like tools, circuits, machine casings, and more. If you're doing things right, you'll likely have §ea dozen or more worktables§f in short order.%n%nLoad up the table's storage area with the necessary materials, and §ebatch-craft§f items when needed. The satisfaction of clicking a few buttons and getting §ea stack of finished items§f crafted up is worth the effort.%n%nEach worktable will remember up to the last nine recipes you made in them, which can be recalled by clicking in the top-right recipe history pane. If you want to ensure a recipe doesn't ever get replaced by a different one, right-click it in the history pane to lock it.
+omnifactory.quest.db.13.desc=If you try to craft each item on demand, you'll go insane. Use §3Worktables§f to save recipes for all the steps in production chains for things like tools, circuits, machine casings, and more. If you're doing things right, you'll likely have §ea dozen or more worktables§f in short order.%n%nLoad up the table's storage area with the necessary materials, and §ebatch-craft§f items when needed. The satisfaction of clicking a few buttons and getting §ea stack of finished items§f crafted up is worth the effort.%n%nEach worktable will remember up to the last nine recipes you made in them, which can be recalled by clicking in the top-right recipe history pane. If you want to ensure a recipe doesn't ever get replaced by a different one, right-click it in the history pane to lock it.%n%nFor slightly more materials, the §3Crafting Station§f from §bGregTech CE§r is another viable choice. In addition to performing all the functions the §3Worktable§f does, it has dedicated slots for tool storage and an inventory view to easily see all the items in the crafting storage.
 
 # db 14
 omnifactory.quest.db.14.title=Furnace v2.0
@@ -124,7 +124,7 @@ omnifactory.quest.db.22.desc=The main function of this oven is to increase the f
 
 # db 23
 omnifactory.quest.db.23.title=Obsidian
-omnifactory.quest.db.23.desc=You'll need Obsidian to make Dark Steel. Most of the tools you can make cannot mine Obsidian, but you do have a few potential options for ones that will work. The options you're most likely to have access to at this point are:%n%n1) A Diamond Pickaxe or Diamond Mining Hammer.%n%n2) A Platinum Mining Hammer (not pickaxe though).%n%n3) A Cobalt Pickaxe (smelted from Cobaltite).
+omnifactory.quest.db.23.desc=You'll need Obsidian to make Dark Steel. Most of the tools you can make cannot mine Obsidian, but you do have a few potential options for ones that will work. The options you're most likely to have access to at this point are:%n%n1) A Diamond Pickaxe or Diamond Mining Hammer.%n%n2) A Platinum Mining Hammer (not pickaxe though).
 
 # db 24
 omnifactory.quest.db.24.title=Steam Dynamo
@@ -428,7 +428,7 @@ omnifactory.quest.db.98.desc=§6Stainless Steel§r will be your primary material
 
 # db 99
 omnifactory.quest.db.99.title=Synthesizing Your First Omnium
-omnifactory.quest.db.99.desc=With the §6Stabilized Einsteinium§r you harvested from a microverse, you should now have access to everything you need to synthesize your first §dMote of Omnium§r.%n%nYou're gonna need to make a lot of these as you push into the End Game, so make sure your §eautomation is supplying you with a stock of all of the ingredients§r. That's what those quests in the End Game tab have been about about all along!
+omnifactory.quest.db.99.desc=With the §6Stabilized Einsteinium§r you harvested from a microverse, you should now have access to everything you need to synthesize your first §dMote of Omnium§r.%n%nYou're gonna need to make a lot of these as you push into the End Game, so make sure your §eautomation is supplying you with a stock of all of the ingredients§r. That's what those quests in the End Game tab have been about all along!
 
 # db 100
 omnifactory.quest.db.100.title=Engineering Processor
@@ -1624,7 +1624,7 @@ omnifactory.quest.db.397.desc=A single-block solution to all your power needs.%n
 
 # db 398
 omnifactory.quest.db.398.title=Multi Smelter
-omnifactory.quest.db.398.desc=The §3Multi Smelter§r is an absolute smelting unit, and is most likely the best furnace added by a mod.%n%nIt's a 3x3x3 multiblock machine capable of §esmelting huge amounts of items per second§r. By upgrading its coils and power tier, it can become capable of smelting up to literal thousands of items per second.%n%nHover over different coil blocks: the higher the §elevel§r, the more items a Multi Smelter can smelt per operation: §e16 items per level§r. The most basic Multi Smelter essentially does 16 items in the same time as a furnace does one. With a set of level 4 coil blocks, that jumps to 64 items per operation.%n%nThis quest doesn't ask for coils, hatches or buses: feel free to choose whatever combination you want. You'll need §a8 coil blocks§r, §a1 input bus§r, §a1 output bus§r and at least §a1 energy hatch§r of any tier.%n%n
+omnifactory.quest.db.398.desc=The §3Multi Smelter§r is an absolute smelting unit, and is most likely the best furnace added by a mod.%n%nIt's a 3x3x3 multiblock machine capable of §esmelting huge amounts of items per second§r. By upgrading its coils and power tier, it can become capable of smelting up to literal thousands of items per second.%n%nHover over different coil blocks: the higher the §elevel§r, the more items a Multi Smelter can smelt per operation: §e32 items per level§r. The most basic Multi Smelter essentially does 32 items in the same time as a furnace does one. With a set of level 4 coil blocks, that jumps to 128 items per operation.%n%nThis quest doesn't ask for coils, hatches or buses: feel free to choose whatever combination you want. You'll need §a8 coil blocks§r, §a1 input bus§r, §a1 output bus§r and at least §a1 energy hatch§r of any tier.%n%n
 
 # db 399
 omnifactory.quest.db.399.title=Plasma Turbine
@@ -3132,7 +3132,7 @@ omnifactory.quest.db.774.desc=§3Lathe§r is an important machine that makes rod
 
 # db 775
 omnifactory.quest.db.775.title=Multiblock Machine Previews
-omnifactory.quest.db.775.desc=§bMultiblock Tweaker§r adds an §einteractive in-world preview§r for all §bGregTech§r multiblocks! §6Shift-right-click§r a placed controller to activate a hologram depicting the default layout of the structure to help you with building. As you place blocks, the structure will be validated and the §efirst incorrect block§r it detects will be highlighted in red.%n%n§6Sneak-right-click§r to cycle from the full view through each layer. When on the final layer of the preview, this will remove the preview.%n%n§6Sneak-left-click§r to go back to the previous layer, or close the preview from the full view.%n%nIn the §eJEI previews§r for multiblocks, §6left-click§r and drag the mouse to rotate the preview horizontally. §6Shift-left-click§r to rotate it vertically.%n%nFor §bMultiblock Tweaker§r structures, you can additionally §6right-click§r and drag the mouse to pan the preview or §6shift-right-click§r and drag to zoom in or out.
+omnifactory.quest.db.775.desc=§bMultiblock Tweaker§r adds an §einteractive in-world preview§r for all §bGregTech§r multiblocks! §6Shift-right-click§r a placed controller to activate a hologram depicting the default layout of the structure to help you with building. As you place blocks, the structure will be validated and the §efirst incorrect block§r it detects will be highlighted in red.%n%n§6Sneak-right-click§r to cycle from the full view through each layer. When on the final layer of the preview, this will remove the preview.%n%n§6Sneak-left-click§r to go back to the previous layer, or close the preview from the full view.%n%nIn the §eJEI previews§r for multiblocks, §6left-click§r and drag the mouse to rotate the preview horizontally. §6Shift-left-click§r to rotate it vertically.%n%nAdditionally, you can §6right-click§r and drag the mouse to pan the preview or §6shift-right-click§r and drag to zoom in or out.
 
 # db 776
 omnifactory.quest.db.776.title=Awakened Core

@@ -11,8 +11,8 @@ omnifactory.quest.line.2.title=ゲーム中盤
 omnifactory.quest.line.2.desc=Gregtech HV、EV、IV時代:%n%n§6§3Cryogenic Distillation§rと、§6Epoxy§rと§9Cetane Diesel§rのための石油化学。%n%n§6Nether Star§rをクラフトして§bThermal Expansion§r機械をアンロックしましょう。%n%n§bNuclearCraft§rのFission Reactorを建築して新たな素材を入手しましょう。%n%nSpace StationとWarp Coreを建築しましょう。
 
 # line 3
-omnifactory.quest.line.3.title=進行度
-omnifactory.quest.line.3.desc=一歩踏み出すたびにやりがいを感じます。%n%nこのタブでは、§5Omnifactory§rの様々なクエストの進行のアウトラインを示しています。%n%nCircuitは進行度を測る良い指標です。
+omnifactory.quest.line.3.title=進行状況
+omnifactory.quest.line.3.desc=一歩踏み出すたびにやりがいを感じます。%n%nこのタブでは、§5Omnifactory§rの様々なクエストの進展度のアウトラインを示しています。%n%nCircuitは進展度を測る良い指標です。
 
 # line 4
 omnifactory.quest.line.4.title=ゲーム終盤
@@ -52,7 +52,7 @@ omnifactory.quest.db.4.desc=§c§r§5Omnifactory§fにおける鉱石は、「§
 
 # db 5
 omnifactory.quest.db.5.title=Mining Hammer
-omnifactory.quest.db.5.desc=§aMining Hammer§rは、採掘をより素早く進めるための比較的安価なツールです。3x3範囲内のブロックを一度に素早く破壊することができるので、初めて得た金属インゴットの最初の用途として使うだけの価値があります§..%n%n§6Stone§f製のMining Hammerが最も安価ですが、その分すぐに壊れます。あなたはすでにいくつかの§6Iron§fを持っているわけですから、ぜひとも最初の採掘遠征の際に使ってみましょう。%n%n最良のMining Hammersは§6Diamond§fあるいは§6Platinum§f製のものです。他のMining Hammerも悪くないですが比較的消耗が早いです。%n%n§c§n決してMining HammerでGregTech機械を撤去しないように！§r%n%n
+omnifactory.quest.db.5.desc=§aMining Hammer§rは、採掘をより素早く進めるための比較的安価なツールです。3x3範囲内のブロックを一度に素早く破壊することができるので、初めて得た金属インゴットの最初の用途として使うだけの価値があります§..%n%n§6Stone§f製のMining Hammerが最も安価ですが、その分すぐに壊れます。あなたはすでにいくつかの§6Iron§fを持っているわけですから、ぜひとも最初の採掘遠征の際に使ってみましょう。%n%n最良のMining Hammersは§6Diamond§fあるいは§6Platinum§f製のものです。他のMining Hammerも悪くないですが比較的消耗が早いです。
 
 # db 6
 omnifactory.quest.db.6.title=いろいろな素材
@@ -80,11 +80,11 @@ omnifactory.quest.db.11.desc=「§eSubstrate§f」は、回路基板の「基板
 
 # db 12
 omnifactory.quest.db.12.title=スターターツール
-omnifactory.quest.db.12.desc=このパックの奇妙な点の一つである「道具の表示方法」に慣れておく必要があります。多くのツールはあらゆる金属を素材にして作成することができるので、§bJEI§fには膨大な数のレシピ……すべての素材に対するすべてのレシピが表示されます。しかし、ツールのレシピ配置は常に1パターンなので、§eレシピに表示されている素材の種類は無視して、見本と同じようにプレートやインゴットを並べるだけでよいです§f。Rodがある位置にRodを、Plateがある位置にPlateを、のような具合です。唯一の制限は、レシピ内で使用する素材は§eすべて同じでなければならない§fという点で、1つのアイテムの中で複数の素材を混ぜることはできません。%n%nデフォルトでは、"§6Darmstadtium§f"ツール（たまに§6Aluminium§f）のレシピが表示されますが、配置が正しければどのような金属から作られたツールでも機能します。なので、レシピにあるツールの材料は無視して、好きなようにすればいいのです。%n%n現時点では、§aHammer§f（§aMining Hammer§fではありません、気をつけてください……インゴット5個ではなくインゴット6個です）を作ってください。Hammerは§e2個のインゴットから1枚のplate§fを得るのに使用します。§6Plates§fから§aFile§fが作られ、Fileは§6Rods§f等の作成に使用します。JEIを使用して、ツールのリストに沿って作業してください。%n%n現時点では、§6Wrought Iron§fがツールの素材としてベストな選択ですが、進展するごとにより良質な素材が利用可能になります。
+omnifactory.quest.db.12.desc=このパックの奇妙な点の一つである「道具の表示方法」に慣れておく必要があります。多くのツールは、あらゆる金属を素材にして作成できるので、§bJEI§fには膨大な数のレシピ……すべての素材に対するすべてのレシピが表示されます。しかし、ツールのレシピ配置は常に1パターンなので、§eレシピに表示されている素材の種類は無視して、見本と同じようにPlateやIngotを並べればよいです§f。Rodがある位置にRodを、Plateがある位置にPlateを、のような具合です。唯一の制限は、レシピ内で使用する素材は§eすべて同じでなければならない§fという点で、1つのアイテムの中で複数の素材を混ぜることはできません。%n%nデフォルトでは、"§6Darmstadtium§f"ツール（たまに§6Aluminium§f）のレシピが表示されますが、配置が正しければ、どのような金属から作られたツールでも機能します。なので、レシピにあるツールの材料は無視して、好きなようにすればいいです。%n%n現時点では、§aHammer§f（§aMining Hammer§fではありません、気をつけてください……Ingot5個ではなくIngot6個です）を作成してください。Hammerは、§eIngot 2個からPlate 1枚§fを入手するのに使用します。§6Plates§fから§aFile§fが作られ、Fileは§6Rods§f等の作成に使用します。JEIを使用して、ツールのリストに沿って作業してください。%n%n現時点では、§6Wrought Iron§fがツールの素材としてベストな選択ですが、ゲームを進めることでより良質な素材が利用可能になります。
 
 # db 13
 omnifactory.quest.db.13.title=Worktableが命
-omnifactory.quest.db.13.desc=アイテムが必要なタイミングでその都度クラフトしようとすると、いつか気が狂います。§3Worktable§fを使用して、ツールやCircuit、Machine Casingなどのアイテムのクラフト工程の各ステップを保存しましょう。その方針で進めていくと、すぐに§e十数個かそれ以上のWorktable§fが必要となることでしょう。%n%nWorktableのストレージに必要な材料を積み込んで、必要なタイミングで§e一括生産§fをしましょう。たった数クリックで§e数スタック分の完成品§fが得られるという満足感だけでも、Worktableを作る価値があります。%n%nWorktable一個あたり最大9個のレシピを作成順に保存し、右上のヒストリーペインをクリックすることでレシピを呼び出すことができます。他のレシピによって上書きされたくないレシピがある場合、ヒストリーペインで右クリックすることでレシピをロックすることができます。
+omnifactory.quest.db.13.desc=アイテムが必要になったときにその都度クラフトしようとすると、いつか気が狂います。§3Worktable§fを使用して、ツールやCircuit、Machine Casingなどのアイテムのクラフト工程の各ステップを保存しましょう。その方針で進めていくと、すぐに§e十数個かそれ以上のWorktable§fが必要となることでしょう。%n%nWorktableのストレージに必要な材料を積み込んで、必要なタイミングで§e一括生産§fをしましょう。たった数クリックで§e数スタック分の完成品§fが得られるという満足感だけでも、Worktableを作る価値があります。%n%nWorktable一個あたり最大9個のレシピを作成順に保存し、右上のヒストリーペインをクリックすることでレシピを呼び出すことができます。他のレシピによって上書きされたくないレシピがある場合、ヒストリーペインで右クリックすることでレシピをロックすることができます。%n%n必要な材料が少しだけ多くなりますが、実行可能なもう一つの選択肢として、§bGregTech CE§rで追加される§3Crafting Station§fがあります。§3Worktable§fで実行できる全機能に加えて、ツール保管用の専用スロットや、クラフトストレージ内のアイテムを簡単に確認できるインベントリ表示機能が備わっています。
 
 # db 14
 omnifactory.quest.db.14.title=かまど v2.0
@@ -124,7 +124,7 @@ omnifactory.quest.db.22.desc=このオーブンのメイン機能は、木材や
 
 # db 23
 omnifactory.quest.db.23.title=黒曜石
-omnifactory.quest.db.23.desc=Dark Steelを作成するには黒曜石が必要です。多くのツールでは黒曜石を採掘することができませんが、採掘可能な選択肢がいくつかあります。現時点でもっとも利用する可能性の高い選択肢は次のとおりです:%n%n1) Diamond PickaxeまたはDiamond Mining Hammer。%n%n2) Platinum Mining Hammer（Pickaxeは不可）。%n%n3) Cobalt Pickaxe（Cobaltiteから精錬）。
+omnifactory.quest.db.23.desc=Dark Steelを作成するには黒曜石が必要です。多くのツールでは黒曜石を採掘することができませんが、採掘可能な選択肢がいくつかあります。現時点でもっとも利用する可能性の高い選択肢は次のとおりです:%n%n1) Diamond PickaxeまたはDiamond Mining Hammer。%n%n2) Platinum Mining Hammer（Pickaxeは不可）。
 
 # db 24
 omnifactory.quest.db.24.title=Steam Dynamo
@@ -200,7 +200,7 @@ omnifactory.quest.db.41.desc=§6Energetic Alloy§rが入手できるようにな
 
 # db 42
 omnifactory.quest.db.42.title=Vibrant Alloy Energy Conduits
-omnifactory.quest.db.42.desc=より多くのRF動力を輸送することができる導管をです。%n%nこれを§3Assembling Machine§rで作っていますよね？
+omnifactory.quest.db.42.desc=より多くのRF動力を輸送することができる導管です。%n%n§3Assembling Machine§rで作ってますよね？
 
 # db 43
 omnifactory.quest.db.43.title=Gap
@@ -212,7 +212,7 @@ omnifactory.quest.db.44.desc=§6Basic RF Capacitors§rと§6Coal Dust§rと§6En
 
 # db 45
 omnifactory.quest.db.45.title=アイアンマン
-omnifactory.quest.db.45.desc=飛行能力があるとうれしいですね。これは§bEnderIO§rの素材を使用した最初のJetpackです。%n%n他にも§bThermal Expansion§rの素材を使用したJetpack（§6Leadstone Jetpack§rから開始）もあります。最終的には両方作成することになりますが、それはかなり先の話なので、飛ぶことが本当に好きでもない限り、もう一方のクエストラインは無視しても問題ありません。
+omnifactory.quest.db.45.desc=飛行能力があるとうれしいですね。これは§bEnderIO§rの素材を使用した最初のJetpackです。%n%n他にも§bThermal Expansion§rの素材を使用したJetpack（§6Leadstone Jetpack§rからスタート）もあります。最終的には両方作成することになりますが、それはかなり先の話なので、飛ぶことが本当に好きでもない限り、もう一方のクエストラインは無視しても問題ありません。
 
 # db 46
 omnifactory.quest.db.46.title=Gap
@@ -232,7 +232,7 @@ omnifactory.quest.db.49.desc=注意: このクエストではLV/MV/HVのCentrifu
 
 # db 50
 omnifactory.quest.db.50.title=Pressurized Fluid Conduits
-omnifactory.quest.db.50.desc=流体の輸送において、§bEnderIO§fの導管は、GregtechのPipeよりも扱いやすいです。信じられないほど柔軟かつパワフルで、彼らは流体を使用したクラフトをそれなりに扱いやすいものにしてくれるでしょう。
+omnifactory.quest.db.50.desc=流体の輸送において、§bEnderIO§fの導管は、GregtechのPipeよりも扱いやすいです。信じられないほど柔軟かつパワフルで、流体を使用したクラフトをそれなりに扱いやすいものにしてくれるでしょう。
 
 # db 51
 omnifactory.quest.db.51.title=Inscriber
@@ -248,7 +248,7 @@ omnifactory.quest.db.53.desc=§3Wiremill§rがあれば、インゴット1個か
 
 # db 54
 omnifactory.quest.db.54.title=Quantum Eyes
-omnifactory.quest.db.54.desc=When §6Ender Eyes§r just aren't creepy enough.%n%nYou'll need an HV or better §3Chemical Bath§r to make these. The recipe is quite slow, so invest in the highest tier Chemical Baths you can and consider parallelizing the recipe.
+omnifactory.quest.db.54.desc=が気味が悪いとき。これらを作るには、HV以上のケミカルバスが必要です。 レシピはかなり遅いので、できる限り最高層のケミカルバスに投資し、レシピの並列化を検討してください。§6Ender Eyes§rの不気味さじゃ物足りないならば。%n%nこれらを作成するには、HV以上の§3Chemical Bath§rが必要です。レシピにはかなり時間がかかるので、利用できる中で最高のTierのChemical Bathを使用し、さらにレシピの並列化を検討してください。
 
 # db 55
 omnifactory.quest.db.55.title=Centrifuge
@@ -256,11 +256,11 @@ omnifactory.quest.db.55.desc=Note: this quest accepts an LV, MV or HV Centrifuge
 
 # db 56
 omnifactory.quest.db.56.title=すべてをまとめる
-omnifactory.quest.db.56.desc=機械を動かすための準備ができたので、今がすべてをまとめるタイミングです。%n%nSteam Dynamoを動かすには可燃性の燃料（例えば§6Coal§r）と§9water§rが必要です。RF動力はExcitation Coil（上部の赤い部分）を通して供給されます。Steam Dynamoの向きは、必要に応じて、§aCrescent Hammer§rを使って調整することができます。%n%n§6エネルギーコンジット§rは、そのRF動力を伝達するために使用することができますが、Excitation CoilをCEFに接触させることで、直接CEFにRFを出力することもできます。%n%nCEFは、RF動力をEUに変換し、得られたEUを赤いドットの面を通して出力します。向きは§aWrench§rを使って調整することができます。CEFの出力側には、§6Conductive Iron Cable§rを取り付けてください。%n%nこれで、他に必要なものは、Cableで繋がれた§bGregTech§r機械だけになりました！　どの機械を作っても問題ないですが、最初にこの２つを手に入れることをお勧めします:%n%nThe §6Wiremill§rがあれば、Wireを作るのがとても簡単になります。%n%n§6Compressor§rを使うと、１つのIngotからPlateが作れるようになります。
+omnifactory.quest.db.56.desc=機械を動かすための準備ができたので、すべてをまとめるタイミングがやってきました。%n%nSteam Dynamoを動かすには可燃性の燃料（例えば§6Coal§r）と§9Water§rが必要です。RF動力はExcitation Coil（上部の赤い部分）を通して供給されます。必要に応じて、§aCrescent Hammer§rでSteam Dynamoの向きを調整することができます。%n%n§6Energy Conduit§rは、RF動力を伝達するために使用することができますが、Excitation CoilをCEFに接触させることで、直接CEFにRFを出力することもできます。%n%nCEFは、RF動力をEUに変換し、赤いドットの面を通して得られたEUを出力します。§aWrench§rを使って向きを調整することができます。CEFの出力側には、§6Conductive Iron Cable§rを取り付けてください。%n%nこれで、他に必要なものは、Cableで繋がれた§bGregTech§r機械だけになりました！ どの機械を作っても問題ないですが、最初にこの２つを手に入れることをお勧めします:%n%nThe §6Wiremill§rがあれば、Wireを作るのがとても簡単になります。%n%n§6Compressor§rを使うと、１つのIngotからPlateが作れるようになります。
 
 # db 57
 omnifactory.quest.db.57.title=Ender Fluid Conduits
-omnifactory.quest.db.57.desc=§aEnder Fluid Conduit§rは、§bEnderIO§rが提供する中で最も強力な流体輸送メカニズムです。%n%n§aPressurized Fluid Conduit§rよりも高速であるのに加えて、流体を導管内で流すのではなくテレポートするため、一本の導管で多数の流体を移動させることが可能です。%n%nまた、§aFilter§rの他にも複数のチャンネルを持っており、同じ導管を通して様々な行き先に流体を輸送することができます。%n%n§bAE§rを介して流体をルーティングしたくない（またはアクセスを解除していない）場合は、これらが最良の代替手段となります。
+omnifactory.quest.db.57.desc=§aEnder Fluid Conduit§rは、§bEnderIO§rが提供する中で最も強力な流体輸送メカニズムです。%n%n§aPressurized Fluid Conduit§rよりも高速であるのに加えて、流体を導管内で流すのではなくテレポートするため、一本の導管で多数の流体を移動させることが可能です。%n%nまた、§aFilter§rの他にも複数のチャンネルを持っており、同じ導管を通して様々な行き先に流体を輸送することができます。%n%n§bAE§rを介して流体をルーティングしたくない（もしくはまだ利用できない）場合は、これらが最良の代替手段となります。
 
 # db 58
 omnifactory.quest.db.58.title=LV動力ストレージ
@@ -284,7 +284,7 @@ omnifactory.quest.db.62.desc=1つの画面からすべてのアイテムにア�
 
 # db 63
 omnifactory.quest.db.63.title=ME Chest
-omnifactory.quest.db.63.desc=§aME Chest§rは単体で使うにはやや実用的ではありませんが、より便利な§6ME Drive§rの素材として必要不可欠なアイテムです。%n%nこれはデジタル化アイテムの初歩的なストレージです。中に§6Storage Cell§rを挿入することで、まるでChestを覗くようにストレージにアクセスすることができます。Diskを別の場所に持ち運び、別のME Chestに挿入することもできます。%n%n§cSatchelやStorage Cellの中身が破損する危険があるので、Storage CellをSatchelのような持ち運び系のMODインベントリの中に入れないでください（その逆も同様です）。§rこのようなことが起こるのには技術的な理由があり（NBTオーバーフロー）、これらのアイテムに限ったことではありませんが、ここではこれ以上の説明はしません。%n%n
+omnifactory.quest.db.63.desc=§aME Chest§rは単体で使うにはやや実用的ではありませんが、より便利な§6ME Drive§rの素材として必要不可欠なアイテムです。%n%nこれはデジタル化アイテムの初歩的なストレージです。中に§6Storage Cell§rを挿入することで、まるでChestを覗くようにストレージにアクセスすることができます。Diskを別の場所に持ち運び、別のME Chestに挿入することもできます。%n%n§cSatchelやStorage Cellの中身が破損する危険があるので、Storage CellをSatchelのような持ち運び系のMODインベントリの中に入れないでください（その逆も同様です）。§rこのようなことが起こるのには技術的な理由があり（NBTオーバーフロー）、これらのアイテムに限ったことではありませんが、ここではこれ以上の説明は割愛します。%n%n
 
 # db 64
 omnifactory.quest.db.64.title=いよいよデジタルストレージ
@@ -296,11 +296,11 @@ omnifactory.quest.db.65.desc=The Third Micro Miner.%n%nThis one can get you:%n§
 
 # db 66
 omnifactory.quest.db.66.title=DustからWireまで
-omnifactory.quest.db.66.desc=ほとんどのAlloyは作成に§3Alloy Smelter§fを必要としますが、いくつかのAlloyは金属のDustを混ぜるだけで作ることができます。%n%nCopper DustとRedstone Dustを混ぜると、§6Red Alloy Dust§fができます。%n%nIron DustとRedstone Dustを混ぜると§6Conductive Iron Dust§fができます。%n%nこれを溶かしてIngotにしたり、Hammerで叩いて§6Plates§fにしたり、§6Wires§fに§a切断§fしたりできます。
+omnifactory.quest.db.66.desc=ほとんどのAlloyは作成に§3Alloy Smelter§fを必要としますが、一部のAlloyは金属のDustを混ぜるだけで作成することができます。%n%nCopper DustとRedstone Dustを混ぜると、§6Red Alloy Dust§fができます。%n%nIron DustとRedstone Dustを混ぜると§6Conductive Iron Dust§fができます。%n%nこれを溶かしてIngotにしたり、Hammerで叩いて§6Plates§fにしたり、§6Wires§fに§a切断§fしたりできます。
 
 # db 67
 omnifactory.quest.db.67.title=Octadic Capacitor
-omnifactory.quest.db.67.desc=A pair of §6Double-Layer RF Capacitors§r combined with some §6Vibrant Alloy§r and §6Glowstone§r creates an §6Octadic RF Capacitor§r, which is a tier three §bEnderIO§r capacitor.
+omnifactory.quest.db.67.desc=§6Double-Layer RF Capacitors§rをいくつかの§6Vibrant Alloy§rおよび§6Glowstone§rと組み合わせることで、§bEnderIO§rのTier 3のCapacitorである§6Octadic RF Capacitor§rが得られます。
 
 # db 68
 omnifactory.quest.db.68.title=Experience Obelisk
@@ -308,7 +308,7 @@ omnifactory.quest.db.68.desc=The §3Experience Obelisk§r is a mass storage devi
 
 # db 69
 omnifactory.quest.db.69.title=Aluminium Ingot
-omnifactory.quest.db.69.desc=EBFが稼働したら、§6Aluminium Ingot§rの生産を開始しましょう。これらは§bApplied Energistics§rをはじめとするMV機械の重要な材料です。%n%n電力供給が落ちているようであれば、新たにDynamoを作成してSteam BoilerやTurbineとして運用するのがいいでしょう。また、Dynamoのアップグレードもおすすめです。%n%nしかし、そろそろMVに到達しようとしています。そのうちSteamよりも優れた動力源が見つかるでしょう。
+omnifactory.quest.db.69.desc=EBFが稼働したら、§6Aluminium Ingot§rの生産を開始しましょう。これらは§bApplied Energistics§rをはじめとするMV機械の重要な材料です。%n%n電力供給が落ちているようであれば、新たにDynamoを作成してSteam BoilerやTurbineとして運用するのがいいでしょう。また、Dynamoのアップグレードもおすすめです。%n%nしかし、そろそろMVに到達しようとしています。そのうちSteamよりも優れた動力源が見つかることでしょう。
 
 # db 70
 omnifactory.quest.db.70.title=MV Power Storage
@@ -388,11 +388,11 @@ omnifactory.quest.db.88.desc=§3Precision Laser Engravers§rを使用するた�
 
 # db 89
 omnifactory.quest.db.89.title=The First Tier Three Circuits
-omnifactory.quest.db.89.desc=1 Tierの3 Circuitは、§6Electronic Processor§r 4個と§6Transistor§r、その他様々な素材から作成できます。%n%nこれまでの経験からすでにお気づきでしょうが、各Tierの最初のCircuitは高コストで扱いにくいです。しかし幸いなことに、それらを多く作る必要はありません。%n%nこれらの回路を使用して、Circuitの次のテーマのロックを解除するために必要なアイテムの作成を優先しましょう。これにはより多くのインフラ設備を必要としますが、回路がはるかに低コストで作成できるようになります。最終的には、6つのTierそれぞれにProcessor、Array、またはMainframeを必要とするような回路レシピが用意されています。%n%n
+omnifactory.quest.db.89.desc=Tier 1の3 Circuitは、§6Electronic Processor§r 4個と§6Transistor§r、その他様々な素材から作成できます。%n%nこれまでの経験からすでにお気づきでしょうが、各Tierの最初のCircuitは高コストで扱いにくいです。しかし幸いなことに、それらを多く作る必要はありません。%n%nこれらの回路を使用して、Circuitの次のテーマのロックを解除するために必要なアイテムの作成を優先しましょう。これにはより多くのインフラ設備を必要としますが、回路がはるかに低コストで作成できるようになります。最終的には、6つのTierそれぞれにProcessor、Array、またはMainframeを必要とするような回路レシピが用意されています。%n%n
 
 # db 90
 omnifactory.quest.db.90.title=MV Assembling Machine
-omnifactory.quest.db.90.desc=§3Advanced Assembling Machine§r、略してMV Assemblerを使用すると、32 EU/tではなく最大128 EU/tを必要とするレシピが利用可能になります。さらに、最大32 EU/tのレシピは§eオーバークロック§rされ、tickあたり4倍のエネルギーを使用して、最大2.8倍高速に作成できます。%n%n新しいテーマのCircuitを含む、多くの新しいレシピが達成可能になりました！
+omnifactory.quest.db.90.desc=§3Advanced Assembling Machine§r、略してMV Assemblerを使用すると、32 EU/tではなく最大128 EU/tを必要とするレシピが利用可能になります。さらに、最大32 EU/tのレシピは§eオーバークロック§rされ、tickあたり4倍のエネルギーを使用して、最大2.8倍高速に作成できます。%n%n新しいテーマのCircuitを含む、多くの新しいレシピが利用可能になりました！
 
 # db 91
 omnifactory.quest.db.91.title=Chrome
@@ -420,7 +420,7 @@ omnifactory.quest.db.96.desc=§3Fluid Solidifier§rと§aPlate Mold§rを使用�
 
 # db 97
 omnifactory.quest.db.97.title=在庫を維持する
-omnifactory.quest.db.97.desc=実は、§aME Interface§r内にアイテムのスタックを格納できます。§aStorage Bus§rをME Interfaceに配置すると、レシピでこれらのアイテムにアクセスして使用できます。Interface内に§aCrafting Card§rを配置すると、Interfaceは、在庫はあるものの所有していないアイテムの自動クラフト注文を自動的に行うことができます。%n%nこのアプローチはある程度の自動作成に使用できますが、Cardの作成は大規模なMEネットワークで大きな遅延を引き起こす可能性があるため、注意して進めてください。AEは、十分な在庫がある場合でも、リクエストが行われるたびにこれらのアイテムの完全なクラフトツリーを計算します。%n%nしたがって、Craft Cardを単純なレシピ（多くの依存レシピがないもの）に制限し、理想的には小規模な専用ネットワークに限定することを強くお勧めします。%n%nメインのネットワーク上におけるパッシブな自動クラフトや、状況が複雑になる場合に使用します。
+omnifactory.quest.db.97.desc=実は、§aME Interface§r内にアイテムのスタックを格納することができます。ME Interfaceに§aStorage Bus§rを配置すると、レシピでこれらのアイテムにアクセスして使用できます。Interface内に§aCrafting Card§rを配置すると、Interfaceは、在庫はあるものの所有していないアイテムの自動クラフト注文を自動的に行うことができます。%n%nこのアプローチはある程度の自動作成に使用できますが、Cardの作成は大規模なMEネットワークで大きな遅延を引き起こす可能性があるため、注意して進めてください。AEは、十分な在庫がある場合でも、リクエストが行われるたびにこれらのアイテムの完全なクラフトツリーを計算します。%n%nしたがって、Craft Cardを単純なレシピ（多くの依存レシピがないもの）に制限し、理想的には小規模な専用ネットワークに限定しておくことを強くお勧めします。%n%nメインのネットワーク上におけるパッシブな自動クラフトや、状況が複雑になる場合に使用します。
 
 # db 98
 omnifactory.quest.db.98.title=Stainless Steel
@@ -428,19 +428,19 @@ omnifactory.quest.db.98.desc=§6Aluminium§rがMV用であり、§6Wrought Iron�
 
 # db 99
 omnifactory.quest.db.99.title=Synthesizing Your First Omnium
-omnifactory.quest.db.99.desc=With the §6Stabilized Einsteinium§r you harvested from a microverse, you should now have access to everything you need to synthesize your first §dMote of Omnium§r.%n%nYou're gonna need to make a lot of these as you push into the End Game, so make sure your §eautomation is supplying you with a stock of all of the ingredients§r. That's what those quests in the End Game tab have been about about all along!
+omnifactory.quest.db.99.desc=With the §6Stabilized Einsteinium§r you harvested from a microverse, you should now have access to everything you need to synthesize your first §dMote of Omnium§r.%n%nYou're gonna need to make a lot of these as you push into the End Game, so make sure your §eautomation is supplying you with a stock of all of the ingredients§r. That's what those quests in the End Game tab have been about all along!
 
 # db 100
 omnifactory.quest.db.100.title=Engineering Processor
 omnifactory.quest.db.100.desc=§6Engineering Processors§r are made from a §6Diamond Plate§r, a §6Silicon Plate§r, and any tier one circuit.%n%nRun the plates through the respective §3Inscribers§r with §aPresses§r to make the printed plates, then combine the plates and circuit to form the Engineering Processor.
 
 # db 101
-omnifactory.quest.db.101.title=Digital Storage For Days
-omnifactory.quest.db.101.desc=*Slaps §6ME Drive§r* this bad boy can fit so many §6Storage Cells§r in it!%n%nWith ten slots for Storage Cells, you can store a huge amount of items inside this single block, and search through them all with a §6Terminal§r. You just gotta make all those Storage Cells.%n%nIf you somehow run out of room, you can make another ME Drive for even more slots! So many cells, so many items!
+omnifactory.quest.db.101.title=何日分ものデジタルストレージ
+omnifactory.quest.db.101.desc=*§6ME Drive§rを平手打ち* この悪ガキにはたくさんの§6Storage Cell§rが格納できるんですよ！%n%nStorage Cell用のスロットが10個あるので、この1つのブロック内に大量のアイテムを保存し、Terminalでそれらをすべて検索できます。その分だけStorage Cellを作成する必要がありますが。%n%nどういうわけかスペースが足りなくなった場合は、さらに別のME Driveを作成してより多くのスロットを確保できます！ たくさんのCellに、たくさんのアイテム！
 
 # db 102
 omnifactory.quest.db.102.title=Logic Processor
-omnifactory.quest.db.102.desc=§6Logic Processors§r are made from a §6Gold Plate§r, a §6Silicon Plate§r, and any tier one circuit.%n%nRun the plates through the respective §3Inscribers§r with §aPresses§r to make the printed plates, then combine the plates and circuit to form the Logic Processor.
+omnifactory.quest.db.102.desc=§6Logic Processor§rは、§6Gold Plate§r、§6Silicon Plate§r、および任意のTier 1のCircuitから作成します。%n%n§aPress§rをセットしたそれぞれの§3Inscriber§rにPlateを通してPrinted Plateを作成し、次にPlateとCircuitを組み合わせてLogic Processorを作成します。
 
 # db 103
 omnifactory.quest.db.103.title=Inscription Plates
@@ -472,35 +472,35 @@ omnifactory.quest.db.109.desc=§aME Interfaces§r are extremely important for au
 
 # db 110
 omnifactory.quest.db.110.title=Crafting Units
-omnifactory.quest.db.110.desc=Autocrafting at last.%n%nWell, you need patterns too I guess.
+omnifactory.quest.db.110.desc=ついに自動クラフトです。%n%nええと、あなたもパターンが必要です。
 
 # db 111
 omnifactory.quest.db.111.title=Crafting Terminal
-omnifactory.quest.db.111.desc=Crafting in a digital grid is heaven after using primitive wooden tables for so long.%n%nIt's a micropart, so you need to place it on §6ME Cable§r (not a conduit).
+omnifactory.quest.db.111.desc=原始的な木製テーブルを長い間使用した後では、デジタルグリッドでのクラフトは天国に感じるでしょう。%n%nこれはマイクロパーツであるため、§6ME Cable§r（Conduitではない）に設置する必要があります。
 
 # db 112
-omnifactory.quest.db.112.title=Reconstruction Of Atoms
-omnifactory.quest.db.112.desc=By placing them in the path of an §3Atomic Reconstructor§r's laser beam, §6Coal§r can be turned into §6Void Crystals§r, and §6Iron Ingots§r into §6Enori Crystals§r.%n%nKeep in mind you can efficiently do this with blocks, splitting them into nine base items as usual.
+omnifactory.quest.db.112.title=原子の再構成
+omnifactory.quest.db.112.desc=それらを§3Atomic Reconstructor§rのレーザー光線上に配置することで、§6Coal§rを§6Void Crystal§rに、§6Iron Ingot§rを§6Enori Crystal§rに変換することができます。%n%nBlockに加工してから変換を実行し、9個に分割することで、より効率的に変換できることを覚えておいてください。
 
 # db 113
 omnifactory.quest.db.113.title=Resonator
-omnifactory.quest.db.113.desc=The §3Resonator§r is one of the primary crafting machines from §bExtra Utilties 2§r. It requires Grid Power in order to function, and produces special items like §6Stoneburnt§r and §6Red Coal§r.
+omnifactory.quest.db.113.desc=§3Resonator§rは、§bExtra Utilties 2§rの主要なクラフト機械の1つです。稼働にはGrid Powerが必要であり、§6Stoneburnt§rや§6Red Coal§rのような特別なアイテムを作成することができます。
 
 # db 114
 omnifactory.quest.db.114.title=Manual Mill
-omnifactory.quest.db.114.desc=§eGrid Power§r, or GP for short, is a power system used by §bExtra Utilities§r. It is generated by using a variety of §3Mills§r.%n%nIt deviates from most power systems in that Mills and GP consumers can be placed anywhere. It is globally available. However, Mills of each type incur §cdiminishing returns§r to massively punish excessive spamming of the same kind of Mills. Diversify!%n%nThe first Mill available is the §3Manual Mill§r, which is a hand crank that generates up to 15 GP. This is enough to get started so you can make better Mill types. Place it down and wind it up by holding right-click to generate GP.%n%nIf you are playing in a group, the command §e/xu_powersharing§r may be useful to allow for sharing GP between players. Simply run the command and select which players you want to share your GP with.
+omnifactory.quest.db.114.desc=§eGrid Power§r、略してGPは、§bExtra Utilities§rで使用する動力システムです。さまざまな種類の§3Mills§rから生成されます。%n%nほとんどの動力システムとは異なり、MillとGPの消費先は場所を選ばずに設置することができます。つまり、グローバルに利用できます。ただし、同じ種類のMillを大量に使用すると、ペナルティとして§c収穫逓減§rを引き起こすことになります。多様化！%n%n最初に利用可能なMillは、手回し式で最大15GPを生成する§3Manual Mill§rです。より高度なMillの作成を開始するための性能としては十分です。Millを設置し、右クリック長押しでGPが生成されます。%n%n複数人でプレイしている場合、コマンド§e/xu_powersharing§rは、プレイヤー間でGPを共有できるようにするのに役立つ場合があります。コマンドを実行して、GPを共有するプレーヤーを選択するだけです。
 
 # db 115
 omnifactory.quest.db.115.title=Red Coal
-omnifactory.quest.db.115.desc=§6Red Coal§r is an important ingredient for §6Black Steel Dust§r.%n%nCareful with making an AE2 pattern with this one; due to the way §bExtra Utilities§r item generation works, you'll have to craft a piece of Red Coal to put into relevant §aPatterns§r manually.
+omnifactory.quest.db.115.desc=§6Red Coal§rは§6Black Steel Dust§rのための重要な素材です。%n%nAE2 Patternを作る際に注意する点があります。§bExtra Utilities§rのアイテム生成の仕組みにより、手動で§aPattern§rを設定する必要があるため、それ用のRed Coalを作成する必要があります。
 
 # db 116
 omnifactory.quest.db.116.title=Black Steel
-omnifactory.quest.db.116.desc=§6Black Steel§r will be used to make various items from §bExtended Crafting§r. It will also be the basis of other Steel types later on.
+omnifactory.quest.db.116.desc=§6Black Steel§rは、§bExtended Crafting§rからさまざまなアイテムを作成するために使用されます。また、後に使用する異なる種類のSteelのベースにもなります。
 
 # db 117
 omnifactory.quest.db.117.title=1k Fluid Storage
-omnifactory.quest.db.117.desc=The first digital fluid storage component, used to make §a1k Fluid Storage Cells§r.%n%nFluid cells can store up to five fluid types, but it's better to format all your disks to a single fluid each. This avoids the scenario where one fluid fills up a cell, preventing the other fluids from being stocked. Extra types also use up a chunk of storage, resulting in less overall storage per cell.
+omnifactory.quest.db.117.desc=§a1k Fluid Storage Cell§rの作成に使用される、最初のデジタル流体ストレージ部品です。%n%nFluid Cellには最大5種類の流体を保存できますが、すべてのディスクをそれぞれ1つの流体にフォーマットすることをおすすめします。これにより、1つの流体がCellを満たし、他の流体がストックされないというシナリオを回避することができます。新たな種類の流体を追加するとストレージのチャンクを消費するため、結果としてCellあたりの全体的なストレージが少なくなります。
 
 # db 118
 omnifactory.quest.db.118.title=4k Item Storage
@@ -552,7 +552,7 @@ omnifactory.quest.db.129.desc=Next up are §6SMD Diodes§r, which are fairly sim
 
 # db 130
 omnifactory.quest.db.130.title=Annealed Copper
-omnifactory.quest.db.130.desc=§6Annealed Copper§rは、§3EBF§r内で§6Copper§rを§9Oxygen§rで処理することで作成されます。Cableとして使用する場合、電力ロスが通常のCopperよりも小さくなり、また、より高度な電子部品の素材として使用されます。
+omnifactory.quest.db.130.desc=§6Annealed Copper§rは、§3EBF§r内で§6Copper§rを§9Oxygen§rで処理することで作成されます。Cableとして使用する場合、電力損失が通常のCopperよりも小さくなり、また、より高度な電子部品の素材として使用されます。
 
 # db 131
 omnifactory.quest.db.131.title=Polyvinyl Chloride
@@ -635,7 +635,7 @@ omnifactory.quest.db.150.title=Vacuum Freezer
 omnifactory.quest.db.150.desc=§3Vacuum Freezers§r are primarily used to cool down hot ingots.%n%nThey're also capable of freezing air into a liquid, and making superconductors.%n%nAt minimum you will need an energy input hatch, an input bus, an output bus, and 22 §6Frost Proof Machine Casings§r for forming the multiblock for processing Hot Ingots.%n%nIf you want to deal with fluids as well, subtract two casings and use a fluid input and fluid output in their place.%n%nBesides the controller placement, as usual the hatches/buses can go anywhere. Use the building guide in §bJEI§r which can be pulled up from the controller block.
 
 # db 151
-omnifactory.quest.db.151.title=Early Rutile
+omnifactory.quest.db.151.title=早めのRutile
 omnifactory.quest.db.151.desc=§6Rutile§r is a §6Titanium§r precursor found in §6Ilmenite Ore§r and §6Bauxite Ore§r, which spawn uncommonly in the Overworld.%n%n§6Rutile Ore§r (the richest source), as well as larger quantities of Ilmenite and Bauxite, may be found on the Moon and other planets.%n%n
 
 # db 152
@@ -644,11 +644,11 @@ omnifactory.quest.db.152.desc=§6Rutile§r, §6Carbon§r, and §9Chlorine§r may
 
 # db 153
 omnifactory.quest.db.153.title=HV Chemical Reactor
-omnifactory.quest.db.153.desc=You'll need an §3HV Chemical Reactor§r for processing §6Titanium§r.
+omnifactory.quest.db.153.desc=§6Titanium§rを精錬するには§3HV Chemical Reactor§rが必要です。
 
 # db 154
 omnifactory.quest.db.154.title=Distillation Tower
-omnifactory.quest.db.154.desc=With tier three circuits in hand, its time to make a §3Distillation Tower§r, which is the gatekeeper for more advanced plastics like §6Epoxy§r and doing petrochemistry.%n%nThe Distillation Tower is a highly flexible multiblock structure, able to be anywhere from §62 blocks high to up to 12 high§r (11 fluid outputs). The way that it works is that each level of the tower after the first will output an additional fluid from the recipe. §cAny output fluids in excess of available buses are voided§r. %n%nWhat you need the Distillation Tower for initially is to break down §9Biomass§r into §9Ethanol§r and §9Water§r. This recipe only has two outputs, so a §ethree-block-high Distillation Tower§r is just fine (the quest materials are for such a tower; if you want to build it bigger, you will need §ean additional 7 casings and 1 fluid output per floor§r).%n%nAny recipe with more than two fluids (like §9Oil§r) will need a larger tower. Make sure to increase the height of your tower to accomodate all of the outputs you want to keep. Also check the voltage requirements of the recipes, as many Distillation Tower recipes need higher voltages than MV. §eYou can swap out your Energy Input for a higher tier one when that time comes§r.%n%nThe tower we'll be building at first is 3x3x3, with a hollow center. §6Fluid Input Hatch§r §emust go in the very center of the bottom 3x3 layer§r. The §6controller§r goes in the middle of an outer edge of the bottom layer. The §6Output Bus§r and an §6Energy Input Hatch§r can go wherever you can fit them on the bottom layer. The rest of the 3x3 must be filled with §6Clean Stainless Steel Casings§r. Each level above that is a ring of 7 Clean Stainless Steel Casings, one §6Fluid Output§r and nothing in the center, except for the topmost layer which needs an eighth casing to fill in the center, capping off the top.
+omnifactory.quest.db.154.desc=Tier 3のCircuitを入手したので、§3Distillation Tower§rを作成するタイミングがやってきました。これは、§6Epoxy§rのような高度なプラスチックや石油化学を行う上でのゲートキーパーとなります。%n%nDistillation Towerは、柔軟性の高いマルチブロック構造で、§6高さ2ブロックから最大12ブロック§r（11個のFluid Output）の間で自由に設置できます。最初の層を除くTowerの各層から、レシピに記載された流体がそれぞれ出力されます。§c設置されたBus数を超える出力流体はすべて無効になります§r。%n%nDistillation Towerが最初に必要になるのは、§9Biomass§rを§9Ethanol§rと§9Water§rに分解するときです。このレシピには出力が2つしかないため、§e高さ3ブロックのDistillation Tower§rで十分です（このクエストでは、そのようなTowerを設計するための材料を提示しています。より大規模なものを構築したい場合は、§e1段ごとに追加でCasing 7個とFluid Output 1個が必要となります§r）。%n%n3つ以上の液体（§9Oil§rなど）を使用するレシピには、より大きなTowerが必要になります。入手したいすべての出力に対応できるように、Towerの高さを必ず上げてください。多くのDistillation TowerのレシピではMVよりも高い電圧を必要とするため、レシピの電圧要件も確認してください。§e交換可能な時期になったら、Energy Inputをより高いTierのものに交換することができます§r。%n%n最初に構築するTowerは3x3x3で、中心は空洞になっています。§6Fluid Input Hatch§rは、§e最下部の3x3レイヤーの真ん中に配置する必要があります§r。§6Controller§rは、最下層の外側の中央に設置します。§6Output Bus§rと§6Energy Input Hatch§rは、最下層であればどこにでも設置できます。3x3の残りの部分は、§6Clean Stainless Steel Casings§rで埋める必要があります。その上の各層では、Clean Stainless Steel Casings 7個と§6Fluid Output§r 1個をリング状に並べ、中央には何も設置しません。ただし、最上層では、上部を覆う必要があるので、中央を埋めるための8個目のCasingが必要です。
 
 # db 155
 omnifactory.quest.db.155.title=The Fourth and Final Tier Five Circuits
@@ -671,20 +671,20 @@ omnifactory.quest.db.159.title=Nichrome Coil Blocks
 omnifactory.quest.db.159.desc=§6Nichrome§r is the third coil material available, increasing your EBF's operating temperature to 3600K so it can process more advanced materials.
 
 # db 160
-omnifactory.quest.db.160.title=Sulfuric Heavy, Light, Naphtha and Gas
+omnifactory.quest.db.160.title=Sulfuric Heavy, Light, Naphtha および Gas
 omnifactory.quest.db.160.desc=最初に§9Oil§rが必要になります。好きな方法を選んでください：莫大な量を必要とするため、再生可能で自動化可能な入手源を設計する必要があります。%n%n§3Distillation Tower§rにオイルを流し込むことから始めます。これにより、§9Sulfuric Heavy Fuel§r、§9Sulfuric Light Fuel§r、§9Sulfuric Naphtha§r、および§9Sulfuric Gas§rが得られます。%n%nこれらはすべて§3Chemical Reactor§rで§9Hydrogen§rを使って水素化脱硫する必要があり、この処理によって非Sulfuric版が生成されます。%n%nここで得られる生成品はすべて有用なため、これらの流体をそれぞれ大量に保管できるような方法を考えましょう。
 
 # db 161
 omnifactory.quest.db.161.title=Gas Turbine
-omnifactory.quest.db.161.desc=Like other petroleum products, §9Sulfuric Gas§r is hydrodesulfurized into §9Refinery Gas§r using §9Hydrogen§r in a §3Chemical Reactor§r.%n%nRefinery Gas can be cracked and further distilled for its constituents, but it is also useful as fuel for §3Gas Turbines§r. While it can be burned directly, centrifuging Refinery Gas produces §9LPG§r (Liquefied Petroleum Gas), which is the ideal fuel for Gas Turbines, and §9Methane§r which is a potential suboptimal turbine fuel but is also useful for various chemical reactions.
+omnifactory.quest.db.161.desc=他の石油製品と同様に、§9Sulfuric Gas§rは§3Chemical Reactor§rで§9Hydrogen§rを使用して§9Refinery Gas§rに水素化脱硫されます。%n%nRefinery Gasは分解してその成分をさらに蒸留することができますが、§3Gas Turbines§rの燃料としても役立ちます。直接燃焼することもできますが、Refinery Gasを遠心分離すると、Gas Turbineの理想的な燃料である§9LPG§r（Liquefied Petroleum Gas）と、Turbineの燃料としては最適ではないものの、さまざまな化学反応にも役立つ§9Methane§rが生成されます。
 
 # db 162
 omnifactory.quest.db.162.title=Canola Press
-omnifactory.quest.db.162.desc=The §3Canola Press§r is a machine that uses RF power to extract §9Canola Oil§r from §6Canola§r.%n%nCanola Oil can be turned into §9Glycerol§r and §9Bio Diesel§r in a §3Chemical Reactor§r.%n%nRefining, Crystallizing, or Empowering the Canola Oil first allows you to make Glycerol and Bio Diesel more efficiently.
+omnifactory.quest.db.162.desc=§3Canola Press§rは、RF動力を使用して§6Canola§rから§9Canola Oil§rを抽出する機械です。%n%nCanola Oilは、§3Chemical Reactor§rで§9Glycerol§rと§9Bio Diesel§rに変換することができます。%n%nあらかじめCanola Oilを精製（Refined）、結晶化（Crystalized）、あるいは強化（Empowered）しておくことで、GlycerolとBio Dieselをより効率的に製造できます。
 
 # db 163
 omnifactory.quest.db.163.title=Seed Oil, Fish Oil, Canola Oil
-omnifactory.quest.db.163.desc=§9Seed Oil§r、§9Fish Oil§r、さまざまなTierの§9Canola Oil§rなど、さまざまな液体を§9Bio Diesel§rの原料として使用できます。%n%n§9Fish Oil§rと§9Canola Oil§rがおそらく最も簡単ですが、選択するのはあなた次第です。%n%nFishは§bDML§rの§aGuardian Model§rから入手するのが最も簡単です。
+omnifactory.quest.db.163.desc=§9Seed Oil§r、§9Fish Oil§r、さまざまなTierの§9Canola Oil§rなど、さまざまな液体を§9Bio Diesel§rの原料として使用できます。%n%n§9Fish Oil§rと§9Canola Oil§rがおそらく最も簡単ですが、どれを選択するかはあなた次第です。%n%nFishは§bDML§rの§aGuardian Model§rから入手するのが最も簡単です。
 
 # db 164
 omnifactory.quest.db.164.title=Heavy Fuel
@@ -696,11 +696,11 @@ omnifactory.quest.db.165.desc=混合する比率の都合上、§9Light Fuel§r�
 
 # db 166
 omnifactory.quest.db.166.title=Naphtha
-omnifactory.quest.db.166.desc=§9Naphtha§rは、単純な（しかし非常に効率の悪い）§9Epoxy§r製造工程の材料として使用できますが、最適な利用方法は、スチームクラッキングと蒸留を施して構成成分に分解することです。%n%n特に、§9Diesel§rを作る材料となる§9Light Fuel§rと§9Heavy Fuel§rや、様々な用途に活用できる多くの有用な化学物質を含んでいます。
+omnifactory.quest.db.166.desc=§9Naphtha§rは、単純な（しかし非常に効率の悪い）§9Epoxy§r製造工程の材料として使用できますが、最適な利用方法は、スチームクラッキングと蒸留を行って構成成分に分解することです。%n%n特に、§9Diesel§rを作る材料となる§9Light Fuel§rや§9Heavy Fuel§rといった、様々な用途に活用できる多くの有用な化学物質を含んでいます。
 
 # db 167
 omnifactory.quest.db.167.title=Hydrogen Sulfide
-omnifactory.quest.db.167.desc=§9Hydrogen Sulfide§rは水素化脱硫処理の副産物です。%n%nシンプルに§9Water§rと反応させると、§9Sulfuric Acid§rが得られ、一方で電気分解すると§9Hydrogen§rを回収できます。
+omnifactory.quest.db.167.desc=§9Hydrogen Sulfide§rは、水素化脱硫処理による副生成物です。%n%nシンプルに§9Water§rと反応させると、§9Sulfuric Acid§rが得られ、一方で電気分解すると§9Hydrogen§rを回収できます。
 
 # db 168
 omnifactory.quest.db.168.title=Diesel
@@ -708,11 +708,11 @@ omnifactory.quest.db.168.desc=§9Diesel§rは、§9Light Fuel§rと§9Heavy Fuel
 
 # db 169
 omnifactory.quest.db.169.title=Palladium
-omnifactory.quest.db.169.desc=§6Palladium§rは、§6Platinum Ore§rを含んだ鉱脈にある§6Palladium Ore§rから入手できますが、まだ鉱脈を見つけていない場合は購入する必要があります。%n%nPalladiumは電気高炉で製錬されます。処理にはしばらく時間がかかりますが、得られたそれぞれおIngotは今後必要になるものに非常に役立つことになります。It takes a while but each ingot goes pretty far for what you'll need it for.
+omnifactory.quest.db.169.desc=§6Palladium§rは、§6Platinum Ore§rを含んだ鉱脈にある§6Palladium Ore§rから入手できますが、まだ鉱脈を見つけていない場合は購入する必要があります。%n%nPalladiumは電気高炉で製錬されます。処理にはしばらく時間がかかりますが、ここで得られたIngotは今後非常に役立つことになります。
 
 # db 170
 omnifactory.quest.db.170.title=Sodium Hydroxide
-omnifactory.quest.db.170.desc=§6Sodium Hydroxide§r is an ingredient in §9Bio Diesel§r.%n%nThe primary sources are:%n%n- Combining §9Water§r and §6Sodium§r in a §3Chemical Reactor§r (also a good source of §9Hydrogen§r)%n- Splitting §9Salt Water§r in an §3Electrolyzer§r (also the best source of §9Chlorine§r).
+omnifactory.quest.db.170.desc=§6Sodium Hydroxide§rは、§9Bio Diesel§rを構成する成分の一つです。%n%n主な入手源は次のとおりです：%n%n- §3Chemical Reactor§rで§9Water§rと§6Sodium§rを組み合わせる（§9Hydrogen§rの優れた供給源でもあります）%n- §3Electrolyzer§rで§9Salt Water§rを分解する（§9Chlorine§rの最良の供給源でもあります）。
 
 # db 171
 omnifactory.quest.db.171.title=Cryogenic Air Distillation
@@ -727,8 +727,8 @@ omnifactory.quest.db.173.title=Nitrogen
 omnifactory.quest.db.173.desc=§9Nitrogen§r comprises 78%% of the atmosphere. Because of this, after the first few processes of §9Liquid Air§r in a §3Cryogenic Distillation Tower§r, you'll probably have more Nitrogen than you know what to do with.%n%nIf you got here centrifuging air, then it's gonna take you longer to get to that point.%n%nEven so, don't void it unless you have secured a very large stockpile. Storage is cheap and Nitrogen is used in sizeable quantities for several notable things, one of which you'll be needing very soon.
 
 # db 174
-omnifactory.quest.db.174.title=Basic Air Collection
-omnifactory.quest.db.174.desc=Note: this quest accepts LV/MV/HV/EV §3Air Collectors§r.%n%nAn §3Air Colllector§r will suck up air at a decent rate, provided the top side is unobstructed. The collected Air is automatically ejected into an adjacent tank via the output face.%n%nIV and LuV air collectors are not part of this quest, but for reference they exist and are called §3Atmosphere Collectors§r.%n%n
+omnifactory.quest.db.174.title=基本的なAir収集
+omnifactory.quest.db.174.desc=注：このクエストではLV/MV/HV/EVの§3Air Collector§rを受け付けます。%n%n§3Air Colllector§rは、上面が遮られていない限り、適切な速度でAirを吸い上げます。集められたAirは、出力面を介して隣接するタンクに自動的に排出されます。%n%nIVおよびLuVのAir Collectorはこのクエストの一部ではありませんが、参考として§3Atmosphere Collector§rという名称で存在します。%n%n
 
 # db 175
 omnifactory.quest.db.175.title=Noble Gasses
@@ -748,7 +748,7 @@ omnifactory.quest.db.178.desc=This is the additive that will bring our diesel fu
 
 # db 179
 omnifactory.quest.db.179.title=NITRO DIESEL!!
-omnifactory.quest.db.179.desc=Mixing §9Diesel§r (or less efficiently, §9Bio Diesel§r) with §9Tetranitromethane§r in an §3HV Mixer§r produces §9Cetane-Boosted Diesel§r, an extremely potent fuel needed later for §6Draconium§r production.%n%nIf you have a very robust petrochemical infrastructure and can afford to burn it, this fuel along with proper oxygenation maximizes the potential of multiblock §3Diesel Generators§r, producing 720 EU/mB of fuel.
+omnifactory.quest.db.179.desc=§3HV Mixer§rで§9Diesel§r（または効率は低くなるが§9Bio Diesel§r）を§9Tetranitromethane§rと混合すると、後で§6Draconium§rの製造に必要となる非常に強力な燃料である§9Cetane-Boosted Diesel§rが製造されます。%n%n非常に堅牢な石油化学インフラがあり、さらに燃焼させられるだけの余裕がある場合、この燃料と適切な酸素化により、マルチブロック§3Diesel Generators§rのポテンシャルが最大化され、720 EU/mBに相当する燃料を製造できます。
 
 # db 180
 omnifactory.quest.db.180.title=Ethenone
@@ -996,7 +996,7 @@ omnifactory.quest.db.240.desc=The Ninth Micro Miner.%n%nCombines §bStellar Crea
 
 # db 241
 omnifactory.quest.db.241.title=Crystal Matrix Heavy Plating
-omnifactory.quest.db.241.desc=Heavy plating used exclusively for the Tier Eight Micro Miner. 
+omnifactory.quest.db.241.desc=Heavy plating used exclusively for the Tier Eight Micro Miner.
 
 # db 242
 omnifactory.quest.db.242.title=Wetware Substrate
@@ -1624,15 +1624,15 @@ omnifactory.quest.db.397.desc=A single-block solution to all your power needs.%n
 
 # db 398
 omnifactory.quest.db.398.title=Multi Smelter
-omnifactory.quest.db.398.desc=The §3Multi Smelter§r is an absolute smelting unit, and is most likely the best furnace added by a mod.%n%nIt's a 3x3x3 multiblock machine capable of §esmelting huge amounts of items per second§r. By upgrading its coils and power tier, it can become capable of smelting up to literal thousands of items per second.%n%nHover over different coil blocks: the higher the §elevel§r, the more items a Multi Smelter can smelt per operation: §e16 items per level§r. The most basic Multi Smelter essentially does 16 items in the same time as a furnace does one. With a set of level 4 coil blocks, that jumps to 64 items per operation.%n%nThis quest doesn't ask for coils, hatches or buses: feel free to choose whatever combination you want. You'll need §a8 coil blocks§r, §a1 input bus§r, §a1 output bus§r and at least §a1 energy hatch§r of any tier.%n%n
+omnifactory.quest.db.398.desc=§3Multi Smelter§rは完全な製錬ユニットであり、おそらくModによって追加される中で最高のかまどです。%n%nこれは、§e1秒ごとに大量のアイテムを製錬できる§r3x3x3マルチブロック機械です。Coilと電力のTierをアップグレードすることで、毎秒文字通り数千のアイテムを製錬できるようになります。%n%nさまざまなCoil Blockにカーソルを合わせてみてください。§eLevel§rが高いほど、Multi Smelterが操作ごとに精錬できるアイテム数が多くなります。§e1 Levelごとに32個のアイテムです§r。最も基本的なMulti Smelterは、基本的に、かまど32個分のアイテム精錬を同時に実行します。Level 4のCoil Blockを使用すると、操作ごとに128個のアイテムにジャンプします。%n%nこのクエストでは、Coil、Hatch、Busは必要ありません。好きな組み合わせを自由に選択してください。§a8個のCoil Block§r、§a1個のInput Bus§r、§a1個のOutput Bus§r、および任意のTierの少なくとも§a1個のEnergy Hatch§rが必要です。%n%n
 
 # db 399
 omnifactory.quest.db.399.title=Plasma Turbine
 omnifactory.quest.db.399.desc=§3Large Plasma Turbines§r are a powerful late game method of generating power. One Large Plasma Turbine can produce nearly 41800 EU/t when using an §aLuV Rotor Holder§r and equipped with §a100%% efficiency§r rotor.%n%nOne §3Mark 1 Fusion Reactor§r dedicated to producing §bOxygen Plasma§r can provide suffient fuel for continuously operating 16 Large Plasma Turbines, resulting in a combined production of roughly 670000 EU/t. Granted, this is a decent amount of infrastructure.%n%nDon't rely on §bJEI§r too much when looking for the best plasma: fuels are displayed in a very misleading manner. A Large Plasma Turbine consumes up to nearly 16 buckets of plasma to run a cycle for the duration specified in JEI, and takes some time to spin up to full power.
 
 # db 400
-omnifactory.quest.db.400.title=I Don't Like Space
-omnifactory.quest.db.400.desc=Space exploration isn't mandatory in this pack, so if you don't feel like exploring space with §bAdvanced Rocketry§r, then you can centrifuge §9Hydrogen§r for §eDeuterium§r instead.%n%nJust keep in mind that it's much less rewarding to skip this and you'll need lots of Hydrogen to compensate, although you won't need too much for the first §3Microverse Projector§r.
+omnifactory.quest.db.400.title=私は宇宙が嫌いだ
+omnifactory.quest.db.400.desc=このパックでは宇宙探査は必須ではないため、§bAdvanced Rocketry§rで宇宙探査をしたくない場合は、代わりに§9Hydrogen§rを§eDeuterium§rに遠心分離することができます。%n%nただし、これをスキップする価値はほとんどなく、その埋め合わせのために大量のHydrogenが必要となります。ただし、最初の§3Microverse Projector§rではそれほど多くの量は要求されません。
 
 # db 401
 omnifactory.quest.db.401.title=Proper Tool Care
@@ -1992,7 +1992,7 @@ omnifactory.quest.db.489.desc=さまざまな目的でCompressorが必要にな�
 
 # db 490
 omnifactory.quest.db.490.title=LV Autoclave
-omnifactory.quest.db.490.desc=An §3Autoclave§r is a machine that uses liquids (usually water) to polish stones, carve gems into lenses, infuse gems with special liquids, and crystallize various dusts.%n%nYou'll need an Autoclave for many recipes, but right now you want it to make §6Certus Quartz Crystals§r for §bApplied Energistics§r out of the §bGregTech§r §6Certus Quartz§r and its dust you get from mining and ore processing.
+omnifactory.quest.db.490.desc=§3Autoclave§rは、液体（通常は水）を使用してStoneを磨き、宝石をLensに加工し、宝石に特殊な液体を注入し、さまざまなDustを結晶化する機械です。%n%n多くのレシピにはAutoclaveが必要ですが、今のところは、§bGregTech§rの§6Certus Quartz§rと、それを採掘および鉱石処理することで得られるDustから、§bApplied Energistics§rの§6Certus Quartz Crystals§rを作成するのに必要となります。
 
 # db 491
 omnifactory.quest.db.491.title=木の一括破壊？
@@ -2000,7 +2000,7 @@ omnifactory.quest.db.491.desc=§aLumberaxes§fは、破壊にAxeを必要とす�
 
 # db 492
 omnifactory.quest.db.492.title=Drill Baby Drill
-omnifactory.quest.db.492.desc=Is it expensive? Yes. Is it worth it? Hell yes.%n%nIt doesn't start to shine until you get the good upgrades for it though, so maybe hold off for a while.
+omnifactory.quest.db.492.desc=高コストですか？ はい。その価値はありますか？ もちろん。%n%nただし、適切なアップグレードを取得するまでは本領を発揮しないので、しばらくお待ちください。
 
 # db 493
 omnifactory.quest.db.493.title=Gap
@@ -2008,7 +2008,7 @@ omnifactory.quest.db.493.desc=
 
 # db 494
 omnifactory.quest.db.494.title=Fluid Terminal
-omnifactory.quest.db.494.desc=This terminal allows you to interact with fluid storage on your ME Network, like §aFluid Storage Disks§r.%n%nPut fluids in or remove fluids via this terminal with any GUI-compatible container, by clicking on a fluid to fill it, or an empty space to drain into the network.%n%nIt's a micropart, so you need to place it on §6ME Cable§r (not a conduit).
+omnifactory.quest.db.494.desc=この端末を使用すると、§aFluid Storage Disk§rなどのMEネットワーク上の流体ストレージとやり取りできます。%n%nGUI互換のコンテナを持った状態で、流体をクリックして充填するか、空のスペースをクリックしてネットワークに排出することにより、この端末を介して流体を出し入れします。%n%nこれはマイクロパーツであるため、§6ME Cable§r（Conduitではない）に設置する必要があります。
 
 # db 495
 omnifactory.quest.db.495.title=Storage Drawer Controller
@@ -2052,7 +2052,7 @@ omnifactory.quest.db.504.desc=Note: this quest accepts both LV and MV Brewery.%n
 
 # db 505
 omnifactory.quest.db.505.title=Ethanol
-omnifactory.quest.db.505.desc=§9Ethanol§r is alcohol, which you can first produce from distilling §9Biomass§r.%n%nBoiling §6Sugar Cane§r in a §3Brewery§r is a great way to get Biomass, but you can also get it from other crops and saplings if you want.%n%nOnce you have a hefty starting stock of Ethanol, consider making and distilling §9Fermented Biomass§r in a §3Distillation Tower§r for extra chemicals.
+omnifactory.quest.db.505.desc=§9Ethanol§rはアルコールであり、§9Biomass§rを蒸留することで最初に生成できます。%n%nBiomassを得る方法として、§3Brewery§rで§6Sugar Cane§rを茹でる方法が最適ですが、必要に応じて他の作物や苗木からも得ることができます。%n%n十分な量のEthanolが得られたら、§3Distillation Tower§rで§9Fermented Biomass§rを生産し、さらに蒸留して追加の化学物質を得るのもよいでしょう。
 
 # db 506
 omnifactory.quest.db.506.title=Gap
@@ -2072,11 +2072,11 @@ omnifactory.quest.db.509.desc=§bEnderIO§r and §bThermal§r alloys are a bit m
 
 # db 510
 omnifactory.quest.db.510.title=Dew Of The Void
-omnifactory.quest.db.510.desc=Mix together these two crushed gems along with §9Resonant Ender§r to make §9Dew of the Void§r, the fluid that will power §bEnderIO§r interdimensional teleportation.%n%nPlease note that Dew of the Void goes great with Doritos.
+omnifactory.quest.db.510.desc=これら2つの粉砕された宝石を§9Resonant Ender§rと混ぜ合わせて、§bEnderIO§rのディメンション間テレポーテーションを強化する流体である§9Dew of the Void§rを作成します。%n%nDew of the Voidはドリトスによく合うということをここに付け加えておきます。
 
 # db 511
 omnifactory.quest.db.511.title=The Vat
-omnifactory.quest.db.511.desc=§bEnderIO§r's equivalent of a §3Chemical Reactor§r, roughly speaking.%n%nThe only way to make several important liquids from EnderIO.
+omnifactory.quest.db.511.desc=大ざっぱに言えば、§bEnderIO§rにおける§3Chemical Reactor§rに相当します。%n%nEnderIOにおけるいくつかの重要な液体を作るための唯一の手段です。
 
 # db 512
 omnifactory.quest.db.512.title=Slice'N'Splice
@@ -2228,15 +2228,15 @@ omnifactory.quest.db.548.desc=§aMolds§r are used in a §3Fluid Solidifier§r o
 
 # db 549
 omnifactory.quest.db.549.title=Oil Drilling Rig
-omnifactory.quest.db.549.desc=Oilsands鉱脈を採掘するというアイデアが気に入らない場合は、代わりに§3Oil Drilling Rig§rを構築することもできます。%n%nそのためには、電力、§9Drilling Fluid§r、§6Pipe§rを安定して供給する必要があります。Pipeは、掘削された§9Oil§rのバケツ毎に1 %%の確率で破損します。%n%nRigには少なくとも§eHV電力§rを供給する必要があり、より高レベルの電力を供給するとオーバークロックされます。HatchとBusの位置には、任意の§6Solid Steel Machine Casing§rと交換できます。%n%n§bJEI§rのマルチブロックプレビューがわかりにくい場合は、§6Shiftキーを押しながら右クリック§rして、ウィンドウに合わせてプレビューを拡大縮小できることに注意してください。Controller Blockを配置してから何も持っていない手で§6スニークしながら右クリック§rすると、ワールド内プレビューが有効になります。%n%n構造物を配置するときは、Controllerの位置から下向きに伸びる12本のPipeがあることに注意してください。％n
+omnifactory.quest.db.549.desc=Oilsands鉱脈を採掘するというアイデアが気に入らない場合は、代わりに§3Oil Drilling Rig§rを構築することもできます。%n%nそのためには、電力、§9Drilling Fluid§r、§6Pipe§rを安定して供給する必要があります。Pipeは、掘削された§9Oil§r 1Bごとに1 %%の確率で破損します。%n%nRigには少なくとも§eHV電力§rを供給する必要があり、より高レベルの電力を供給するとオーバークロックされます。HatchとBusの位置では、任意の§6Solid Steel Machine Casing§rと交換できます。%n%n§bJEI§rのマルチブロックプレビューがわかりにくい場合は、§6Shiftキーを押しながら右クリック§rして、ウィンドウに合わせてプレビューを拡大縮小できることに注意してください。Controller Blockを配置してから何も持っていない手で§6スニークしながら右クリック§rすると、ワールド内プレビューが有効になります。%n%n構造物を配置するときは、Controllerの位置から下向きに伸びる12本のPipeがあることに注意してください。％n
 
 # db 550
 omnifactory.quest.db.550.title=Vertical Digger
-omnifactory.quest.db.550.desc=Place the §3Vertical Digger§r over an ore vein, feed it RF, and it will mine up the entire vein for you.%n%nFor drills, you will need a §6GregTech Drill§r (any LV drill will work), a §6Fluxbore§r (Reinforced tier is required) and an §6Actually Additions Drill§r (any color is fine, but take out any augments you wish to keep).%n%nThe GregTech Drill will not be consumed, but everything else will be.
+omnifactory.quest.db.550.desc=§3Vertical Digger§rを鉱脈の上に置き、RFを供給すると、鉱脈全体が採掘されます。%n%nDrillの場合、GregTechのDrill（任意のLV Drillが使用可能）、§6Fluxbore§r（Reinforced Tierが必要）、および§6Actually AdditionsのDrill§r（どの色でも構いませんが、保持しておきたいAugmentはすべて取り除いてください）が必要です。%n%nGregTechのDrillは手元に残りますが、それ以外はすべて消費されます。
 
 # db 551
 omnifactory.quest.db.551.title=Phantom Booster
-omnifactory.quest.db.551.desc=Up to three §aPhantom Boosters§r can be placed atop the §3Vertical Digger§r to increase its area of effect.%n%nThese are also useful for extending the range of other "Phantom" machines and devices from §bActually Additions§r.
+omnifactory.quest.db.551.desc=最大3つの§aPhantom Booster§rを§3Vertical Digger§rの上に設置することで、その効果範囲を広げることができます。%n%nこれらは、§bActually Additions§rの他の「Phantom」機械およびデバイスの範囲を拡張する場合にも役立ちます。
 
 # db 552
 omnifactory.quest.db.552.title=Leadstone Jetpack
@@ -2256,7 +2256,7 @@ omnifactory.quest.db.555.desc=§6Rich Phyto-Gro§r can be further enhanced by in
 
 # db 556
 omnifactory.quest.db.556.title=Omnicoinの報酬金！
-omnifactory.quest.db.556.desc=§3Wiremill§fと§3Compressor§fを持っているので、§eBounties§fを始めることができます。 §6Bounty Board§fにはグローバルインベントリがあり、そこには§dOmnicoin§fと引き換えに特定のアイテムを提出するためのクエストが含まれています。クエストの期間はかなり短いので、クエストに出てくる§eアイテムを備蓄する§fようにしてください。そうしないと、§c完了する前に期限切れになります§f。%n%n更新可能な§dOmnicoins§fがあれば、必要なものに自由に使用できます。§aコインを使いましょう！
+omnifactory.quest.db.556.desc=§3Wiremill§fと§3Compressor§fを持っているので、§eBounties§fを始めることができます。§6Bounty Board§fにはグローバルインベントリがあり、そこには§dOmnicoin§fと引き換えに特定のアイテムを提出するためのクエストが含まれています。クエストの期間はかなり短いので、クエストに出てくる§eアイテムを備蓄する§fようにしてください。さもなければ、§c完了する前に期限切れになります§f。%n%n再生可能な§dOmnicoins§fがあれば、必要なものに自由に使用できます。§aコインを使いましょう！
 
 # db 557
 omnifactory.quest.db.557.title=Gap
@@ -3128,11 +3128,11 @@ omnifactory.quest.db.773.desc=どうやってここにたどり着いたので�
 
 # db 774
 omnifactory.quest.db.774.title=Lathe
-omnifactory.quest.db.774.desc=§3Lathe§r is an important machine that makes rods less expensive to craft.
+omnifactory.quest.db.774.desc=§3Lathe§rは重要な機械で、Rodをより低コストで作成できます。
 
 # db 775
 omnifactory.quest.db.775.title=Multiblock Machine Previews
-omnifactory.quest.db.775.desc=§bMultiblock Tweaker§r adds an §einteractive in-world preview§r for all §bGregTech§r multiblocks! §6Shift-right-click§r a placed controller to activate a hologram depicting the default layout of the structure to help you with building. As you place blocks, the structure will be validated and the §efirst incorrect block§r it detects will be highlighted in red.%n%n§6Sneak-right-click§r to cycle from the full view through each layer. When on the final layer of the preview, this will remove the preview.%n%n§6Sneak-left-click§r to go back to the previous layer, or close the preview from the full view.%n%nIn the §eJEI previews§r for multiblocks, §6left-click§r and drag the mouse to rotate the preview horizontally. §6Shift-left-click§r to rotate it vertically.%n%nFor §bMultiblock Tweaker§r structures, you can additionally §6right-click§r and drag the mouse to pan the preview or §6shift-right-click§r and drag to zoom in or out.
+omnifactory.quest.db.775.desc=§bMultiblock Tweaker§r adds an §einteractive in-world preview§r for all §bGregTech§r multiblocks! §6Shift-right-click§r a placed controller to activate a hologram depicting the default layout of the structure to help you with building. As you place blocks, the structure will be validated and the §efirst incorrect block§r it detects will be highlighted in red.%n%n§6Sneak-right-click§r to cycle from the full view through each layer. When on the final layer of the preview, this will remove the preview.%n%n§6Sneak-left-click§r to go back to the previous layer, or close the preview from the full view.%n%nIn the §eJEI previews§r for multiblocks, §6left-click§r and drag the mouse to rotate the preview horizontally. §6Shift-left-click§r to rotate it vertically.%n%nAdditionally, you can §6right-click§r and drag the mouse to pan the preview or §6shift-right-click§r and drag to zoom in or out.
 
 # db 776
 omnifactory.quest.db.776.title=Awakened Core
