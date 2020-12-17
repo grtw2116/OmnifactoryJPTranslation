@@ -10,8 +10,8 @@ We plan to release the finished product as a resource pack on CurseForge.
 
 ## 注意
 
-Omnifactoryの多言語対応はv1.2.3以降になると思われます。そのため、現バージョン（v1.2.2）では翻訳を適用できません。
-そのため、完成品の配布はv1.2.3リリース後を予定しています。
+Omnifactoryの多言語対応はv1.3以降になると思われます。そのため、現バージョン（v1.2.2）では翻訳を適用できません。
+完成品の配布はv1.3リリース後を予定しています。
 また、dev版のデータを使用しているため、レポジトリ上の言語ファイルは最新バージョンに対応していない可能性があります。
 
 Omnifactory's multilingual support is expected to be available after v1.2.3. Therefore, translations cannot be applied in the current version (v1.2.2).
