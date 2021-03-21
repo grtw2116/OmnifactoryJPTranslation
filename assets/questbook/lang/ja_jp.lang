@@ -156,7 +156,7 @@ omnifactory.quest.db.30.desc=§6Silicon Dust§rと§6Steel Ingot§rから作ら�
 
 # db 31
 omnifactory.quest.db.31.title=Vibrant Capacitor Bank
-omnifactory.quest.db.31.desc=2つの§aAdvanced Capacitor Banks§r と§6Vibrant Crystal§rと§6Vibrant Alloy Plates§rでクラフトすることで§aVibrant Capacitor Bank§rを作ることができ、Advanced Bankの5倍、トータルではBasic Bankの25倍のRFを蓄えることができます。
+omnifactory.quest.db.31.desc=2つの§aAdvanced Capacitor Banks§r、§6Vibrant Crystal§rおよび§6Vibrant Alloy Plates§rでクラフトすることで§aVibrant Capacitor Bank§rを作成でき、Advanced Bankの5倍、トータルではBasic Bankの25倍のRFを蓄えることができます。
 
 # db 32
 omnifactory.quest.db.32.title=Advanced Capacitor Bank
@@ -252,14 +252,14 @@ omnifactory.quest.db.54.desc=が気味が悪いとき。これらを作るには
 
 # db 55
 omnifactory.quest.db.55.title=Centrifuge
-omnifactory.quest.db.55.desc=Note: this quest accepts an LV, MV or HV Centrifuge.%n%n§3Centrifuges§r provide you with 3 tiny piles of additional materials when processing ore dusts (§e9 tiny piles = 1 dust§r). Sometimes it's the main dust, but often it's a different useful material that is otherwise unobtainable.%n%nInstead of washing §6impure dusts§r (made from macerating or hammering ores) in a cauldron, you can get more out of each dust by centrifuging it. The same is true of §6pure dusts§r, when you eventually make a §3Washer§r or §3Chemical Bath§r. Note however that pure and impure dusts will usually give different byproducts (always check in §bJEI§r).%n%nCentrifuges also have other uses like unmixing compound dusts and fluids, or getting §6Rubber Pulp§r, which can be chemically reacted with §6Sulfur§r to efficiently make §9liquid Rubber§r.%n%n
+omnifactory.quest.db.55.desc=注：このクエストでは、LV、MV、HVのCentrifugeを受け付けます。%n%n§3Centrifuge§rで鉱石のDustを処理することで、Tiny Pile 3個を追加で入手できます（§eTiny Pile 9個 = Dust 1個§r）。ここで得られるDustは、元の鉱石と同じ種類の場合もありますが、他の方法では入手できないような有用な材料である場合が多いです。%n%nCauldronで§6Impure Dust§r（鉱石をMaceratorにかけるかHammerで叩くことで得られる）を洗浄する代わりに、Centrifugeで処理することで、各Dustから入手できる量が増加します。いずれ§3Washer§rあるいは§3Chemical Bath§rを作成する際にも、§6Pure Dust§rに対して同様のことが当てはまります。ただし、Pure DustとImpure Dustで得られる副産物はそれぞれ異なる場合が多いということに注意してください（常に§bJEI§rを確認してください）。%n%nCentrifugeには、混合物のDustや液体を分解したり、§6Sulfur§rとChemical Reactorで反応させることで§9液体のRubber§rを効率的に製造できるようになる§6Rubber Pulp§rを入手するなどといった、他の用途もあります。%n%n
 
 # db 56
 omnifactory.quest.db.56.title=すべてをまとめる
 omnifactory.quest.db.56.desc=機械を動かすための準備ができたので、すべてをまとめるタイミングがやってきました。%n%nSteam Dynamoを動かすには可燃性の燃料（例えば§6Coal§r）と§9Water§rが必要です。RF動力はExcitation Coil（上部の赤い部分）を通して供給されます。必要に応じて、§aCrescent Hammer§rでSteam Dynamoの向きを調整することができます。%n%n§6Energy Conduit§rは、RF動力を伝達するために使用することができますが、Excitation CoilをCEFに接触させることで、直接CEFにRFを出力することもできます。%n%nCEFは、RF動力をEUに変換し、赤いドットの面を通して得られたEUを出力します。§aWrench§rを使って向きを調整することができます。CEFの出力側には、§6Conductive Iron Cable§rを取り付けてください。%n%nこれで、他に必要なものは、Cableで繋がれた§bGregTech§r機械だけになりました！ どの機械を作っても問題ないですが、最初にこの２つを手に入れることをお勧めします:%n%nThe §6Wiremill§rがあれば、Wireを作るのがとても簡単になります。%n%n§6Compressor§rを使うと、１つのIngotからPlateが作れるようになります。
 
 # db 57
-omnifactory.quest.db.57.title=Ender Fluid Conduits
+omnifactory.quest.db.57.title=Ender Fluid Conduit
 omnifactory.quest.db.57.desc=§aEnder Fluid Conduit§rは、§bEnderIO§rが提供する中で最も強力な流体輸送メカニズムです。%n%n§aPressurized Fluid Conduit§rよりも高速であるのに加えて、流体を導管内で流すのではなくテレポートするため、一本の導管で多数の流体を移動させることが可能です。%n%nまた、§aFilter§rの他にも複数のチャンネルを持っており、同じ導管を通して様々な行き先に流体を輸送することができます。%n%n§bAE§rを介して流体をルーティングしたくない（もしくはまだ利用できない）場合は、これらが最良の代替手段となります。
 
 # db 58
@@ -276,7 +276,7 @@ omnifactory.quest.db.60.desc=§3Electric Blast Furnace§rは、あなたの§bGr
 
 # db 61
 omnifactory.quest.db.61.title=Gemstone Sensor
-omnifactory.quest.db.61.desc=Some Micro Miner missions use a §6Gemstone Sensor§r to scout out gems instead of ores.%n%nSeveral materials like §6Exquisite Gems§r can only be obtained from such missions.
+omnifactory.quest.db.61.desc=一部のMicro Minerの任務では、§6Gemstone Sensor§rを使用することで、鉱石の代わりに宝石を偵察するようになります。%n%n§6Exquisite Gem§rのような材料は、そのような任務からでしか入手できません。
 
 # db 62
 omnifactory.quest.db.62.title=Terminal
@@ -412,7 +412,7 @@ omnifactory.quest.db.94.desc=§9Sulfuric Acid§rは§6Sulfur§rと§9Water§rか
 
 # db 95
 omnifactory.quest.db.95.title=EthyleneとPolyethylene
-omnifactory.quest.db.95.desc=§9Ethylene§rは、§3Chemical Reactor§rで§9Ethanol§rを§9Sulfuric Acid§rで脱水して得られる炭化水素です。プラスチックの製造において非常に重要な化学物質です。%n%n§9Polyethylene§rは、§9Ethylene§rのポリマーから作られる最も一般的なプラスチックです。§3Chemical Reactor§rに§9Oxygen§rを追加すると、（現実に起こる反応とは異なりますが）Polyethyleneの初期の偶発的な合成が再現されます。%n%n§6Rutile§rと§6Bauxite§rが大量にある場合（おそらくMoonを訪れた後）、Polyethyleneの収率を向上させるための触媒として§9Titanium Tetrachloride§rを使用することを検討できます。今のところ、それは素晴らしいアイデアではありません。オーバーワールドでは希少であり、加えて§6Titanium§rの作成の際に必要となるからです。
+omnifactory.quest.db.95.desc=§9Ethylene§rは、§3Chemical Reactor§rで§9Ethanol§rを§9Sulfuric Acid§rで脱水して得られる炭化水素です。プラスチックの製造において非常に重要な化学物質です。%n%n§9Polyethylene§rは、§9Ethylene§rのポリマーから作られる最も一般的なプラスチックです。§3Chemical Reactor§rに§9Oxygen§rを追加すると、（現実に起こる反応とは異なりますが）Polyethyleneの初期の偶発的な合成が再現されます。%n%n§6Rutile§rと§6Bauxite§rが大量にある場合（おそらく月を訪れた後）、Polyethyleneの収率を向上させるための触媒として§9Titanium Tetrachloride§rを使用することを検討できます。今のところ、それは素晴らしいアイデアではありません。オーバーワールドでは希少であり、加えて§6Titanium§rの作成の際に必要となるからです。
 
 # db 96
 omnifactory.quest.db.96.title=Plastic Sheet
@@ -848,19 +848,19 @@ omnifactory.quest.db.203.desc=Marginally cheaper to make than §6Electronic Proc
 
 # db 204
 omnifactory.quest.db.204.title=Space Suit
-omnifactory.quest.db.204.desc=Making yourself a space suit is the most important step towards your space adventures.%n%nThis suit lets you breathe in space, which is kind of important.
+omnifactory.quest.db.204.desc=自分でSpace Suitを作ることは、宇宙の冒険に向けた最も重要なステップです。%n%nこのSuitによって、宇宙空間で呼吸できるようになります。
 
 # db 205
 omnifactory.quest.db.205.title=Suit Workstation
-omnifactory.quest.db.205.desc=The Suit Workstation is needed to install §6Low Pressure Tanks§r (or a larger tank if you like) onto your Space Suit Chest-Piece.%n%nOnce installed, you can stand on a §aGas Charging Pad§r to fill up the tanks with §9Oxygen§r. Of course, you'll need to fill the Gas Charging Pad with Oxygen first.
+omnifactory.quest.db.205.desc=Space Suitの胸部パーツに§6Low Pressure Tank§r（または必要に応じてより大きなTank）を取り付けるには、Suit Workstationが必要です。%n%n取り付けたら、§aGas Charging Pad§rの上に立ってTankを§9Oxygen§rで充填することができます。もちろん、最初にGas Charging PadにOxygenを充填する必要があります。
 
 # db 206
 omnifactory.quest.db.206.title=Advanced Component
-omnifactory.quest.db.206.desc=A common component used by §bExtended Crafting§r.
+omnifactory.quest.db.206.desc=§bExtended Crafting§rでよく用いられる中間素材です。
 
 # db 207
 omnifactory.quest.db.207.title=Advanced Catalyst
-omnifactory.quest.db.207.desc=Combine several components into a catalyst.
+omnifactory.quest.db.207.desc=いくつかの中間素材を組み合わせてCatalystを作成できます。
 
 # db 208
 omnifactory.quest.db.208.title=Launch PadとRocket Assembly Machine
@@ -868,27 +868,27 @@ omnifactory.quest.db.208.desc=ある時点で、例えば月といった宇宙�
 
 # db 209
 omnifactory.quest.db.209.title=Advanced Extended Crafting Table
-omnifactory.quest.db.209.desc=With the Extended Crafting Table, you can now craft 5x5 recipes.
+omnifactory.quest.db.209.desc=Extended Crafting Tableがあれば、5x5のレシピをクラフトできます。
 
 # db 210
-omnifactory.quest.db.210.title=Steel Heavy Plates
-omnifactory.quest.db.210.desc=Even simple rockets demand §6Heavy Plates§r for their construction. In this case, made out of §6Steel§r. This plate requires at least an §6MV Compressor§r.
+omnifactory.quest.db.210.title=Steel Heavy Plate
+omnifactory.quest.db.210.desc=単純なRobotでさえ、その構造には§6Heavy Plate§rが必要です。今回の場合は§6Steel§r製になります。このPlateには、少なくとも§6MV Compressor§rが必要です。
 
 # db 211
-omnifactory.quest.db.211.title=Flightplan To The Moon
-omnifactory.quest.db.211.desc=You'll need this to set the §aGuidance Computer's§r destination to the Moon (Luna).%n%nIn your assembled Rocket, press the Rocket GUI Hotkey (default is §eC§r but you may need to rebind it). Click the little square that says "Guidance Computer" to pull up the Guidance Computer inventory. Then, place the blank chip into the Guidance Computer. Back out of this menu (§eEsc§r or §eE§r) to get back to the main Rocket GUI.%n%nClick the §cSelect Dst§r button, choose Luna, and click the Select button to assign the destination to the chip.%n%n§eNote: if you want to return your rocket to Earth, you will need to change the destination in this manner again to Earth before launching.§r
+omnifactory.quest.db.211.title=月への飛行計画
+omnifactory.quest.db.211.desc=これは、§aGuidance Computer§rの宛先を月（Luna）に設定するために必要になります。%n%n組み立て済みのRocketで、Rocket GUIホットキーを押します（デフォルトは§eC§rですが、再設定する必要がある場合があります）。「Guidance Computer」と書かれた小さな四角をクリックして、Guidance Computerのインベントリを表示します。 次に、Blank ChipをGuidance Computerに配置します。このメニュー（§eEsc§rまたは§eE§r）を閉じて、メインのRocket GUIに戻ります。%n%n§cSelect Dst§rボタンをクリックし、Lunaを選択し、Selectボタンをクリックして、行き先をChipに割り当てます。%n%n§e注：Rocketを地球に戻したい場合は、発射する前に、この方法で目的地を再び地球に変更する必要があります。§r
 
 # db 212
-omnifactory.quest.db.212.title=Fuel Loading
-omnifactory.quest.db.212.desc=The §3Fueling Station§r is how rockets get fuel.%n%nFirst, put together your Rocket, then §aScan§r and §cBuild§r the Rocket in the §3Rocket Assembling Machine§r to assemble it (which turns it into an entity). Next, with the §aLinker§r in your hand, right-click the Fueling Station then the Rocket to link them together. %n%nYou'll get a confirmation message when you do it right, and a little line will appear between the fuel loader and the rocket.%n%nNow just get §9Rocket Fuel§r into the Fueling Station and it will transfer to the Rocket automatically.%n
+omnifactory.quest.db.212.title=燃料の搭載
+omnifactory.quest.db.212.desc=§3Fueling Station§rによって、Rocketに燃料が搭載されます。%n%nまず、Rocketを組み立ててから、§3Rocket Assembling Machine§rでRocketを「§aScan§r」して「§cBuild§r」することで、組み立てが行われます（これにより、Rocketがエンティティになります）。次に、§aLinker§rを手に持って、Fueling Stationを右クリックし、その後Rocketを右クリックして、これらをリンクさせます。%n%n正しく実行すると確認メッセージが表示され、燃料ローダーとRocketの間に小さな線が表示されます。%n%nこの状態で§9Rocket Fuel§rをFueling Stationに入れると、Rocketに自動的に転送されます。%n
 
 # db 213
 omnifactory.quest.db.213.title=Staff of Traveling
-omnifactory.quest.db.213.desc=Holding one of these reveals §aTravel Anchors§r and §aTelepads§r in range.%n%nShift + right-click after aiming to warp to one, or point it anywhere to teleport forward a short distance (works through walls).%n%nThese are powered with RF, and can be further enchanted through §bEnderIO§r's enchanting mechanics.%n%nThe §6Vibrant Crystal§r will require an §3Autoclave§r.
+omnifactory.quest.db.213.desc=これらのいずれかを手に持つと、範囲にある§aTravel Anchor§rと§aTelepad§rが表示されます。%n%nそれらのうち1つに視点を合わせてShift+右クリックするとその地点にワープし、また、任意の場所に合わせてShift+右クリックすることで少しの距離だけ前方にテレポートします（壁を通り抜けます）。%n%nこれらはRFで動作し、§bEnderIO§rのエンチャントのメカニズムによってさらにエンチャントすることができます。%n%n§6Vibrant Crystal§rには§3Autoclave§rが必要です。
 
 # db 214
 omnifactory.quest.db.214.title=Deuterium
-omnifactory.quest.db.214.desc=The Moon is a barren, lifeless rock... So why did you want to come here?%n%nOne major draw is that §6Moon Turf§r, which makes up the surface of the Moon, is an efficient means of obtaining §9Deuterium§r. It will be useful for producing §9Microversium§r, §9Tritium§r, plasmas from fusion, and crystallizing §6Dilithium§r.%n%nThere are also several ores that are rare on the Overworld but exist in abundance on the Moon. In particular, the Moon contains large quantities of §6Titanium§r (in the form of §6Rutile Ore§r and §6Ilmenite Ore§r) and §6Tungsten§r (in the form of §6Scheelite Ore§r and §6Tungstate Ore§r).%n%nMuch later you will also gain access to the §3Lunar Mining Station§r, which as the name suggests only works on the Moon.%n%n
+omnifactory.quest.db.214.desc=月は、不毛で活気のない岩石です……では、なぜここに来たかったのでしょうか？%n%n大きな魅力の1つは、月の表面を構成する§6Moon Turf§rが、§9Deuterium§rを取得する効率的な手段であるということです。§9Microversium§r、§9Tritium§r、核融合によるPlasmaの生成、§6Dilithium§rの結晶化に役立ちます。また、オーバーワールドでは希少なものの、月には豊富に存在するような鉱石がいくつかあります。特に、月には大量の§6Titanium§r（§6Rutile Ore§rと§6Ilmenite Ore§rの形で）と§6Tungsten§r（§6Scheelite Ore§rと§6Tungstate Ore§rの形で）が含まれています。%n%nずっと後に、§3Lunar Mining Station§rにもアクセスできるようになります。Lunar Mining Stationは、名前が示すように、月でのみ機能します。%n%n
 
 # db 215
 omnifactory.quest.db.215.title=Ender Pump and Ender Tanks
@@ -912,11 +912,11 @@ omnifactory.quest.db.219.desc=Scatter a few around your base, and you can warp t
 
 # db 220
 omnifactory.quest.db.220.title=Rocket Fuel
-omnifactory.quest.db.220.desc=Mix §9Oxygen§r and §91,1-Dimethylhydrazine§r together to make §9Rocket Fuel§r.%n%nAwesome!%n%nWhen you have stable sourcing for Nitrogen and Oxygen, you can make and use §9Dinitrogen Tetroxide§r in the recipe instead of Oxygen. It doubles the efficiency of your Hydrazine when making Rocket Fuel.
+omnifactory.quest.db.220.desc=§9Oxygen§rと§91,1-Dimethylhydrazine§rを混ぜ合わせて§9Rocket Fuel§rを作ります。%n%n  すばらしい！%n%nNitrogenとOxygenを安定して調達できる場合は、レシピでOxygenの代わりに§9Dinitrogen Tetroxide§rを作成して使用できます。Rocket Fuelを作る際のHydrazineの効率が2倍になります。
 
 # db 221
 omnifactory.quest.db.221.title=1,1-Dimethylhydrazine
-omnifactory.quest.db.221.desc=§9Dimethylamine§r and §9Chloramine§r combine together into §91,1-Dimethylhydrazine§r.
+omnifactory.quest.db.221.desc=§9Dimethylamine§rと§9Chloramine§rを反応させると§91,1-Dimethylhydrazine§rになります。
 
 # db 222
 omnifactory.quest.db.222.title=Dimethylamine
@@ -959,12 +959,12 @@ omnifactory.quest.db.231.title=Infiniter Water
 omnifactory.quest.db.231.desc=Endervoirs are blocks that generate water much faster than basic NuclearCraft infinite water sources.%n%nEndervoirs are multiblocks formed by at least three Endervoir blocks. You can right-click a block with a wrench to make it output into adjacent machines.%n%nThe maximum transfer rate of an Endervoir is one bucket per second.
 
 # db 232
-omnifactory.quest.db.232.title=Fly To The Moon
-omnifactory.quest.db.232.desc=With your Rocket built, fuel loaded, and destination set, it's time for the prelaunch checklist.%n%n- §eMake sure you're wearing your Space Suit§r (all four pieces) and that it has a full tank of Oxygen. If you plan to stay on the Moon a while, maybe bring a gas charging pad and Ender Tank (being filled with Oxygen) with you.%n%nTeleportation:%n%n- If you decided to go with §aDislocators§r, make sure you take two with you: one bound to the Overworld, the other ready to bind to the Moon. Also bring along a Pedestal to put the Overworld one on the Moon surface.%n%n- If you decided to go with §aTelepads§r, make sure you've constructed a Telepad in the Overworld and that you're carrying coordinates that lead to it. Make sure to bring your Coordinate Selector, blank Paper, and materials for the second Telepad setup. Bring Dew of the Void and RF power (like a §6Solar Panel§r and a §6Capacitor Bank§r).%n%nIn either case, as soon as you land you will need to prepare the other half of the teleportation route, and chunkload it.%n%nWhen you're sure you're prepared, sit in your rocket and press §eSpace§r.%n%nLiftoff!
+omnifactory.quest.db.232.title=月への飛行
+omnifactory.quest.db.232.desc=Rocketを組み立て、燃料を装填し、目的地を設定したら、打ち上げ前のチェックリストを確認する時間です。%n%n- §eSpace Suit（4個すべて）を着用し、Oxygenのタンクが満杯になっていることを確認します§r。月にしばらく滞在する予定がある場合は、Gas Charging PadとEnder Tank（Oxygenが充填されているもの）を持参してください。%n%nテレポーテーション：%n%n-§aDislocator§rを使用することにした場合は、必ず2つ持って行ってください。1つはオーバーワールドに紐付けし、もう1つは月に紐付けするように準備してください。また、Pedestalを持ってきて、月面にオーバーワールドを設置します。%n%n- §aTelepad§rを使用することにした場合は、オーバーワールドでTelepadを構築し、それにつながる座標を持っていることを確認してください。2番目のTelepadのセットアップ用に必要な素材と、Coordinate Selector、およびBlank Paperを必ず持参してください。Dew of the VoidとRF電力（§6Solar Panel§rや§6Capacitor Bank§rなど）を持参してください。%n%nどちらの場合も、着陸したらすぐにテレポートルートの残りの半分を準備し、チャンクロードする必要があります。%n%n準備ができたら、ロケットに座って§eSpace§rを押します。%n%n発進！
 
 # db 233
-omnifactory.quest.db.233.title=Explore Actually Additions
-omnifactory.quest.db.233.desc=There's a great deal of interesting content within §bActually Additions§r, and although most of it is not strictly required for progression, you should still look through what it offers and build what interests you.%n%nIn particular, the §aDrill§r with all the upgrades is a fantastically powerful mining tool, and the §3Vertical Digger§r is a machine which can be placed to automate mining an entire vein for you.%n%n§3Phantomfaces§r, §3Auto Placers/Breakers§r, §3Lava Factories§r, and much more can be utilized at your discretion to supplement and refine your automation techniques.
+omnifactory.quest.db.233.title=Actually Additionsを探検
+omnifactory.quest.db.233.desc=§bActually Additions§rには興味深いコンテンツがたくさんあります。そのほとんどは厳密には進行に必要なわけではありませんが、それでも提供される設備に目を通し、興味のあるものは構築しておくべきでしょう。%n%n特に、すべてのアップグレードを施した§aDrill§rは非常に強力な採掘ツールであり、§3Vertical Digger§rは、設置することで鉱脈全体の採掘を自動化する機械です。%n%n§3Phantomfaces§r、§3Auto Placers/Breakers§r、§3Lava Factories§rなどを自由に利用して、自動化技術を補完および改良することができます。
 
 # db 234
 omnifactory.quest.db.234.title=Barium
@@ -2208,11 +2208,11 @@ omnifactory.quest.db.543.desc=
 
 # db 544
 omnifactory.quest.db.544.title=Hardened Satchel
-omnifactory.quest.db.544.desc=Carry even more stuff.
+omnifactory.quest.db.544.desc=さらにたくさん運べます。
 
 # db 545
 omnifactory.quest.db.545.title=Reinforced Satchel
-omnifactory.quest.db.545.desc=Carry §oeven more§r stuff.
+omnifactory.quest.db.545.desc=§oさらにたくさん§r運べます。
 
 # db 546
 omnifactory.quest.db.546.title=I Dont Need No Stinkin' Tower
@@ -2351,8 +2351,8 @@ omnifactory.quest.db.579.title=Gap
 omnifactory.quest.db.579.desc=
 
 # db 580
-omnifactory.quest.db.580.title=Blast Furnaces Galore
-omnifactory.quest.db.580.desc=As you continue to progress, crafting times for more advanced §3Electric Blast Furnace§r recipes will continue to increase. More advanced coils do not give speed bonuses, they just increase the operating temperature so you can smelt more advanced materials.%n%nTo compensate, you'll need to get your infrastructure for smelting, as well as for power generation, up to snuff.%n%nYou don't need to get all eight of these completed and running just yet, but plan to at some point in the future. Instead of upgrading existing EBFs, have them passively automating a stock of materials and build new EBFs with higher specifications for new materials.%n%n
+omnifactory.quest.db.580.title=たくさんのBlast Furnace
+omnifactory.quest.db.580.desc=ゲームを進めていくにつれて、§3Electric Blast Furnace§rを使うような、より高度なレシピに要する時間は増加し続けます。より高度なCoilを使っても、動作温度が上がってより高度な材料を精錬することができるようになるだけで、速度ボーナスが与えられることはありません。%n%nこれを補うために、製錬と発電のインフラを最大限に活用する必要があります。%n%nいきなり8個すべてを稼働させる必要はありませんが、将来のあるタイミングで実行するべきでしょう。既存のEBFをアップグレードする代わりに、材料のストックを受動的に自動化し、新たなEBFをより高度な仕様で構築しましょう。%n%n
 
 # db 581
 omnifactory.quest.db.581.title=Gap
@@ -2780,7 +2780,7 @@ omnifactory.quest.db.686.desc=There's no rush to get these all done and leveled 
 
 # db 687
 omnifactory.quest.db.687.title=無限水源
-omnifactory.quest.db.687.desc=§3Steam Dynamo§fに水を手作業で補給するのは馬鹿げた考えです。%n%nゆっくりとしたものになりますが、§6Infinite Water Source§fにその代わりをやらせてあげましょう。
+omnifactory.quest.db.687.desc=§3Steam Dynamo§fに手作業で水を補給するのは馬鹿げたアイデアです。%n%nゆっくりとしたものになりますが、§6Infinite Water Source§fにその代わりをやらせてあげましょう。
 
 # db 688
 omnifactory.quest.db.688.title=Hellish Matter
@@ -2940,11 +2940,11 @@ omnifactory.quest.db.726.desc=
 
 # db 727
 omnifactory.quest.db.727.title=副産物のための鉱石処理
-omnifactory.quest.db.727.desc=確かに、Modpackを最初に始めたとき、鉱石の倍増化はまだしなくてもよいと言いました……しかし、§e副産物§rを得るために基本的な鉱石処理を始める必要があるでしょう。%n%n副産物は、特定の機械で鉱石を処理することによってのみ得られる追加の素材です。たとえば、「Gallium Ore」という鉱石はありません。他の鉱石を処理することからの副産物として§6Gallium§rを手に入れることになります。%n%n鉱石にはさまざまな処理手段があり、最終的には機械パイプラインを使用して特定の方法で鉱石を処理し、得られる副産物を最適化することになります。JEIをチェックすることで、各鉱石を得るのに必要な処理経路を見つけられます（Small PileやTiny Pileとして得られる場合についても常に目を通してください）。%n%n関連するマシンは次のとおりです：%n %n- §3Macerator§r：鉱石を§6Crushed Ore§rに、Crushed Oreを§6Impure Dust§rに、§6Purified Crushed Ore§rを§6Pure Dust§rに加工します。Maceratorの上位Tierには副産物スロットがあり、OreやCrushed Ore、Purified Crushed Oreを処理した際にある確率で副産物を得られます。%n%n- §3Washer§r：Crushed Oreを§9Water§rで洗浄することでPurified Crushed Ore§rが得られ、さらに副産物として3種類のTiny Pileが確実に入手できます。§9Distilled Water§rを使用すると、処理がより速く進行します。これは、CauldronにDustを投げ込む方法に対する上位互換となります。%n%n- §3Chemical Bath§r：Washerに似ていますが、化学薬品を使用してCrushed Oreを精製します。多くの場合、ある確率で、Washerによって入手できるものとは異なる副産物を得られます。%n%n- §3§3Centrifuge§r：PureまたはImpure Dustを最終的な素材に遠心分離し、さらに副産物として3種類のTiny Pileが確実に入手できます。%n%n- §3Electrolyzer§r：電力を使用して化合物を個々の元素に分解し、またその過程で有用な副産物を得ることがあります。%n%n§3Thermal Centrifuge§r（通常のCentrifugeとは異なります）は鉱石処理の代替手段として使用できますが、§b非常に遅く、莫大な電力を消費します§r。LV版は存在せず、主に§bNuclearCraft§rのFission Fuelを入手するために使用します。%n%n副産物を得るためにまず最初に手を出すことになるのは、ElectrolyzerとCentrifugeでしょう。%n
+omnifactory.quest.db.727.desc=確かに、Modpackを最初に始めたとき、鉱石倍化はまだしなくてもよいと言いました……しかし、§e副産物§rを得るために基本的な鉱石処理を始める必要があるでしょう。%n%n副産物は、特定の機械で鉱石を処理することによってのみ得られる追加の素材です。たとえば、「Gallium Ore」という鉱石はありません。他の鉱石を処理する際の副産物として§6Gallium§rを手に入れることになります。%n%n鉱石にはさまざまな処理手段があり、最終的には機械パイプラインを使用して特定の方法で鉱石を処理し、得られる副産物を最適化することになります。JEIをチェックすることで、各鉱石を得るのに必要な処理経路を見つけられます（Small PileやTiny Pileとして得られる場合についても常に目を通してください）。%n%n関連する機械は次のとおりです：%n %n- §3Macerator§r：鉱石を§6Crushed Ore§rに、Crushed Oreを§6Impure Dust§rに、§6Purified Crushed Ore§rを§6Pure Dust§rに加工します。Maceratorの上位Tierには副産物スロットがあり、OreやCrushed Ore、Purified Crushed Oreを処理した際にある確率で副産物を得られます。%n%n- §3Washer§r：Crushed Oreを§9Water§rで洗浄することでPurified Crushed Ore§rが得られ、さらに副産物として3種類のTiny Pileが確実に入手できます。§9Distilled Water§rを使用すると、処理がより速く進行します。これは、CauldronにDustを投げ込む方法に対する上位互換となります。%n%n- §3Chemical Bath§r：Washerに似ていますが、化学薬品を使用してCrushed Oreを精製します。多くの場合、ある確率で、Washerで得られるものとは異なる副産物を得られます。%n%n- §3§3Centrifuge§r：PureまたはImpure Dustを最終的な素材に遠心分離し、さらに副産物として3種類のTiny Pileが確実に入手できます。%n%n- §3Electrolyzer§r：電力を使用して化合物を個々の元素に分解し、またその過程で有用な副産物を得ることがあります。%n%n§3Thermal Centrifuge§r（通常のCentrifugeとは異なります）は鉱石処理の代替手段として使用できますが、§b非常に遅く、莫大な電力を消費します§r。LV版は存在せず、主に§bNuclearCraft§rのFission Fuelを入手するために使用します。%n%n副産物を得るためにまず最初に手を出すことになるのは、ElectrolyzerとCentrifugeでしょう。%n
 
 # db 728
 omnifactory.quest.db.728.title=Resonant Clathrate
-omnifactory.quest.db.728.desc=§6Uraninite Ore§rは§6Pulsating Dust§rの最初の入手源ですが、長期的な視点で見るとあまり効率がいいとは言えません。代わりのPulsating Dustの入手源として、無限に再生可能でより効率的な§6Resonant Clathrate§rを作成するべきです。%n%nResonant Clathrateは、§6Ender Pearl§rを§3Fluid Extractor§rで溶かして§9Resonant Ender§rへ加工し、MV以上の§3Chemical Reactor§rで§6Nether Quartz§rと混合することによって作られます。 このClathrateを製錬すると、Pulsating Dustを入手できます。%n%nこれでResonant Clathrateにアクセスできるようになったため、§6Pulsating Polymer Clay§rの作成に必要な全過程を自動化できます。そうすることで、今後のModpackにおける重要な素材の主要な入手源である§bDeep Mob Learning§rの自動化に恩恵をもたらします。%n%n実際にどう実装するかはあなた次第です。お持ちのさまざまなLVおよびMV機械を活用しながら、各素材を無限に入手できる方法を§bJEI§rで調べてみてください（例えば、§aEnderman Model§rはPearlの無限入手源です）。%n%n
+omnifactory.quest.db.728.desc=§6Uraninite Ore§rは§6Pulsating Dust§rの最初の入手源ですが、長期的な視点で見るとあまり効率がいいとは言えません。Pulsating Dustの代替入手源として、無限に再生可能でより効率的な§6Resonant Clathrate§rを作成するべきです。%n%nResonant Clathrateは、§6Ender Pearl§rを§3Fluid Extractor§rで溶かして§9Resonant Ender§rへ加工し、MV以上の§3Chemical Reactor§rで§6Nether Quartz§rと混合することによって作られます。このClathrateを製錬すると、Pulsating Dustを入手できます。%n%nこれでResonant Clathrateにアクセスできるようになったため、§6Pulsating Polymer Clay§rの作成に必要な全過程を自動化できます。そうすることで、今後のModpackにおける重要な素材の主要な入手源である§bDeep Mob Learning§rの自動化に恩恵をもたらします。%n%n実際にどう実装するかはあなた次第です。お持ちのさまざまなLVおよびMV機械を活用しながら、各素材を無限に入手できる方法を§bJEI§rで調べてみてください（例えば、§aEnderman Model§rはPearlの無限入手源です）。%n%n
 
 # db 729
 omnifactory.quest.db.729.title=Fluid Interface
@@ -2956,11 +2956,11 @@ omnifactory.quest.db.730.desc=流体の操作は少し注意が必要です。�
 
 # db 731
 omnifactory.quest.db.731.title=流体ロジスティクス
-omnifactory.quest.db.731.desc=§3Chemical Reactor§rを使うとさまざまな流体が生成されます。自動化しようと考えているすべての流体に対し、それらをルーティングし貯蓄するためのロジスティクスを管理する必要があります。%n%nChemical Reactorが生成した化学物質を出力したい機械へと直接出力することで、追加のストレージとルーティングを把握する必要がなくなります。§aFluid Filter§rと§aPump cover§rは、コンパクトな処理パイプラインにおいて流体を移動させるのに非常に便利です。%n%nしかし、工程の最後で得られた流体が他の場所で必要になったときはどうすればいいでしょうか？%n%n1つの選択肢は、Chemical Reactorの出力タンクを小さな貯蔵バッファとして使用し、液体をバックアップして、自動的にクラフトを停止させることです。§aFluid Storage Bus§rを機械に取り付けると、機械内部の流体がMEネットワークに認識されます。この流体の一部が必要なとき、AE2システムが必要な流体を引き出すことで、機械が処理を再開します。%n%nただし、このアプローチにはいくつかの問題があります。まず、アクセスできない入力タンクもAEに表示されますが、アクセスすることはできません。AEがChemical Reactorにランダムな液体をセットしようとしないように、Storage Busを§eExport Only§rに設定する必要があります。また、Storage Busの§e優先度を下げる§r必要があります：その場所から優先的に流体を除去するようにAEに指示することになります。また、複数の流体が生成された場合、§eすべての流体を出力するためのスペースがないと、機械は処理を再開できません§r。%n%nそれらにアクセスできる場合は、1種類の流体でフォーマットされた§aFluid Storage Cell§rを使用し、得られた液体をFluid Interfaceを通してAEに移動させる方法がおそらく良いでしょう。Cellを満杯にしてから、必要な場所に液体を引き出すことができます。%n%n
+omnifactory.quest.db.731.desc=§3Chemical Reactor§rを使うとさまざまな流体が生成されます。自動化しようと考えているすべての流体に対し、それらをルーティングし貯蓄するためのロジスティクスを管理する必要があります。%n%nChemical Reactorが生成した化学物質を出力したい機械に直接出力することで、追加のストレージとルーティングを把握する必要がなくなります。§aFluid Filter§rと§aPump cover§rは、コンパクトな処理パイプラインにおいて流体を移動させるのに非常に便利です。%n%nしかし、工程の最後で得られた流体が他の場所で必要になったときはどうすればいいでしょうか？%n%n1つの選択肢は、Chemical Reactorの出力タンクを小さな貯蔵バッファとして使用し、液体をバックアップして、自動的にクラフトを停止させることです。§aFluid Storage Bus§rを機械に取り付けると、機械内部の流体がMEネットワークに認識されます。この流体の一部が必要なとき、AE2システムが必要な流体を引き出すことで、機械が処理を再開します。%n%nただし、このアプローチにはいくつかの問題があります。まず、アクセスできない入力タンクもAEに表示されますが、アクセスすることはできません。AEがChemical Reactorにランダムな液体をセットしようとしないように、Storage Busを§eExport Only§rに設定する必要があります。また、Storage Busの§e優先度を下げる§r必要があります：その場所から優先的に流体を除去するようにAEに指示することになります。また、複数の流体が生成された場合、§eすべての流体を出力するためのスペースがないと、機械は処理を再開できません§r。%n%nそれらにアクセスできる場合は、1種類の流体でフォーマットされた§aFluid Storage Cell§rを使用し、得られた液体をFluid Interfaceを通してAEに移動させる方法がおそらく良いでしょう。Cellを満杯にしてから、必要な場所に液体を引き出すことができます。%n%n
 
 # db 732
 omnifactory.quest.db.732.title=Hard Carbon Alloy
-omnifactory.quest.db.732.desc=§6Hard Carbon Alloy§r is an alloy made from §6Graphite§r and §6Diamonds§r.%n%nGraphite is an important ingredient for §bNuclearCraft§r and is found principally as a byproduct of processing §6Diamond Ore§r. §6Graphite Ore§r spawns alongside Diamond Ore, but unlike Diamond Ore it is not renewable through automation (though it can be purchased using §dOmnicoins§r).
+omnifactory.quest.db.732.desc=§6Hard Carbon Alloy§rは、§6Graphite§rと§6Diamonds§rを原料として作られるインゴットです。%n%nGraphiteは§bNuclearCraft§rにおける重要な素材で、主に§6Diamond Ore§rを処理したときの副産物として入手できます。§6Graphite Ore§rはDiamond Oreの周辺に生成されますが、Diamond Oreとは異なり、自動化を通した再生利用ができません（ただし、§dOmnicoins§rを使用して購入できます）
 
 # db 733
 omnifactory.quest.db.733.title=Draconic Evolution Information Tablet
@@ -3048,19 +3048,19 @@ omnifactory.quest.db.753.desc=Carry the most stuff.%n%nIf you need more space th
 
 # db 754
 omnifactory.quest.db.754.title=Telepad
-omnifactory.quest.db.754.desc=Before you travel to the Moon, you'll want to set up a way to easily return.%n%nLay out nine of the §6Telepad Blocks§r in a 3x3 pattern. They should turn into a multiblock. While having some §6Paper§r in your inventory, use the §aCoordinate Selector§r to create a §6Location Printout§r of an area near the Telepad. Keep track of this Printout and make sure to bring it with you to the Moon!%n%nMake sure the Telepad on the Overworld is ready to go. It needs power, a tank of §9Dew of the Void§r, and the chunk it's in needs to be §eChunkloaded§r. Bring the other nine Telepad Blocks with you when you go to the Moon, and once there, set up a similar layout. The one on the Moon will also need power, Dew of the Void and its chunk loaded. Consider making a solar panel and a capacitor bank to keep it powered.%n%nOnce your Moon Telepad is up and running, put your Overworld coordinates into it. Then record your current location on the Moon with the Coordinate Selector. Teleport home, and put those coordinates into the Overworld Telepad. Now you can travel back and forth easily!%n%nYou might consider building a room dedicated to Telepad transit, both on the Overworld and to other Planets, and label them. You'll be visiting many other worlds soon enough.
+omnifactory.quest.db.754.desc=月に旅行する前に、簡単に帰還する手段をセットアップする必要があります。%n%n9つの§6Telepad Block§rを3x3パターンでレイアウトします。それらはマルチブロックに変わるはずです。インベントリに§6Paper§rが入っているときに、§aCoordinate Selector§rを使用して、Telepad付近のエリアの§6Location Printout§rを作成します。このPrintoutを記録し、月に持っていくようにしてください！%n%nオーバーワールドのTelepadの準備ができていることを確認してください。動力と§9Dew of the Void§rのタンクが必要であり、その中にあるチャンクは§eチャンクロードされる§r必要があります。月に行くときは、オーバーワールドとは別の9つのTelepad Blockを所持しておき、着陸したら、同様のレイアウトを設定します。月側のTelepadにも、動力、Dew of the Void、およびチャンクロードが必要です。Solar PanelとCapacitor Bankを作成して、動力を供給し続けることを検討してください。%n%n月側のTelepadが起動して実行されたら、オーバーワールドの座標をその中に入れます。次に、Coordinate Selectorを使用して、月の現在地を記録します。ホームにテレポートし、それらの座標をオーバーワールド側のTelepadに入れます。これで、簡単に行き来することができるようになります！%n%nオーバーワールドと他の惑星の両方にTelepadによる移動専用の部屋を建設し、それらにラベルを付けることを検討してください。あなたはすぐに他の多くの世界を訪れることになるでしょう。
 
 # db 755
 omnifactory.quest.db.755.title=Inspector Gadget
 omnifactory.quest.db.755.desc=This pack has §bBuilding Gadgets§r.%n%nThese devices can help you build, swap blocks, destroy massive areas, or even copy-paste regions. You need the blocks you plan to paste in your inventory though; it doesn't make them from nothing.%n%nAlso important to note that it won't work with TileEntities, so it pretty much only works with simple blocks (not stuff like machines).%n%nBy default, the config GUI is bound to §6G§r.
 
 # db 756
-omnifactory.quest.db.756.title=I Don't Like Chemistry
-omnifactory.quest.db.756.desc=...or, well, you might just do some exploration and kill a wild thermal elemental for a rod.%n%nUse it to craft a §aThermal Elemental Model§r. The rest of the dusts can be crafted from pristine matter.%n%nSaves you from having to make a bucket of §9Elemental Reduction Fluid§r if you're not playing on Peaceful.
+omnifactory.quest.db.756.title=私は化学が嫌いだ
+omnifactory.quest.db.756.desc=…または、まあ、ワールドを探索して、野生のThermal Elementalを倒してRodを得るのもいいでしょう。%n%nこれを使用して、§aThermal Elemental Model§rを作成します。残りのDustは、Pristine Matterからクラフトできます。%n%nピースフルでプレイしていない場合は、§9Elemental Reduction Fluid§rを作成する必要がなくなります。
 
 # db 757
-omnifactory.quest.db.757.title=The End...?
-omnifactory.quest.db.757.desc=You may have noticed that The End portals in Strongholds are disabled.%n%nThe only way to access The End is to... §ebake a cake§r. You can refill it with §6Eyes of Ender§r.%n%nPrepare some gear, eat a slice, and get ready for a fight!
+omnifactory.quest.db.757.title=ジ・エンド…？
+omnifactory.quest.db.757.desc=要塞のエンドポータルが無効になっていることに気付いたかもしれません。%n%nジ・エンドにアクセスする唯一の方法は…§eケーキを焼くことです§r。§6Eyes of Ender§rで補充できます。%n%n装備を用意し、一欠片だけ食べて、戦いに備えてください！
 
 # db 758
 omnifactory.quest.db.758.title=Egg Thief
@@ -3068,7 +3068,7 @@ omnifactory.quest.db.758.desc=Find a clever way to make the Ender Dragon's Egg t
 
 # db 759
 omnifactory.quest.db.759.title=Fire Water
-omnifactory.quest.db.759.desc=§9Fire Water§r is a great way of producing §6Grains of Infinity§r. Spill a bucket over a patch of bare bedrock and watch it drop grains every so often. There's a 2%% chance per random tick for one to be generated on each block of bedrock the Fire Water is flowing on.%n%nMake sure to chunkload the area.
+omnifactory.quest.db.759.desc=§9Fire Water§rは、§6Grains of Infinity§rを生産するための、より優れた手段です。バケツ数杯分を岩盤の上に流して、Grainがときどきドロップされる様子を眺めてみましょう。There's a 2%% chance per random tick for one to be generated on each block of bedrock the Fire Water is flowing on.%n%nMake sure to chunkload the area.
 
 # db 760
 omnifactory.quest.db.760.title=The Outer Islands
@@ -3151,7 +3151,7 @@ omnifactory.quest.db.779.title=無限Cobblestone
 omnifactory.quest.db.779.desc=§6Steel§6§rを入手したので、無限Cobblestoneへの道が開けました！§6Cobblestone Generator§rは、Cobblestoneを隣接するインベントリに継続的に出力し、アップグレードしてさらに高速に生産することができます。%n%n丸石は多くの有用な材料に加工することができます：%n%n§6Gravel§rはconduitや§9Concrete§rを作成するのに便利です。%n%n§6Sand§rは§6Glass§rに便利で、Glassは§6Nether Quartz§rに加工できます。%n%n最後に、§6Dust§rは§6Clay§rに変えることができます。これは、§6Aluminium§rの信頼できる供給源であり、§bDeep Mob Learning§rを自動化するために非常に重要です。%n%nすぐに§eCobbleworks§rを設置して、これらすべての有用な材料を備蓄できるようにしてください。%n
 
 # db 780
-omnifactory.quest.db.780.title=To the Nether
+omnifactory.quest.db.780.title=ネザーへ
 omnifactory.quest.db.780.desc=Once you have obtained your§e §rfi§rrst §rpiece of §6Hellish Matter§6§r, travel to the §r§eNether§r becomes available.%n%nIt is not required to travel to the nether for any reason in this pack, although you may find it an easy source of §6Glowstone§r, §6Soul Sand§r, and your initial pieces of §6Sulfur§r before you make a §eBlaze Model§r from §c§bDeep Mob Learning§r.
 
 # db 781

@@ -1208,7 +1208,7 @@ omnifactory.quest.db.293.desc=The culmination of so much effort.%n%n§6Chaotic C
 
 # db 294
 omnifactory.quest.db.294.title=Empowered Restonia Gear
-omnifactory.quest.db.294.desc=A gear forged from §6Empowered Restonia Crystal§r.%n%nWhile you can empower gears directly, it makes much more sense to solidify them.
+omnifactory.quest.db.294.desc=A gear forged from §6Empowered Restonia Crystal§r.%n%nMade from fluid solidification.
 
 # db 295
 omnifactory.quest.db.295.title=Basic Fusion Injectors
@@ -1312,15 +1312,15 @@ omnifactory.quest.db.319.desc=You'll need large quantities of §6Canola§f (for 
 
 # db 320
 omnifactory.quest.db.320.title=Empowered Void Gear
-omnifactory.quest.db.320.desc=A gear forged from §6Empowered Void Crystal§r.%n%nWhile you can empower gears directly, it makes much more sense to solidify them.
+omnifactory.quest.db.320.desc=A gear forged from §6Empowered Void Crystal§r.%n%nMade from fluid solidification.
 
 # db 321
 omnifactory.quest.db.321.title=Empowered Palis Gear
-omnifactory.quest.db.321.desc=A gear forged from §6Empowered Palis Crystal§r.%n%nWhile you can empower gears directly, it makes much more sense to solidify them.
+omnifactory.quest.db.321.desc=A gear forged from §6Empowered Palis Crystal§r.%n%nMade from fluid solidification.
 
 # db 322
 omnifactory.quest.db.322.title=Empowered Emeradic Gear
-omnifactory.quest.db.322.desc=A gear forged from §6Empowered Emeradic Crystal§r.%n%nWhile you can empower gears directly, it makes much more sense to solidify them.
+omnifactory.quest.db.322.desc=A gear forged from §6Empowered Emeradic Crystal§r.%n%nMade from fluid solidification.
 
 # db 323
 omnifactory.quest.db.323.title=Naquadah Ingots
@@ -1448,7 +1448,7 @@ omnifactory.quest.db.353.desc=The §aHang Glider§f is a great way to cross long
 
 # db 354
 omnifactory.quest.db.354.title=Empowered Enori Gear
-omnifactory.quest.db.354.desc=A gear forged from §6Empowered Enori Crystal§r.%n%nWhile you can empower gears directly, it makes much more sense to solidify them.
+omnifactory.quest.db.354.desc=A gear forged from §6Empowered Enori Crystal§r.%n%nMade from fluid solidification.
 
 # db 355
 omnifactory.quest.db.355.title=Eternal Catalyst
@@ -3140,7 +3140,7 @@ omnifactory.quest.db.776.desc=§6Awakened Cores§6§r are the third tier of §bD
 
 # db 777
 omnifactory.quest.db.777.title=Empowered Diamantine Gear
-omnifactory.quest.db.777.desc=A gear forged from §6Empowered Diamantine Crystal§6§r.%n%n§rWhile you can empower gears directly, it makes much more sense to solidify them.
+omnifactory.quest.db.777.desc=A gear forged from §6Empowered Diamantine Crystal§6§r.%n%nMade from fluid solidification.
 
 # db 778
 omnifactory.quest.db.778.title=Power Storage on a Massive Level
